@@ -1,0 +1,750 @@
+quia/SCONJ materia/NOUN id/PRON quod/PRON est/AUX ,/PUNCT in/ADP potentia/NOUN est/VERB ./PUNCT 
+item/ADV ./PUNCT 
+materia/NOUN non/ADV est/AUX agendi/VERB principium/NOUN :/PUNCT 
+unde/ADV efficiens/VERB et/CCONJ materia/NOUN in/ADP idem/PRON non/ADV incidunt/VERB ,/PUNCT secundum/ADP philosophum/NOUN ./PUNCT 
+deo/PROPN autem/CCONJ convenit/VERB esse/AUX primam/ADJ causam/NOUN effectivam/ADJ rerum/NOUN ,/PUNCT ut/SCONJ supra/ADP dictum/VERB est/AUX ./PUNCT 
+ipse/PRON igitur/ADV materia/NOUN non/ADV est/AUX ./PUNCT 
+amplius/ADJ ./PUNCT 
+sequitur/VERB res/NOUN naturales/ADJ casu/NOUN existere/VERB his/PRON qui/PRON omnia/DET in/ADP materiam/NOUN reducebant/VERB sicut/SCONJ in/ADP causam/NOUN primam/ADJ :/PUNCT 
+contra/ADP quos/PRON agitur/VERB in/ADP ii/NUM physicorum/NOUN ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN ,/PUNCT qui/PRON est/AUX prima/ADJ causa/NOUN ,/PUNCT sit/AUX causa/NOUN materialis/ADJ rerum/NOUN ,/PUNCT sequitur/VERB omnia/DET a/ADP casu/NOUN existere/VERB ./PUNCT 
+item/ADV ./PUNCT 
+materia/NOUN non/ADV fit/AUX causa/NOUN alicuius/PRON in/ADP actu/NOUN nisi/SCONJ secundum/ADP quod/SCONJ alteratur/VERB et/CCONJ mutatur/VERB ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN est/AUX immobilis/ADJ ,/PUNCT ut/SCONJ probatum/VERB est/AUX ,/PUNCT nullo/PRON modo/NOUN potest/VERB esse/AUX rerum/NOUN causa/NOUN per/ADP modum/NOUN materiae/NOUN ./PUNCT 
+hanc/PRON autem/CCONJ veritatem/NOUN fides/NOUN catholica/ADJ confitetur/VERB ,/PUNCT qua/PRON deum/PROPN non/ADV de/ADP sua/DET substantia/NOUN ,/PUNCT sed/CCONJ de/ADP nihilo/PRON asserit/VERB cuncta/DET creasse/VERB ./PUNCT 
+in/ADP hoc/PRON autem/CCONJ insania/NOUN david/PROPN de/ADP dinando/PROPN confunditur/VERB ,/PUNCT qui/PRON ausus/VERB est/AUX dicere/VERB deum/PROPN esse/AUX idem/PRON quod/SCONJ prima/ADJ materia/NOUN ,/PUNCT ex/ADP hoc/PRON quod/SCONJ ,/PUNCT si/SCONJ non/ADV esset/AUX idem/PRON ,/PUNCT oporteret/VERB differre/VERB ea/PRON aliquibus/PRON differentiis/NOUN ,/PUNCT et/CCONJ sic/ADV non/ADV essent/AUX simplicia/ADJ ;/PUNCT 
+nam/ADV in/ADP eo/PRON quod/PRON per/ADP differentiam/NOUN ab/ADP alio/PRON differt/VERB ,/PUNCT ipsa/PRON differentia/NOUN compositionem/NOUN facit/VERB ./PUNCT 
+hoc/PRON autem/CCONJ processit/VERB ex/ADP ignorantia/NOUN qua/PRON nescivit/VERB quid/PRON inter/ADP differentiam/NOUN et/CCONJ diversitatem/NOUN intersit/VERB ./PUNCT 
+differens/VERB enim/ADV ,/PUNCT ut/SCONJ in/ADP x/NUM metaph./X determinatur/VERB ,/PUNCT dicitur/VERB ad/ADP aliquid/PRON ,/PUNCT nam/ADV omne/DET differens/VERB aliquo/PRON est/AUX differens/VERB :/PUNCT 
+diversum/ADJ autem/CCONJ aliquid/PRON absolute/ADJ dicitur/AUX ,/PUNCT ex/ADP hoc/PRON quod/SCONJ non/ADV est/AUX idem/PRON ./PUNCT 
+differentia/NOUN igitur/ADV in/ADP his/PRON quaerenda/VERB est/VERB quae/PRON in/ADP aliquo/PRON conveniunt/VERB :/PUNCT 
+oportet/VERB enim/ADV aliquid/PRON in/ADP eis/PRON assignari/VERB secundum/ADP quod/SCONJ differant/VERB ;/PUNCT 
+sicut/SCONJ duae/NUM species/NOUN conveniunt/VERB in/ADP genere/NOUN ,/PUNCT unde/ADV oportet/VERB quod/SCONJ differentiis/NOUN distinguantur/VERB ./PUNCT 
+in/ADP his/PRON autem/CCONJ quae/PRON in/ADP nullo/PRON conveniunt/VERB ,/PUNCT non/ADV est/VERB quaerendum/VERB quo/PRON differant/VERB ,/PUNCT sed/CCONJ seipsis/PRON diversa/ADJ sunt/AUX ./PUNCT 
+sic/ADV enim/ADV et/CCONJ oppositae/VERB differentiae/NOUN ab/ADP invicem/ADV distinguuntur/VERB :/PUNCT 
+non/ADV enim/ADV participant/VERB genus/NOUN quasi/ADV partem/NOUN suae/DET essentiae/NOUN :/PUNCT 
+et/CCONJ ideo/ADV non/ADV est/VERB quaerendum/VERB quibus/PRON differant/VERB ,/PUNCT seipsis/PRON enim/ADV diversa/ADJ sunt/AUX ./PUNCT 
+sic/ADV etiam/ADV deus/PROPN et/CCONJ materia/NOUN prima/ADJ distinguuntur/VERB ,/PUNCT quorum/PRON unus/NUM est/AUX actus/NOUN purus/ADJ ,/PUNCT aliud/PRON potentia/NOUN pura/ADJ ,/PUNCT in/ADP nullo/PRON convenientiam/NOUN habentes/VERB ./PUNCT 
+quod/SCONJ in/ADP deo/PROPN nulla/PRON est/VERB compositio/NOUN ./PUNCT 
+ex/ADP praemissis/VERB autem/CCONJ concludi/VERB potest/VERB quod/SCONJ in/ADP deo/PROPN nulla/PRON sit/VERB compositio/NOUN ./PUNCT 
+nam/ADV in/ADP omni/DET composito/NOUN oportet/VERB esse/VERB actum/NOUN et/CCONJ potentiam/NOUN ./PUNCT 
+non/ADV enim/ADV plura/ADJ possunt/VERB simpliciter/ADJ unum/NUM fieri/AUX nisi/SCONJ aliquid/PRON sit/AUX ibi/ADV actus/NOUN ,/PUNCT et/CCONJ aliud/PRON potentia/NOUN ./PUNCT 
+quae/PRON enim/ADV actu/NOUN sunt/VERB ,/PUNCT non/ADV uniuntur/VERB nisi/SCONJ quasi/ADV colligata/VERB vel/CCONJ congregata/VERB ,/PUNCT quae/PRON non/ADV sunt/AUX unum/NUM simpliciter/ADJ ./PUNCT 
+in/ADP quibus/PRON etiam/ADV ipsae/PRON partes/NOUN congregatae/VERB sunt/AUX sicut/SCONJ potentia/NOUN respectu/NOUN unionis/VERB :/PUNCT 
+sunt/AUX enim/ADV unitae/VERB in/ADP actu/NOUN postquam/SCONJ fuerint/AUX in/ADP potentia/NOUN unibiles/ADJ ./PUNCT 
+in/ADP deo/PROPN autem/CCONJ nulla/PRON est/VERB potentia/NOUN ./PUNCT 
+non/ADV est/VERB igitur/ADV in/ADP eo/PRON aliqua/PRON compositio/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+omne/DET compositum/NOUN posterius/ADJ est/AUX suis/DET componentibus/VERB ./PUNCT 
+primum/ADJ ergo/ADV ens/NOUN ,/PUNCT quod/PRON deus/PROPN est/AUX ,/PUNCT ex/ADP nullis/PRON compositum/VERB est/AUX ./PUNCT 
+adhuc/ADV ./PUNCT 
+omne/DET compositum/NOUN est/AUX potentia/NOUN dissolubile/ADJ ,/PUNCT quantum/ADV est/VERB ex/ADP ratione/NOUN compositionis/NOUN :/PUNCT licet/SCONJ in/ADP quibusdam/PRON sit/VERB aliquid/PRON aliud/PRON dissolutioni/NOUN repugnans/VERB ./PUNCT 
+quod/PRON autem/CCONJ est/AUX dissolubile/ADJ ,/PUNCT est/VERB in/ADP potentia/NOUN ad/ADP non/ADV esse/VERB ./PUNCT 
+quod/PRON deo/PROPN non/ADV competit/VERB :/PUNCT cum/SCONJ sit/VERB per/ADP se/PRON necesse-esse/VERB ./PUNCT 
+non/ADV est/VERB igitur/ADV in/ADP eo/PRON aliqua/PRON compositio/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+omnis/DET compositio/NOUN indiget/VERB aliquo/PRON componente/VERB :/PUNCT 
+si/SCONJ enim/ADV compositio/NOUN est/VERB ,/PUNCT ex/ADP pluribus/ADJ est/VERB ;/PUNCT 
+quae/PRON autem/CCONJ secundum/ADP se/PRON sunt/AUX plura/ADJ ,/PUNCT in/ADP unum/NUM non/ADV convenirent/VERB nisi/SCONJ ab/ADP aliquo/PRON componente/VERB unirentur/VERB ./PUNCT 
+si/SCONJ igitur/ADV compositus/VERB esset/AUX deus/PROPN ,/PUNCT haberet/VERB componentem/VERB :/PUNCT 
+non/ADV enim/ADV ipse/PRON seipsum/PRON componere/VERB posset/VERB ,/PUNCT quia/SCONJ nihil/PRON est/AUX causa/NOUN sui/PRON ipsius/PRON ;/PUNCT 
+esset/AUX enim/ADV prius/ADJ seipso/PRON ,/PUNCT quod/PRON est/AUX impossibile/ADJ ./PUNCT 
+componens/VERB autem/CCONJ est/AUX causa/NOUN efficiens/ADJ compositi/VERB ./PUNCT 
+ergo/ADV deus/PROPN haberet/VERB causam/NOUN efficientem/ADJ ./PUNCT 
+et/CCONJ sic/ADV non/ADV esset/AUX causa/NOUN prima/ADJ ,/PUNCT quod/PRON supra/ADP habitum/VERB est/AUX ./PUNCT 
+item/ADV ./PUNCT 
+in/ADP quolibet/PRON genere/NOUN tanto/ADV aliquid/PRON est/AUX nobilius/ADJ quanto/ADV simplicius/ADJ :/PUNCT sicut/SCONJ in/ADP genere/NOUN calidi/ADJ ignis/NOUN ,/PUNCT qui/PRON non/ADV habet/VERB aliquam/PRON frigidi/ADJ permixtionem/NOUN ./PUNCT 
+quod/PRON igitur/ADV est/VERB in/ADP fine/NOUN nobilitatis/NOUN omnium/DET entium/NOUN ,/PUNCT oportet/VERB esse/VERB in/ADP fine/NOUN simplicitatis/NOUN ./PUNCT 
+hoc/PRON autem/CCONJ quod/PRON est/VERB in/ADP fine/NOUN nobilitatis/NOUN omnium/DET entium/NOUN ,/PUNCT dicimus/VERB deum/PROPN ,/PUNCT cum/SCONJ sit/AUX prima/ADJ causa/NOUN :/PUNCT 
+causa/NOUN enim/ADV est/AUX nobilior/ADJ effectu/NOUN ./PUNCT 
+nulla/PRON igitur/ADV compositio/NOUN ei/PRON accidere/VERB potest/VERB ./PUNCT 
+praeterea/ADV ./PUNCT 
+in/ADP omni/DET composito/NOUN bonum/NOUN non/ADV est/AUX huius/PRON vel/CCONJ illius/PRON partis/NOUN ,/PUNCT sed/CCONJ totius/PRON ,/PUNCT -/PUNCT et/CCONJ dico/VERB bonum/NOUN secundum/ADP illam/PRON bonitatem/NOUN quae/PRON est/AUX propria/ADJ totius/PRON et/CCONJ perfectio/NOUN eius/PRON :/PUNCT 
+nam/ADV partes/NOUN sunt/AUX imperfectae/ADJ respectu/NOUN totius/PRON :/PUNCT 
+sicut/SCONJ partes/NOUN hominis/NOUN non/ADV sunt/AUX homo/NOUN ,/PUNCT partes/NOUN etiam/ADV numeri/NOUN senarii/ADJ non/ADV habent/VERB perfectionem/NOUN senarii/ADJ ,/PUNCT et/CCONJ similiter/ADJ partes/NOUN lineae/NOUN non/ADV perveniunt/VERB ad/ADP perfectionem/NOUN mensurae/NOUN quae/PRON in/ADP tota/PRON linea/NOUN invenitur/VERB ./PUNCT 
+si/SCONJ ergo/ADV deus/PROPN est/AUX compositus/VERB ,/PUNCT perfectio/NOUN et/CCONJ bonitas/NOUN eius/PRON propria/ADJ invenitur/VERB in/ADP toto/PRON ,/PUNCT non/ADV autem/CCONJ in/ADP aliqua/PRON eius/PRON partium/NOUN ./PUNCT 
+et/CCONJ sic/ADV non/ADV erit/VERB in/ADP eo/PRON pure/ADJ illud/PRON bonum/NOUN quod/PRON est/AUX proprium/ADJ ei/PRON ./PUNCT 
+non/ADV est/AUX ergo/ADV ipse/PRON primum/ADJ et/CCONJ summum/ADJ bonum/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+ante/ADP omnem/DET multitudinem/NOUN oportet/VERB invenire/VERB unitatem/NOUN ./PUNCT 
+in/ADP omni/DET autem/CCONJ composito/NOUN est/VERB multitudo/NOUN ./PUNCT 
+igitur/ADV oportet/VERB id/PRON quod/PRON est/VERB ante/ADP omnia/DET ,/PUNCT scilicet/ADV deum/PROPN ,/PUNCT omni/DET compositione/NOUN carere/VERB ./PUNCT 
+quod/SCONJ in/ADP deo/PROPN nihil/PRON est/AUX violentum/ADJ neque/CCONJ praeter/ADP naturam/NOUN ./PUNCT 
+ex/ADP hoc/PRON autem/CCONJ philosophus/NOUN concludit/VERB quod/SCONJ in/ADP deo/PROPN nihil/PRON potest/VERB esse/AUX violentum/ADJ neque/CCONJ extra/ADP naturam/NOUN ./PUNCT 
+omne/DET enim/ADV illud/PRON in/ADP quo/PRON aliquid/PRON violentum/ADJ et/CCONJ praeter/ADP naturam/NOUN invenitur/VERB ,/PUNCT aliquid/PRON sibi/PRON additum/VERB habet/VERB :/PUNCT 
+nam/ADV quod/PRON est/VERB de/ADP substantia/NOUN rei/NOUN non/ADV potest/VERB esse/AUX violentum/ADJ neque/CCONJ praeter/ADP naturam/NOUN ./PUNCT 
+nullum/PRON autem/CCONJ simplex/ADJ habet/VERB in/ADP se/PRON aliquid/PRON additum/VERB :/PUNCT 
+ex/ADP hoc/PRON enim/ADV compositio/NOUN relinqueretur/VERB ./PUNCT 
+cum/SCONJ igitur/ADV deus/PROPN sit/AUX simplex/ADJ ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ,/PUNCT nihil/PRON in/ADP eo/PRON potest/VERB esse/AUX violentum/ADJ neque/CCONJ praeter/ADP naturam/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+necessitas/NOUN coactionis/NOUN est/AUX necessitas/NOUN ex/ADP alio/PRON ./PUNCT 
+in/ADP deo/PROPN autem/CCONJ non/ADV est/VERB necessitas/NOUN ex/ADP alio/PRON ,/PUNCT sed/CCONJ est/AUX per/ADP seipsum/PRON necessarium/ADJ ,/PUNCT et/CCONJ causa/NOUN necessitatis/NOUN aliis/PRON ./PUNCT 
+igitur/ADV nihil/PRON in/ADP eo/PRON est/AUX coactum/VERB ./PUNCT 
+adhuc/ADV ./PUNCT 
+ubicumque/ADV est/VERB aliquid/PRON violentum/ADJ ,/PUNCT ibi/ADV potest/VERB esse/VERB aliquid/PRON praeter/ADP id/PRON quod/PRON rei/NOUN per/ADP se/PRON convenit/VERB :/PUNCT 
+nam/ADV violentum/ADJ contrariatur/VERB ei/PRON quod/PRON est/VERB secundum/ADP naturam/NOUN ./PUNCT 
+sed/CCONJ in/ADP deo/PROPN non/ADV est/AUX possibile/ADJ esse/VERB aliquid/PRON praeter/ADP id/PRON quod/PRON secundum/ADP se/PRON ei/PRON convenit/VERB :/PUNCT cum/SCONJ secundum/ADP se/PRON sit/VERB necesse-esse/VERB ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+non/ADV potest/VERB igitur/ADV in/ADP eo/PRON esse/VERB aliquid/PRON violentum/ADJ ./PUNCT 
+item/ADV ./PUNCT 
+omne/DET in/ADP quo/PRON est/VERB aliquid/PRON violentum/ADJ vel/CCONJ innaturale/ADJ ,/PUNCT natum/VERB est/AUX ab/ADP alio/PRON moveri/VERB :/PUNCT 
+nam/ADV violentum/ADJ est/AUX cuius/PRON principium/NOUN est/VERB extra/ADP nil/PRON conferente/VERB vim/NOUN passo/VERB ./PUNCT 
+deus/PROPN autem/CCONJ est/AUX omnino/ADV immobilis/ADJ ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+igitur/ADV non/ADV potest/VERB in/ADP eo/PRON esse/VERB aliquid/PRON violentum/ADJ vel/CCONJ innaturale/ADJ ./PUNCT 
+quod/SCONJ deus/PROPN non/ADV est/AUX corpus/NOUN ./PUNCT 
+ex/ADP praemissis/VERB etiam/ADV ostenditur/VERB quod/SCONJ deus/PROPN non/ADV est/AUX corpus/NOUN ./PUNCT 
+omne/DET enim/ADV corpus/NOUN ,/PUNCT cum/SCONJ sit/AUX continuum/ADJ ,/PUNCT compositum/VERB est/AUX et/CCONJ partes/NOUN habens/VERB ./PUNCT 
+deus/PROPN autem/CCONJ non/ADV est/AUX compositus/VERB ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+igitur/ADV corpus/NOUN non/ADV est/AUX ./PUNCT 
+praeterea/ADV ./PUNCT 
+omne/DET quantum/PRON est/VERB aliquo/PRON modo/NOUN in/ADP potentia/NOUN :/PUNCT 
+nam/ADV continuum/ADJ est/AUX potentia/NOUN divisibile/ADJ in/ADP infinitum/ADJ ;/PUNCT 
+numerus/NOUN autem/CCONJ in/ADP infinitum/ADJ est/AUX augmentabilis/ADJ ./PUNCT 
+omne/DET autem/CCONJ corpus/NOUN est/AUX quantum/PRON ./PUNCT 
+ergo/ADV omne/DET corpus/NOUN est/VERB in/ADP potentia/NOUN ./PUNCT 
+deus/PROPN autem/CCONJ non/ADV est/VERB in/ADP potentia/NOUN ,/PUNCT sed/CCONJ actus/NOUN purus/ADJ ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+ergo/ADV deus/PROPN non/ADV est/AUX corpus/NOUN ./PUNCT 
+adhuc/ADV ./PUNCT 
+si/SCONJ deus/PROPN est/AUX corpus/NOUN ,/PUNCT oportet/VERB quod/SCONJ sit/AUX aliquod/PRON corpus/NOUN naturale/ADJ :/PUNCT 
+nam/ADV corpus/NOUN mathematicum/ADJ non/ADV est/AUX per/ADP se/PRON existens/VERB ,/PUNCT ut/SCONJ philosophus/NOUN probat/VERB ,/PUNCT eo/PRON quod/SCONJ dimensiones/NOUN accidentia/NOUN sunt/AUX ./PUNCT 
+non/ADV autem/CCONJ est/AUX corpus/NOUN naturale/ADJ :/PUNCT cum/SCONJ sit/AUX immobilis/ADJ ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ;/PUNCT 
+omne/DET autem/CCONJ corpus/NOUN naturale/ADJ mobile/ADJ est/AUX ./PUNCT 
+deus/PROPN igitur/ADV non/ADV est/AUX corpus/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+omne/DET corpus/NOUN finitum/VERB est/AUX :/PUNCT 
+quod/PRON tam/ADV de/ADP corpore/NOUN circulari/ADJ quam/X de/ADP recto/VERB probatur/VERB in/ADP i/NUM caeli/NOUN et/CCONJ mundi/NOUN ./PUNCT 
+quodlibet/PRON autem/CCONJ corpus/NOUN finitum/VERB intellectu/NOUN et/CCONJ imaginatione/NOUN transcendere/VERB possumus/VERB ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN est/AUX corpus/NOUN ,/PUNCT intellectus/NOUN et/CCONJ imaginatio/NOUN nostra/DET aliquid/PRON maius/ADJ deo/PROPN cogitare/VERB possunt/VERB ./PUNCT 
+et/CCONJ sic/ADV deus/PROPN non/ADV est/AUX maior/ADJ intellectu/NOUN nostro/DET ./PUNCT 
+quod/PRON est/AUX inconveniens/NOUN ./PUNCT 
+non/ADV est/AUX igitur/ADV corpus/NOUN ./PUNCT 
+adhuc/ADV ./PUNCT 
+cognitio/NOUN intellectiva/ADJ certior/ADJ est/AUX quam/SCONJ sensitiva/ADJ ./PUNCT 
+invenitur/VERB autem/CCONJ aliquid/PRON subiectum/VERB sensui/NOUN in/ADP rerum/NOUN natura/NOUN ./PUNCT 
+igitur/ADV et/CCONJ intellectui/NOUN ./PUNCT 
+sed/CCONJ secundum/ADP ordinem/NOUN obiectorum/NOUN est/VERB ordo/NOUN potentiarum/NOUN ,/PUNCT sicut/SCONJ et/CCONJ distinctio/NOUN ./PUNCT 
+ergo/ADV super/ADP omnia/DET sensibilia/ADJ est/VERB aliquid/PRON intelligibile/ADJ in/ADP rerum/NOUN natura/NOUN existens/VERB ./PUNCT 
+omne/DET autem/CCONJ corpus/NOUN in/ADP rebus/NOUN existens/VERB est/AUX sensibile/ADJ ./PUNCT 
+igitur/ADV super/ADP omnia/DET corpora/NOUN est/VERB aliquid/PRON accipere/VERB nobilius/ADJ ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN est/AUX corpus/NOUN ,/PUNCT non/ADV erit/AUX primum/ADJ et/CCONJ maximum/ADJ ens/NOUN ./PUNCT 
+praeterea/ADV ./PUNCT 
+quolibet/PRON corpore/NOUN non/ADV vivente/VERB res/NOUN vivens/VERB est/AUX nobilior/ADJ ./PUNCT 
+quolibet/PRON autem/CCONJ corpore/NOUN vivente/VERB sua/DET vita/NOUN est/AUX nobilior/ADJ :/PUNCT cum/SCONJ per/ADP hoc/PRON habeat/VERB supra/ADP alia/PRON corpora/NOUN nobilitatem/NOUN ./PUNCT 
+id/PRON igitur/ADV quo/PRON nihil/PRON est/AUX nobilius/ADJ ,/PUNCT corpus/NOUN non/ADV est/AUX ./PUNCT 
+hoc/PRON autem/CCONJ est/AUX deus/PROPN ./PUNCT 
+igitur/ADV non/ADV est/AUX corpus/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+inveniuntur/VERB rationes/NOUN philosophorum/NOUN ad/ADP idem/PRON ostendendum/VERB procedentes/VERB ex/ADP aeternitate/NOUN motus/NOUN ,/PUNCT in/ADP hunc/PRON modum/NOUN ./PUNCT 
+in/ADP omni/DET motu/NOUN sempiterno/ADJ oportet/VERB quod/SCONJ primum/ADJ movens/VERB non/ADV moveatur/VERB neque/CCONJ per/ADP se/PRON neque/CCONJ per/ADP accidens/NOUN ,/PUNCT sicut/SCONJ ex/ADP supra/ADP dictis/VERB patet/VERB ./PUNCT 
+corpus/NOUN autem/CCONJ caeli/NOUN movetur/VERB circulariter/ADJ motu/NOUN sempiterno/ADJ ./PUNCT 
+ergo/ADV primus/ADJ motor/NOUN eius/PRON non/ADV movetur/VERB neque/CCONJ per/ADP se/PRON neque/CCONJ per/ADP accidens/NOUN ./PUNCT 
+nullum/PRON autem/CCONJ corpus/NOUN movet/VERB localiter/ADJ nisi/SCONJ moveatur/VERB :/PUNCT eo/PRON quod/SCONJ oportet/VERB movens/VERB et/CCONJ motum/VERB esse/VERB simul/ADV ;/PUNCT 
+et/CCONJ sic/ADV corpus/NOUN movens/VERB moveri/VERB oportet/VERB ,/PUNCT ad/ADP hoc/PRON quod/SCONJ sit/VERB simul/ADV cum/ADP corpore/NOUN moto/VERB ./PUNCT 
+nulla/PRON etiam/ADV virtus/NOUN in/ADP corpore/NOUN movet/VERB nisi/SCONJ per/ADP accidens/NOUN moveatur/VERB :/PUNCT quia/SCONJ ,/PUNCT moto/VERB corpore/NOUN ,/PUNCT movetur/VERB per/ADP accidens/NOUN virtus/NOUN corporis/NOUN ./PUNCT 
+ergo/ADV primus/ADJ motor/NOUN caeli/NOUN non/ADV est/AUX corpus/NOUN neque/CCONJ virtus/NOUN in/ADP corpore/NOUN ./PUNCT 
+hoc/PRON autem/CCONJ ad/ADP quod/PRON ultimo/ADJ reducitur/VERB motus/NOUN caeli/NOUN sicut/SCONJ ad/ADP primum/ADJ movens/VERB immobile/ADJ ,/PUNCT est/AUX deus/PROPN ./PUNCT 
+deus/PROPN igitur/ADV non/ADV est/AUX corpus/NOUN ./PUNCT 
+adhuc/ADV ./PUNCT 
+nulla/PRON potentia/NOUN infinita/ADJ est/AUX potentia/NOUN in/ADP magnitudine/NOUN ./PUNCT 
+potentia/NOUN primi/ADJ motoris/NOUN est/AUX potentia/NOUN infinita/ADJ ./PUNCT 
+ergo/ADV non/ADV est/VERB in/ADP aliqua/PRON magnitudine/NOUN ./PUNCT 
+et/CCONJ sic/ADV deus/PROPN ,/PUNCT qui/PRON est/AUX primus/ADJ motor/NOUN ,/PUNCT neque/CCONJ est/AUX corpus/NOUN neque/CCONJ est/AUX virtus/NOUN in/ADP corpore/NOUN ./PUNCT 
+prima/ADJ sic/ADV probatur/VERB ./PUNCT 
+si/SCONJ potentia/NOUN magnitudinis/NOUN alicuius/PRON est/AUX infinita/ADJ ,/PUNCT aut/CCONJ ergo/ADV erit/AUX magnitudinis/NOUN finitae/VERB ;/PUNCT aut/CCONJ infinitae/ADJ ./PUNCT 
+magnitudo/NOUN infinita/ADJ nulla/PRON est/AUX ,/PUNCT ut/SCONJ probatur/VERB in/ADP iii/NUM physic./X et/CCONJ in/ADP i/NUM caeli/NOUN et/CCONJ mundi/NOUN ./PUNCT 
+magnitudinis/NOUN autem/CCONJ finitae/VERB non/ADV est/AUX possibile/ADJ esse/AUX potentiam/NOUN infinitam/ADJ ./PUNCT 
+et/CCONJ sic/ADV in/ADP nulla/PRON magnitudine/NOUN potest/VERB esse/VERB potentia/NOUN infinita/ADJ ./PUNCT 
+quod/SCONJ autem/CCONJ in/ADP magnitudine/NOUN finita/VERB non/ADV possit/VERB esse/VERB potentia/NOUN infinita/ADJ ,/PUNCT sic/ADV probatur/VERB ./PUNCT 
+aequalem/ADJ effectum/NOUN quem/PRON facit/VERB potentia/NOUN minor/ADJ in/ADP tempore/NOUN maiori/ADJ ,/PUNCT facit/VERB potentia/NOUN maior/ADJ in/ADP tempore/NOUN minori/ADJ :/PUNCT 
+qualiscumque/PRON sit/AUX ille/PRON effectus/NOUN ,/PUNCT sive/CCONJ sit/VERB secundum/ADP alterationem/NOUN ,/PUNCT sive/CCONJ secundum/ADP motum/NOUN localem/ADJ ,/PUNCT sive/CCONJ secundum/ADP quemcumque/PRON alium/PRON motum/NOUN ./PUNCT 
+sed/CCONJ potentia/NOUN infinita/ADJ est/AUX maior/ADJ omni/DET potentia/NOUN finita/VERB ./PUNCT 
+ergo/ADV oportet/VERB quod/SCONJ in/ADP minori/ADJ perficiat/VERB effectum/NOUN ,/PUNCT velocius/ADJ movendo/VERB ,/PUNCT quam/SCONJ potentia/NOUN quaecumque/PRON finita/VERB ./PUNCT 
+nec/CCONJ potest/VERB esse/VERB quod/SCONJ in/ADP minori/ADJ quod/SCONJ sit/VERB tempus/NOUN ./PUNCT 
+relinquitur/VERB igitur/ADV quod/SCONJ hoc/PRON erit/VERB in/ADP indivisibili/ADJ temporis/NOUN ./PUNCT 
+et/CCONJ sic/ADV movere/VERB et/CCONJ moveri/VERB et/CCONJ motus/NOUN erunt/VERB in/ADP instanti/NOUN ./PUNCT 
+cuius/PRON contrarium/ADJ demonstratum/VERB est/AUX in/ADP vi/NUM physicorum/NOUN ./PUNCT 
+quod/SCONJ autem/CCONJ non/ADV possit/VERB potentia/NOUN infinita/ADJ magnitudinis/NOUN finitae/VERB movere/VERB in/ADP tempore/NOUN ,/PUNCT sic/ADV iterum/ADV probatur/VERB ./PUNCT 
+sit/VERB potentia/NOUN infinita/ADJ quae/PRON est/AUX a/X ./PUNCT 
+accipiatur/VERB pars/NOUN eius/PRON quae/PRON est/AUX ab/X ./PUNCT 
+pars/NOUN igitur/ADV ista/PRON movebit/VERB in/ADP tempore/NOUN maiori/ADJ ./PUNCT 
+oportebit/VERB tamen/ADV esse/VERB aliquam/PRON proportionem/NOUN huius/PRON temporis/NOUN ad/ADP tempus/NOUN in/ADP quo/PRON movet/VERB tota/PRON potentia/NOUN :/PUNCT cum/SCONJ utrumque/PRON tempus/NOUN sit/AUX finitum/VERB ./PUNCT 
+sint/VERB igitur/ADV haec/PRON duo/NUM tempora/NOUN in/ADP decupla/X proportione/NOUN se/PRON ad/ADP invicem/ADV habentia/VERB :/PUNCT 
+non/ADV enim/ADV quantum/ADV ad/ADP hanc/PRON rationem/NOUN differt/VERB istam/PRON vel/CCONJ aliam/PRON proportionem/NOUN dicere/VERB ./PUNCT 
+si/SCONJ autem/CCONJ addatur/VERB ad/ADP potentiam/NOUN praedictam/VERB finitam/VERB ,/PUNCT diminui/VERB oportebit/VERB de/ADP tempore/NOUN secundum/ADP proportionem/NOUN additionis/NOUN ad/ADP potentiam/NOUN :/PUNCT cum/SCONJ maior/ADJ potentia/NOUN in/ADP minori/ADJ tempore/NOUN moveat/VERB ./PUNCT 
+si/SCONJ ergo/ADV addatur/VERB decuplum/X ,/PUNCT illa/PRON potentia/NOUN movebit/VERB in/ADP tempore/NOUN quod/PRON erit/AUX decima/ADJ pars/NOUN temporis/NOUN in/ADP quo/PRON movebat/VERB prima/ADJ pars/NOUN accepta/VERB infinitae/ADJ potentiae/NOUN ,/PUNCT scilicet/ADV ab/X ./PUNCT 
+et/CCONJ tamen/ADV haec/PRON potentia/NOUN quae/PRON est/AUX decuplum/X eius/PRON ,/PUNCT est/AUX potentia/NOUN finita/VERB :/PUNCT cum/SCONJ habeat/VERB proportionem/NOUN determinatam/VERB ad/ADP potentiam/NOUN finitam/VERB ./PUNCT 
+relinquitur/VERB igitur/ADV quod/SCONJ in/ADP aequali/ADJ tempore/NOUN movet/VERB potentia/NOUN finita/VERB et/CCONJ infinita/ADJ ./PUNCT 
+quod/PRON est/AUX impossibile/ADJ ./PUNCT 
+non/ADV igitur/ADV potentia/NOUN infinita/ADJ magnitudinis/NOUN finitae/VERB potest/VERB movere/VERB in/ADP tempore/NOUN aliquo/PRON ./PUNCT 
+quod/SCONJ autem/CCONJ potentia/NOUN primi/ADJ motoris/NOUN sit/AUX infinita/ADJ ,/PUNCT sic/ADV probatur/VERB ./PUNCT 
+nulla/PRON potentia/NOUN finita/VERB potest/VERB movere/VERB tempore/NOUN infinito/ADJ ./PUNCT 
+sed/CCONJ potentia/NOUN primi/ADJ motoris/NOUN movet/VERB in/ADP tempore/NOUN infinito/ADJ :/PUNCT quia/SCONJ motus/NOUN primus/ADJ est/AUX sempiternus/ADJ ./PUNCT 
+ergo/ADV potentia/NOUN primi/ADJ motoris/NOUN est/AUX infinita/ADJ ./PUNCT 
+prima/ADJ sic/ADV probatur/VERB ./PUNCT 
+si/SCONJ aliqua/PRON potentia/NOUN finita/VERB alicuius/PRON corporis/NOUN movet/VERB tempore/NOUN infinito/ADJ ,/PUNCT pars/NOUN illius/PRON corporis/NOUN ,/PUNCT habens/VERB partem/NOUN potentiae/NOUN ,/PUNCT movebit/VERB in/ADP tempore/NOUN minori/ADJ :/PUNCT quia/SCONJ quanto/ADV aliquid/PRON est/AUX maioris/ADJ potentiae/NOUN ,/PUNCT tanto/ADV in/ADP maiori/ADJ tempore/NOUN motum/NOUN continuare/VERB poterit/VERB ;/PUNCT 
+et/CCONJ sic/ADV pars/NOUN praedicta/VERB movebit/VERB tempore/NOUN finito/VERB ,/PUNCT maior/ADJ autem/CCONJ pars/NOUN in/ADP maiori/ADJ tempore/NOUN movere/VERB poterit/VERB ./PUNCT 
+et/CCONJ sic/ADV semper/ADV ,/PUNCT secundum/ADP quod/SCONJ addetur/VERB ad/ADP potentiam/NOUN motoris/NOUN ,/PUNCT addetur/VERB ad/ADP tempus/NOUN secundum/ADP eandem/PRON proportionem/NOUN ./PUNCT 
+sed/CCONJ additio/NOUN aliquoties/ADV facta/VERB perveniet/VERB ad/ADP quantitatem/NOUN totius/PRON ,/PUNCT vel/CCONJ etiam/ADV excedet/VERB ./PUNCT 
+ergo/ADV et/CCONJ additio/NOUN ex/ADP parte/NOUN temporis/NOUN perveniet/VERB ad/ADP quantitatem/NOUN temporis/NOUN in/ADP quo/PRON movet/VERB totum/PRON ./PUNCT 
+tempus/NOUN autem/CCONJ in/ADP quo/PRON totum/PRON movebat/VERB ,/PUNCT dicebatur/VERB esse/AUX infinitum/ADJ ./PUNCT 
+ergo/ADV tempus/NOUN finitum/VERB metietur/VERB tempus/NOUN infinitum/ADJ ./PUNCT 
+quod/PRON est/AUX impossibile/ADJ ./PUNCT 
+sed/CCONJ contra/ADP hunc/PRON processum/NOUN plures/ADJ sunt/VERB obiectiones/NOUN ./PUNCT 
+quarum/PRON una/NUM est/VERB ,/PUNCT quia/SCONJ potest/VERB poni/VERB quod/SCONJ illud/PRON corpus/NOUN quod/PRON movet/VERB primum/ADJ motum/NOUN ,/PUNCT non/ADV est/AUX divisibile/ADJ :/PUNCT sicut/SCONJ patet/VERB de/ADP corpore/NOUN caelesti/ADJ ./PUNCT 
+praedicta/VERB autem/CCONJ probatio/NOUN procedit/VERB ex/ADP divisione/NOUN eius/PRON ./PUNCT 
+sed/CCONJ ad/ADP hoc/PRON dicendum/VERB quod/SCONJ conditionalis/ADJ potest/VERB esse/AUX vera/ADJ cuius/PRON antecedens/VERB est/AUX impossibile/ADJ ./PUNCT 
+et/CCONJ si/SCONJ quid/PRON est/VERB quod/PRON destruat/VERB veritatem/NOUN talis/PRON conditionalis/ADJ ,/PUNCT est/AUX impossibile/ADJ :/PUNCT 
+sicut/SCONJ ,/PUNCT si/SCONJ aliquis/PRON destrueret/VERB veritatem/NOUN huius/PRON conditionalis/ADJ ,/PUNCT si/SCONJ homo/NOUN volat/VERB ,/PUNCT habet/VERB alas/NOUN ,/PUNCT esset/AUX impossibile/ADJ ./PUNCT 
+et/CCONJ secundum/ADP modum/NOUN hunc/PRON intelligendus/VERB est/VERB processus/NOUN probationis/NOUN praedictae/VERB ./PUNCT 
+quia/SCONJ haec/PRON conditionalis/ADJ est/AUX vera/ADJ ,/PUNCT si/SCONJ corpus/NOUN caeleste/ADJ dividitur/VERB ,/PUNCT pars/NOUN eius/PRON erit/AUX minoris/ADJ potentiae/NOUN quam/SCONJ totum/PRON ./PUNCT 
+huius/PRON autem/CCONJ conditionalis/ADJ veritas/NOUN tollitur/VERB si/SCONJ ponatur/VERB primum/ADJ movens/VERB esse/AUX corpus/NOUN ,/PUNCT propter/ADP impossibilia/ADJ quae/PRON sequuntur/VERB ./PUNCT 
+unde/ADV patet/VERB hoc/PRON esse/AUX impossibile/ADJ ./PUNCT 
+et/CCONJ similiter/ADJ potest/VERB responderi/VERB si/SCONJ fiat/VERB obiectio/NOUN de/ADP augmento/NOUN potentiarum/NOUN finitarum/VERB ./PUNCT 
+quia/SCONJ non/ADV est/VERB accipere/VERB in/ADP rerum/NOUN natura/NOUN potentias/NOUN secundum/ADP omnem/DET proportionem/NOUN quam/PRON habet/VERB tempus/NOUN ad/ADP tempus/NOUN quodcumque/PRON ./PUNCT 
+est/AUX tamen/ADV conditionalis/ADJ vera/ADJ ,/PUNCT qua/PRON in/ADP praedicta/VERB probatione/NOUN indigetur/VERB ./PUNCT 
+secunda/ADJ obiectio/NOUN est/VERB quia/SCONJ ,/PUNCT etsi/SCONJ corpus/NOUN dividitur/VERB ,/PUNCT aliqua/PRON virtus/NOUN potest/VERB esse/VERB alicuius/PRON corporis/NOUN quae/PRON non/ADV dividitur/VERB diviso/VERB corpore/NOUN :/PUNCT sicut/SCONJ anima/NOUN rationalis/ADJ non/ADV dividitur/VERB diviso/VERB corpore/NOUN ./PUNCT 
+et/CCONJ ad/ADP hoc/PRON est/VERB dicendum/VERB quod/SCONJ per/ADP processum/NOUN praedictum/VERB non/ADV probatur/VERB quod/SCONJ non/ADV sit/AUX deus/PROPN coniunctus/VERB corpori/NOUN sicut/SCONJ anima/NOUN rationalis/ADJ corpori/NOUN humano/ADJ :/PUNCT sed/CCONJ quod/SCONJ non/ADV est/AUX virtus/NOUN in/ADP corpore/NOUN sicut/SCONJ virtus/NOUN materialis/ADJ ,/PUNCT quae/PRON dividitur/VERB ad/ADP divisionem/NOUN corporis/NOUN ./PUNCT 
+unde/ADV etiam/ADV dicitur/VERB de/ADP intellectu/NOUN humano/ADJ quod/SCONJ non/ADV est/AUX corpus/NOUN neque/CCONJ virtus/NOUN in/ADP corpore/NOUN ./PUNCT 
+quod/SCONJ autem/CCONJ deus/PROPN ,/PUNCT non/ADV sit/AUX unitus/VERB corpori/NOUN sicut/SCONJ anima/NOUN ,/PUNCT alterius/PRON rationis/NOUN est/AUX ./PUNCT 
+tertia/ADJ obiectio/NOUN est/VERB quia/SCONJ ,/PUNCT si/SCONJ cuiuslibet/PRON corporis/NOUN est/AUX potentia/NOUN finita/VERB ,/PUNCT ut/SCONJ in/ADP praedicto/VERB processu/NOUN ostenditur/VERB ;/PUNCT per/ADP potentiam/NOUN autem/CCONJ finitam/VERB non/ADV potest/VERB aliquid/PRON durare/VERB tempore/NOUN infinito/ADJ :/PUNCT sequetur/VERB quod/SCONJ nullum/PRON corpus/NOUN possit/VERB durare/VERB tempore/NOUN infinito/ADJ ./PUNCT 
+et/CCONJ sic/ADV corpus/NOUN caeleste/ADJ de/ADP necessitate/NOUN corrumpetur/VERB ./PUNCT 
+ad/ADP hoc/PRON autem/CCONJ a/ADP quibusdam/PRON respondetur/VERB quod/SCONJ corpus/NOUN caeleste/ADJ secundum/ADP potentiam/NOUN suam/DET potest/VERB deficere/VERB ,/PUNCT sed/CCONJ perpetuitatem/NOUN durationis/NOUN acquirit/VERB ab/ADP alio/PRON quod/PRON est/AUX potentiae/NOUN infinitae/ADJ ./PUNCT 
+et/CCONJ huic/PRON solutioni/NOUN videtur/VERB attestari/VERB plato/PROPN ,/PUNCT qui/PRON de/ADP corporibus/NOUN caelestibus/ADJ deum/PROPN loquentem/VERB inducit/VERB in/ADP hunc/PRON modum/NOUN :/PUNCT 
+natura/NOUN vestra/DET estis/AUX dissolubilia/ADJ ,/PUNCT voluntate/NOUN autem/CCONJ mea/DET indissolubilia/ADJ :/PUNCT quia/SCONJ voluntas/NOUN mea/DET maior/ADJ est/AUX nexu/NOUN vestro/DET ./PUNCT 
+hanc/PRON autem/CCONJ solutionem/NOUN improbat/VERB commentator/PROPN ,/PUNCT in/ADP xi/NUM metaph./X ./PUNCT 
+nam/ADV impossibile/ADJ est/AUX ,/PUNCT secundum/ADP eum/PRON ,/PUNCT quod/SCONJ id/PRON quod/PRON est/AUX de/ADP se/PRON possibile/ADJ non/ADV esse/VERB ,/PUNCT acquirat/VERB perpetuitatem/NOUN essendi/VERB ab/ADP alio/PRON ./PUNCT 
+sequeretur/VERB enim/ADV quod/SCONJ corruptibile/ADJ mutetur/VERB in/ADP incorruptibilitatem/NOUN ./PUNCT 
+quod/PRON est/AUX impossibile/ADJ secundum/ADP ipsum/PRON ./PUNCT 
+et/CCONJ ideo/ADV ipse/PRON in/ADP hunc/PRON modum/NOUN respondet/VERB :/PUNCT 
+quod/SCONJ in/ADP corpore/NOUN caelesti/ADJ omnis/DET potentia/NOUN quae/PRON est/VERB ,/PUNCT finita/VERB est/AUX :/PUNCT 
+non/ADV tamen/ADV oportet/VERB quod/SCONJ habeat/VERB omnem/DET potentiam/NOUN ;/PUNCT 
+est/VERB enim/ADV in/ADP corpore/NOUN caelesti/ADJ ,/PUNCT secundum/ADP aristotelem/PROPN ,/PUNCT in/ADP viii/NUM metaph./X ,/PUNCT potentia/NOUN ad/ADP ubi/ADV ,/PUNCT sed/CCONJ non/ADV ad/ADP esse/VERB ./PUNCT 
+et/CCONJ sic/ADV non/ADV oportet/VERB quod/SCONJ insit/VERB ei/PRON potentia/NOUN ad/ADP non/ADV esse/VERB ./PUNCT 
+sciendum/VERB tamen/ADV quod/SCONJ haec/PRON responsio/NOUN commentatoris/PROPN non/ADV est/AUX sufficiens/ADJ ./PUNCT 
+quia/SCONJ ,/PUNCT etsi/SCONJ detur/VERB quod/SCONJ in/ADP corpore/NOUN caelesti/ADJ non/ADV sit/VERB potentia/NOUN quasi/ADV passiva/ADJ ad/ADP esse/VERB ,/PUNCT quae/PRON est/AUX potentia/NOUN materiae/NOUN ,/PUNCT est/VERB tamen/ADV in/ADP eo/PRON potentia/NOUN quasi/ADV activa/ADJ ,/PUNCT quae/PRON est/AUX virtus/NOUN essendi/VERB :/PUNCT cum/SCONJ expresse/VERB aristoteles/PROPN dicat/VERB ,/PUNCT in/ADP i/NUM caeli/NOUN et/CCONJ mundi/NOUN ,/PUNCT quod/SCONJ caelum/NOUN habet/VERB virtutem/NOUN ut/SCONJ sit/VERB semper/ADV ./PUNCT 
+et/CCONJ ideo/ADV melius/ADJ dicendum/VERB est/VERB quod/SCONJ ,/PUNCT cum/SCONJ potentia/NOUN dicatur/VERB ad/ADP actum/NOUN ,/PUNCT oportet/VERB iudicare/VERB de/ADP potentia/NOUN secundum/ADP modum/NOUN actus/NOUN ./PUNCT 
+motus/NOUN autem/CCONJ de/ADP sui/PRON ratione/NOUN quantitatem/NOUN habet/VERB et/CCONJ extensionem/NOUN :/PUNCT 
+unde/ADV duratio/NOUN eius/PRON infinita/ADJ requirit/VERB quod/SCONJ potentia/NOUN movens/VERB sit/AUX infinita/ADJ ./PUNCT 
+esse/NOUN autem/CCONJ non/ADV habet/VERB aliquam/PRON extensionem/NOUN quantitatis/NOUN :/PUNCT 
+praecipue/ADJ in/ADP re/NOUN cuius/PRON esse/NOUN est/AUX invariabile/ADJ ,/PUNCT sicut/SCONJ caelum/NOUN ./PUNCT 
+et/CCONJ ideo/ADV non/ADV oportet/VERB quod/SCONJ virtus/NOUN essendi/VERB sit/AUX infinita/ADJ in/ADP corpore/NOUN finito/VERB ,/PUNCT licet/SCONJ in/ADP infinitum/ADJ duret/VERB :/PUNCT quia/SCONJ non/ADV differt/VERB quod/SCONJ per/ADP illam/PRON virtutem/NOUN aliquid/PRON duret/VERB in/ADP uno/NUM instanti/NOUN vel/CCONJ tempore/NOUN infinito/ADJ ,/PUNCT cum/SCONJ esse/NOUN illud/PRON invariabile/ADJ non/ADV attingatur/VERB a/ADP tempore/NOUN nisi/SCONJ per/ADP accidens/NOUN ./PUNCT 
+quarta/ADJ obiectio/NOUN est/VERB de/ADP hoc/PRON quod/SCONJ non/ADV videtur/VERB esse/AUX necessarium/ADJ quod/SCONJ id/PRON quod/PRON movet/VERB tempore/NOUN infinito/ADJ ,/PUNCT habeat/VERB potentiam/NOUN infinitam/ADJ ,/PUNCT in/ADP illis/PRON moventibus/VERB quae/PRON movendo/VERB non/ADV alterantur/VERB ./PUNCT 
+quia/SCONJ talis/PRON motus/NOUN nihil/PRON consumit/VERB de/ADP potentia/NOUN eorum/PRON :/PUNCT unde/ADV non/ADV minore/ADJ tempore/NOUN movere/VERB possunt/VERB postquam/SCONJ aliquo/PRON tempore/NOUN moverunt/VERB quam/SCONJ ante/ADP ;/PUNCT 
+sicut/SCONJ solis/NOUN virtus/NOUN finita/VERB est/AUX ,/PUNCT et/CCONJ ,/PUNCT quia/SCONJ in/ADP agendo/VERB eius/PRON virtus/NOUN activa/ADJ non/ADV minuitur/VERB ,/PUNCT infinito/ADJ tempore/NOUN potest/VERB agere/VERB in/ADP haec/PRON inferiora/NOUN ,/PUNCT secundum/ADP naturam/NOUN ./PUNCT 
+et/CCONJ ad/ADP hoc/PRON dicendum/VERB est/VERB quod/SCONJ corpus/NOUN non/ADV movet/VERB nisi/SCONJ motum/VERB ,/PUNCT ut/SCONJ probatum/VERB est/AUX ./PUNCT 
+et/CCONJ ideo/ADV ,/PUNCT si/SCONJ contingat/VERB corpus/NOUN aliquod/PRON non/ADV moveri/VERB ,/PUNCT sequetur/VERB ipsum/PRON non/ADV movere/VERB ./PUNCT 
+in/ADP omni/DET autem/CCONJ quod/PRON movetur/VERB est/AUX potentia/NOUN ad/ADP opposita/VERB :/PUNCT quia/SCONJ termini/NOUN motus/NOUN sunt/AUX oppositi/VERB ./PUNCT 
+et/CCONJ ideo/ADV ,/PUNCT quantum/ADV est/VERB de/ADP se/PRON ,/PUNCT omne/DET corpus/NOUN quod/PRON movetur/VERB possibile/ADJ est/AUX non/ADV moveri/VERB ./PUNCT 
+et/CCONJ quod/PRON possibile/ADJ est/AUX non/ADV moveri/VERB ,/PUNCT non/ADV habet/VERB de/ADP se/PRON ut/SCONJ perpetuo/ADJ tempore/NOUN moveatur/VERB ./PUNCT 
+et/CCONJ sic/ADV nec/ADV quod/SCONJ in/ADP perpetuo/ADJ tempore/NOUN moveat/VERB ./PUNCT 
+procedit/VERB ergo/ADV praedicta/VERB demonstratio/NOUN de/ADP potentia/NOUN finita/VERB corporis/NOUN finiti/VERB ,/PUNCT quae/PRON non/ADV potest/VERB de/ADP se/PRON movere/VERB tempore/NOUN infinito/ADJ ./PUNCT 
+sed/CCONJ corpus/NOUN quod/PRON de/ADP se/PRON possibile/ADJ est/AUX moveri/VERB et/CCONJ non/ADV moveri/VERB ,/PUNCT movere/VERB et/CCONJ non/ADV movere/VERB ,/PUNCT acquirere/VERB potest/VERB perpetuitatem/NOUN motus/NOUN ab/ADP aliquo/PRON ./PUNCT 
+quod/PRON oportet/VERB esse/AUX incorporeum/ADJ ./PUNCT 
+et/CCONJ ideo/ADV oportet/VERB primum/ADJ movens/VERB esse/AUX incorporeum/ADJ ./PUNCT 
+et/CCONJ sic/ADV nihil/PRON prohibet/VERB secundum/ADP naturam/NOUN corpus/NOUN finitum/VERB ,/PUNCT quod/PRON acquirit/VERB ab/ADP alio/PRON perpetuitatem/NOUN in/ADP moveri/VERB ,/PUNCT habere/VERB etiam/ADV perpetuitatem/NOUN in/ADP movere/VERB :/PUNCT 
+nam/ADV et/CCONJ ipsum/PRON primum/ADJ corpus/NOUN caeleste/ADJ ,/PUNCT secundum/ADP naturam/NOUN ,/PUNCT potest/VERB perpetuo/ADJ motu/NOUN inferiora/NOUN corpora/NOUN caelestia/ADJ revolvere/VERB ,/PUNCT secundum/ADP quod/SCONJ sphaera/NOUN movet/VERB sphaeram/NOUN ./PUNCT 
+nec/CCONJ est/AUX inconveniens/NOUN secundum/ADP commentatorem/PROPN quod/SCONJ illud/PRON quod/PRON de/ADP se/PRON est/VERB in/ADP potentia/NOUN moveri/VERB et/CCONJ non/ADV moveri/VERB ,/PUNCT acquirat/VERB ab/ADP alio/PRON perpetuitatem/NOUN motus/NOUN ,/PUNCT sicut/SCONJ ponebatur/VERB esse/AUX impossibile/ADJ de/ADP perpetuitate/NOUN essendi/VERB ./PUNCT 
+nam/ADV motus/NOUN est/AUX quidam/PRON defluxus/NOUN a/ADP movente/VERB in/ADP mobile/ADJ :/PUNCT 
+et/CCONJ ideo/ADV potest/VERB aliquod/PRON mobile/ADJ acquirere/VERB ab/ADP alio/PRON perpetuitatem/NOUN motus/NOUN ,/PUNCT quam/PRON non/ADV habet/VERB de/ADP se/PRON ./PUNCT 
+esse/NOUN autem/CCONJ est/AUX aliquid/PRON fixum/VERB et/CCONJ quietum/VERB in/ADP ente/NOUN :/PUNCT 
+et/CCONJ ideo/ADV quod/PRON de/ADP se/PRON est/VERB in/ADP potentia/NOUN ad/ADP non/ADV esse/VERB ,/PUNCT non/ADV potest/VERB ,/PUNCT ut/SCONJ ipse/PRON dicit/VERB ,/PUNCT secundum/ADP viam/NOUN naturae/NOUN acquirere/VERB ab/ADP alio/PRON perpetuitatem/NOUN essendi/VERB ./PUNCT 
+quinta/ADJ obiectio/NOUN est/VERB quod/SCONJ per/ADP praedictum/VERB processum/NOUN non/ADV videtur/VERB maior/ADJ ratio/NOUN quare/ADV non/ADV sit/VERB potentia/NOUN infinita/ADJ in/ADP magnitudine/NOUN quam/SCONJ extra/ADP magnitudinem/NOUN :/PUNCT 
+nam/ADV utrobique/ADV sequetur/VERB quod/SCONJ moveat/VERB non/ADV in/ADP tempore/NOUN ./PUNCT 
+et/CCONJ ad/ADP hoc/PRON dicendum/VERB quod/SCONJ finitum/VERB et/CCONJ infinitum/ADJ in/ADP magnitudine/NOUN et/CCONJ tempore/NOUN et/CCONJ motu/NOUN inveniuntur/VERB secundum/ADP unam/NUM rationem/NOUN ,/PUNCT sicut/SCONJ probatur/VERB in/ADP iii/NUM et/CCONJ in/ADP vi/NUM physic./X :/PUNCT 
+et/CCONJ ideo/ADV infinitum/ADJ in/ADP uno/NUM eorum/PRON aufert/VERB proportionem/NOUN finitam/VERB in/ADP aliis/PRON ./PUNCT 
+in/ADP his/PRON autem/CCONJ quae/PRON carent/VERB magnitudine/NOUN ,/PUNCT non/ADV est/VERB finitum/VERB et/CCONJ infinitum/ADJ nisi/SCONJ aequivoce/ADJ ./PUNCT 
+unde/ADV praedictus/VERB modus/NOUN demonstrandi/VERB in/ADP talibus/PRON potentiis/NOUN locum/NOUN non/ADV habet/VERB ./PUNCT 
+aliter/PRON autem/CCONJ respondetur/VERB et/CCONJ melius/ADJ ,/PUNCT quod/SCONJ caelum/NOUN habet/VERB duos/NUM motores/NOUN :/PUNCT unum/NUM proximum/ADJ ,/PUNCT qui/PRON est/AUX finitae/VERB virtutis/NOUN ,/PUNCT et/CCONJ ab/ADP hoc/PRON habet/VERB quod/SCONJ motus/NOUN eius/PRON sit/AUX finitae/VERB velocitatis/NOUN ;/PUNCT et/CCONJ alium/PRON remotum/VERB ,/PUNCT qui/PRON est/AUX infinitae/ADJ virtutis/NOUN ,/PUNCT a/ADP quo/PRON habet/VERB quod/SCONJ motus/NOUN eius/PRON possit/VERB esse/AUX infinitae/ADJ durationis/NOUN ./PUNCT 
+et/CCONJ sic/ADV patet/VERB quod/SCONJ potentia/NOUN infinita/ADJ quae/PRON non/ADV est/VERB in/ADP magnitudine/NOUN ,/PUNCT potest/VERB movere/VERB corpus/NOUN non/ADV immediate/ADJ in/ADP tempore/NOUN ./PUNCT 
+sed/CCONJ potentia/NOUN quae/PRON est/VERB in/ADP magnitudine/NOUN oportet/VERB quod/SCONJ moveat/VERB immediate/ADJ :/PUNCT cum/SCONJ nullum/PRON corpus/NOUN moveat/VERB nisi/SCONJ motum/VERB ./PUNCT 
+unde/ADV ,/PUNCT si/SCONJ moveret/VERB ,/PUNCT sequeretur/VERB quod/SCONJ moveret/VERB in/ADP non/ADV tempore/NOUN ./PUNCT 
+potest/VERB adhuc/ADV melius/ADJ dici/VERB quod/SCONJ potentia/NOUN quae/PRON non/ADV est/VERB in/ADP magnitudine/NOUN est/AUX intellectus/NOUN ,/PUNCT et/CCONJ movet/VERB per/ADP voluntatem/NOUN ./PUNCT 
+unde/ADV movet/VERB secundum/ADP exigentiam/NOUN mobilis/ADJ ,/PUNCT et/CCONJ non/ADV secundum/ADP proportionem/NOUN suae/DET virtutis/NOUN ./PUNCT 
+potentia/NOUN autem/CCONJ quae/PRON est/VERB in/ADP magnitudine/NOUN non/ADV potest/VERB movere/VERB nisi/SCONJ per/ADP necessitatem/NOUN naturae/NOUN :/PUNCT quia/SCONJ probatum/VERB est/AUX quod/SCONJ intellectus/NOUN non/ADV est/AUX virtus/NOUN corporea/ADJ ./PUNCT 
+et/CCONJ sic/ADV movet/VERB de/ADP necessitate/NOUN secundum/ADP proportionem/NOUN suae/DET quantitatis/NOUN ./PUNCT 
+unde/ADV sequitur/VERB ,/PUNCT si/SCONJ movet/VERB ,/PUNCT quod/SCONJ moveat/VERB in/ADP instanti/NOUN ./PUNCT 
+secundum/ADP hoc/PRON ergo/ADV ,/PUNCT remotis/VERB praedictis/VERB obiectionibus/NOUN ,/PUNCT procedit/VERB demonstratio/NOUN aristotelis/PROPN ./PUNCT 
+amplius/ADJ ./PUNCT 
+nullus/PRON motus/NOUN qui/PRON est/VERB a/ADP movente/VERB corporeo/ADJ potest/VERB esse/AUX continuus/ADJ et/CCONJ regularis/ADJ :/PUNCT eo/PRON quod/SCONJ movens/VERB corporale/ADJ in/ADP motu/NOUN locali/ADJ movet/VERB attrahendo/VERB vel/CCONJ expellendo/VERB ;/PUNCT 
+id/PRON autem/CCONJ quod/PRON attrahitur/VERB vel/CCONJ expellitur/VERB non/ADV in/ADP eadem/PRON dispositione/NOUN se/PRON habet/VERB ad/ADP moventem/VERB a/ADP principio/NOUN motus/NOUN usque/ADP ad/ADP finem/NOUN ,/PUNCT cum/SCONJ quandoque/ADV sit/AUX propinquius/ADJ ,/PUNCT quandoque/ADV remotius/VERB ;/PUNCT 
+et/CCONJ sic/ADV nullum/PRON corpus/NOUN potest/VERB movere/VERB motum/NOUN continuum/ADJ et/CCONJ regularem/ADJ ./PUNCT 
+motus/NOUN autem/CCONJ primus/ADJ est/AUX continuus/ADJ et/CCONJ regularis/ADJ ,/PUNCT ut/SCONJ probatur/VERB in/ADP viii/NUM physic./X ./PUNCT 
+igitur/ADV movens/VERB primum/ADJ motum/NOUN non/ADV est/AUX corpus/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+nullus/PRON motus/NOUN qui/PRON est/VERB ad/ADP finem/NOUN qui/PRON exit/VERB de/ADP potentia/NOUN in/ADP actum/NOUN ,/PUNCT potest/VERB esse/AUX perpetuus/ADJ :/PUNCT quia/SCONJ ,/PUNCT cum/SCONJ perventum/VERB fuerit/AUX ad/ADP actum/NOUN ,/PUNCT motus/NOUN quiescit/VERB ./PUNCT 
+si/SCONJ ergo/ADV motus/NOUN primus/ADJ est/AUX perpetuus/ADJ ,/PUNCT oportet/VERB quod/SCONJ sit/VERB ad/ADP finem/NOUN qui/PRON sit/VERB semper/ADV et/CCONJ omnibus/DET modis/NOUN in/ADP actu/NOUN ./PUNCT 
+tale/PRON autem/CCONJ non/ADV est/AUX aliquod/PRON corpus/NOUN neque/CCONJ aliqua/PRON virtus/NOUN in/ADP corpore/NOUN :/PUNCT cum/SCONJ omnia/DET huiusmodi/ADV sint/AUX mobilia/ADJ per/ADP se/PRON vel/CCONJ per/ADP accidens/NOUN ./PUNCT 
+igitur/ADV finis/NOUN primi/ADJ motus/NOUN non/ADV est/AUX corpus/NOUN neque/CCONJ virtus/NOUN in/ADP corpore/NOUN ./PUNCT 
+finis/NOUN autem/CCONJ primi/ADJ motus/NOUN est/AUX primum/ADJ movens/VERB ,/PUNCT quod/PRON movet/VERB sicut/SCONJ desideratum/VERB ./PUNCT 
+hoc/PRON autem/CCONJ est/AUX deus/PROPN ./PUNCT 
+deus/PROPN igitur/ADV neque/CCONJ est/AUX corpus/NOUN neque/CCONJ virtus/NOUN in/ADP corpore/NOUN ./PUNCT 
+quamvis/SCONJ autem/CCONJ falsum/ADJ sit/AUX ,/PUNCT secundum/ADP fidem/NOUN nostram/DET ,/PUNCT quod/SCONJ motus/NOUN caeli/NOUN sit/AUX perpetuus/ADJ ,/PUNCT ut/SCONJ infra/ADP patebit/VERB ;/PUNCT tamen/ADV verum/ADJ est/AUX quod/SCONJ motus/NOUN ille/PRON non/ADV deficiet/VERB neque/CCONJ propter/ADP impotentiam/NOUN motoris/NOUN ,/PUNCT neque/CCONJ propter/ADP corruptionem/NOUN substantiae/NOUN mobilis/ADJ ,/PUNCT cum/SCONJ non/ADV videatur/VERB motus/NOUN caeli/NOUN per/ADP diuturnitatem/NOUN temporis/NOUN lentescere/VERB ./PUNCT 
+unde/ADV demonstrationes/NOUN praedictae/VERB suam/DET efficaciam/NOUN non/ADV perdunt/VERB ./PUNCT 
+huic/PRON autem/CCONJ veritati/NOUN demonstratae/VERB concordat/VERB divina/ADJ auctoritas/NOUN ./PUNCT 
+dicitur/VERB enim/ADV ioan./X 4-24/NUM :/PUNCT 
+spiritus/NOUN est/AUX deus/PROPN ,/PUNCT et/CCONJ eos/PRON qui/PRON eum/PRON adorant/VERB ,/PUNCT in/ADP spiritu/NOUN et/CCONJ veritate/NOUN adorare/VERB oportet/VERB ./PUNCT 
+dicitur/VERB etiam/ADV 1/NUM tim./X 1-17/NUM :/PUNCT 
+regi/NOUN saeculorum/NOUN immortali/ADJ ,/PUNCT invisibili/ADJ ,/PUNCT soli/ADJ deo/PROPN ./PUNCT 
+et/CCONJ rom./X 1-20/NUM :/PUNCT 
+invisibilia/ADJ dei/PROPN per/ADP ea/PRON quae/PRON facta/VERB sunt/AUX intellecta/VERB conspiciuntur/AUX :/PUNCT 
+quae/PRON enim/ADV non/ADV visu/NOUN sed/CCONJ intellectu/NOUN conspiciuntur/VERB ,/PUNCT incorporea/ADJ sunt/AUX ./PUNCT 
+per/ADP hoc/PRON autem/CCONJ destruitur/VERB error/NOUN primorum/ADJ philosophorum/NOUN naturalium/ADJ ,/PUNCT qui/PRON non/ADV ponebant/VERB nisi/SCONJ causas/NOUN materiales/ADJ ,/PUNCT ut/SCONJ ignem/NOUN vel/CCONJ aquam/NOUN vel/CCONJ aliquid/PRON huiusmodi/ADV ;/PUNCT 
+et/CCONJ sic/ADV prima/ADJ rerum/NOUN principia/NOUN corpora/NOUN dicebant/VERB ,/PUNCT et/CCONJ eadem/PRON vocabant/VERB deos/NOUN ./PUNCT 
+inter/ADP quos/PRON etiam/ADV quidam/PRON fuerunt/AUX ponentes/VERB causas/NOUN moventes/VERB amicitiam/NOUN et/CCONJ litem/NOUN ./PUNCT 
+qui/PRON etiam/ADV propter/ADP praedictas/VERB rationes/NOUN confutantur/VERB ./PUNCT 
+nam/ADV ,/PUNCT cum/SCONJ lis/NOUN et/CCONJ amicitia/NOUN sint/VERB in/ADP corporibus/NOUN secundum/ADP eos/PRON ,/PUNCT sequetur/VERB prima/ADJ principia/NOUN moventia/VERB esse/AUX virtutes/NOUN in/ADP corpore/NOUN ./PUNCT 
+ipsi/PRON etiam/ADV ponebant/VERB deum/PROPN esse/AUX compositum/VERB ex/ADP quatuor/NUM elementis/NOUN et/CCONJ amicitia/NOUN ./PUNCT 
+per/ADP quod/PRON datur/VERB intelligi/VERB quod/SCONJ posuerunt/VERB deum/PROPN esse/AUX corpus/NOUN caeleste/ADJ ./PUNCT 
+inter/ADP antiquos/ADJ autem/CCONJ solus/ADJ anaxagoras/PROPN ad/ADP veritatem/NOUN accessit/VERB ,/PUNCT ponens/VERB intellectum/NOUN moventem/VERB omnia/DET ./PUNCT 
+hac/PRON etiam/ADV veritate/NOUN redarguuntur/VERB gentiles/ADJ ponentes/VERB ipsa/PRON elementa/NOUN mundi/NOUN et/CCONJ virtutes/NOUN in/ADP eis/PRON existentes/VERB deos/NOUN esse/AUX ,/PUNCT ut/SCONJ solem/NOUN ,/PUNCT lunam/NOUN ,/PUNCT terram/NOUN ,/PUNCT aquam/NOUN et/CCONJ huiusmodi/ADV ,/PUNCT occasionem/NOUN habentes/VERB ex/ADP praedictis/VERB philosophorum/NOUN erroribus/NOUN ./PUNCT 
+praedictis/VERB etiam/ADV rationibus/NOUN excluduntur/VERB deliramenta/NOUN iudaeorum/ADJ simplicium/ADJ ,/PUNCT tertulliani/PROPN ,/PUNCT vadianorum/PROPN sive/CCONJ anthropomorphitarum/PROPN haereticorum/ADJ qui/PRON deum/PROPN corporalibus/ADJ lineamentis/NOUN figurabant/VERB :/PUNCT necnon/ADV et/CCONJ manichaeorum/PROPN ,/PUNCT qui/PRON quandam/PRON infinitam/ADJ lucis/NOUN substantiam/NOUN per/ADP infinitum/ADJ spatium/NOUN distentam/VERB deum/PROPN aestimabant/VERB ./PUNCT 
+quorum/PRON omnium/DET errorum/NOUN fuit/VERB occasio/NOUN quod/SCONJ de/ADP divinis/ADJ cogitantes/VERB ad/ADP imaginationem/NOUN deducebantur/VERB ,/PUNCT per/ADP quam/PRON non/ADV potest/VERB accipi/VERB nisi/SCONJ corporis/NOUN similitudo/NOUN ./PUNCT 
+et/CCONJ ideo/ADV eam/PRON in/ADP incorporeis/ADJ meditandis/VERB derelinquere/VERB oportet/VERB ./PUNCT 
+quod/SCONJ deus/PROPN est/AUX sua/DET essentia/NOUN ./PUNCT 
+ex/ADP praemissis/VERB autem/CCONJ haberi/VERB potest/VERB quod/SCONJ deus/PROPN est/AUX sua/DET essentia/NOUN ,/PUNCT quidditas/NOUN seu/CCONJ natura/NOUN ./PUNCT 
+in/ADP omni/DET enim/ADV eo/PRON quod/PRON non/ADV est/VERB sua/DET essentia/NOUN sive/CCONJ quidditas/NOUN ,/PUNCT oportet/VERB aliquam/PRON esse/VERB compositionem/NOUN ./PUNCT 
+cum/SCONJ enim/ADV in/ADP unoquoque/PRON sit/VERB sua/DET essentia/NOUN ,/PUNCT si/SCONJ nihil/PRON in/ADP aliquo/PRON esset/VERB praeter/ADP eius/PRON essentiam/NOUN ,/PUNCT totum/PRON quod/PRON res/NOUN est/AUX esset/AUX eius/PRON essentia/NOUN :/PUNCT et/CCONJ sic/ADV ipsum/PRON esset/AUX sua/DET essentia/NOUN ./PUNCT 
+si/SCONJ igitur/ADV aliquid/PRON non/ADV esset/AUX sua/DET essentia/NOUN ,/PUNCT oportet/VERB aliquid/PRON in/ADP eo/PRON esse/VERB praeter/ADP eius/PRON essentiam/NOUN ./PUNCT 
+et/CCONJ sic/ADV oportet/VERB in/ADP eo/PRON esse/VERB compositionem/NOUN ./PUNCT 
+unde/ADV etiam/ADV essentia/NOUN in/ADP compositis/NOUN significatur/VERB per/ADP modum/NOUN partis/NOUN ,/PUNCT ut/SCONJ humanitas/NOUN in/ADP homine/NOUN ./PUNCT 
+ostensum/VERB est/AUX autem/CCONJ in/ADP deo/PROPN nullam/PRON esse/VERB compositionem/NOUN ./PUNCT 
+deus/PROPN igitur/ADV est/AUX sua/DET essentia/NOUN ./PUNCT 
+adhuc/ADV ./PUNCT 
+solum/ADJ illud/PRON videtur/VERB esse/VERB praeter/ADP essentiam/NOUN vel/CCONJ quidditatem/NOUN rei/NOUN quod/PRON non/ADV intrat/VERB definitionem/NOUN ipsius/PRON :/PUNCT 
+definitio/NOUN enim/ADV significat/VERB quid/PRON est/AUX res/NOUN ./PUNCT 
+sola/ADJ autem/CCONJ accidentia/NOUN rei/NOUN sunt/VERB quae/PRON in/ADP definitione/NOUN non/ADV cadunt/VERB ./PUNCT 
+sola/ADJ igitur/ADV accidentia/NOUN sunt/VERB in/ADP re/NOUN aliqua/PRON praeter/ADP essentiam/NOUN eius/PRON ./PUNCT 
+in/ADP deo/PROPN autem/CCONJ non/ADV sunt/VERB aliqua/PRON accidentia/NOUN ,/PUNCT ut/SCONJ ostendetur/VERB ./PUNCT 
+nihil/PRON igitur/ADV est/VERB in/ADP eo/PRON praeter/ADP essentiam/NOUN eius/PRON ./PUNCT 
+est/AUX igitur/ADV ipse/PRON sua/DET essentia/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+formae/NOUN quae/PRON de/ADP rebus/NOUN subsistentibus/ADJ non/ADV praedicantur/VERB ,/PUNCT sive/CCONJ in/ADP universali/ADJ sive/CCONJ in/ADP singulari/ADJ acceptis/VERB ,/PUNCT sunt/AUX formae/NOUN quae/PRON non/ADV per/ADP se/PRON singulariter/ADJ subsistunt/AUX in/ADP seipsis/PRON individuatae/VERB ./PUNCT 
+non/ADV enim/ADV dicitur/VERB quod/SCONJ socrates/PROPN aut/CCONJ homo/NOUN aut/CCONJ animal/ADJ sit/AUX albedo/NOUN ,/PUNCT quia/SCONJ albedo/NOUN non/ADV est/AUX per/ADP se/PRON singulariter/ADJ subsistens/ADJ ,/PUNCT sed/CCONJ individuatur/AUX per/ADP subiectum/NOUN subsistens/ADJ ./PUNCT 
+similiter/ADJ etiam/ADV formae/NOUN naturales/ADJ non/ADV subsistunt/VERB per/ADP se/PRON singulariter/ADJ ,/PUNCT sed/CCONJ individuantur/VERB in/ADP propriis/ADJ materiis/NOUN :/PUNCT 
+unde/ADV non/ADV dicimus/VERB quod/SCONJ hic/PRON ignis/NOUN ,/PUNCT aut/CCONJ ignis/NOUN ,/PUNCT sit/AUX sua/DET forma/NOUN ./PUNCT 
+ipsae/PRON etiam/ADV essentiae/NOUN vel/CCONJ quidditates/NOUN generum/NOUN vel/CCONJ specierum/NOUN individuantur/VERB per/ADP materiam/NOUN signatam/VERB huius/PRON vel/CCONJ illius/PRON individui/NOUN ,/PUNCT licet/SCONJ etiam/ADV quidditas/NOUN generis/NOUN vel/CCONJ speciei/NOUN formam/NOUN includat/VERB et/CCONJ materiam/NOUN in/ADP communi/ADJ :/PUNCT 
+unde/ADV non/ADV dicitur/VERB quod/SCONJ socrates/PROPN ,/PUNCT vel/CCONJ homo/NOUN ,/PUNCT sit/AUX humanitas/NOUN ./PUNCT 
+sed/CCONJ divina/ADJ essentia/NOUN est/AUX per/ADP se/PRON singulariter/ADJ existens/VERB et/CCONJ in/ADP seipsa/PRON individuata/VERB :/PUNCT cum/SCONJ non/ADV sit/VERB in/ADP aliqua/PRON materia/NOUN ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+divina/ADJ igitur/ADV essentia/NOUN praedicatur/VERB de/ADP deo/PROPN ,/PUNCT ut/SCONJ dicatur/VERB :/PUNCT 
+deus/PROPN est/AUX sua/DET essentia/NOUN ./PUNCT 
+praeterea/ADV ./PUNCT 
+essentia/NOUN rei/NOUN vel/CCONJ est/AUX res/NOUN ipsa/PRON vel/CCONJ se/PRON habet/VERB ad/ADP ipsam/PRON aliquo/PRON modo/NOUN ut/SCONJ causa/NOUN :/PUNCT cum/SCONJ res/NOUN per/ADP suam/DET essentiam/NOUN speciem/NOUN sortiatur/VERB ./PUNCT 
+sed/CCONJ nullo/PRON modo/NOUN potest/VERB esse/AUX aliquid/PRON causa/NOUN dei/PROPN :/PUNCT cum/SCONJ sit/AUX primum/ADJ ens/NOUN ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+deus/PROPN igitur/ADV est/AUX sua/DET essentia/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+quod/PRON non/ADV est/AUX sua/DET essentia/NOUN ,/PUNCT se/PRON habet/VERB secundum/ADP aliquid/PRON sui/PRON ad/ADP ipsam/PRON ut/SCONJ potentia/NOUN ad/ADP actum/NOUN ./PUNCT 
+unde/ADV et/CCONJ per/ADP modum/NOUN formae/NOUN significatur/VERB essentia/NOUN ,/PUNCT ut/SCONJ puta/VERB ,/PUNCT humanitas/NOUN ./PUNCT 
+sed/CCONJ in/ADP deo/PROPN nulla/PRON est/VERB potentialitas/NOUN ,/PUNCT ut/SCONJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+oportet/VERB igitur/ADV quod/SCONJ ipse/PRON sit/AUX sua/DET essentia/NOUN ./PUNCT 
+quod/SCONJ in/ADP deo/PROPN idem/PRON est/AUX esse/NOUN et/CCONJ essentia/NOUN ./PUNCT 
+ex/ADP his/PRON autem/CCONJ quae/PRON supra/ADP ostensa/VERB sunt/AUX ,/PUNCT ulterius/ADJ probari/VERB potest/VERB quod/SCONJ in/ADP deo/PROPN non/ADV est/AUX aliud/PRON essentia/NOUN vel/CCONJ quidditas/NOUN quam/SCONJ suum/DET esse/NOUN ./PUNCT 
+ostensum/VERB est/AUX enim/ADV supra/ADP aliquid/PRON esse/VERB quod/PRON per/ADP se/PRON necesse/ADJ est/AUX esse/VERB ,/PUNCT quod/PRON deus/PROPN est/AUX ./PUNCT 
+hoc/PRON igitur/ADV esse/NOUN quod/PRON necesse/ADJ est/AUX ,/PUNCT si/SCONJ est/VERB alicui/PRON quidditati/NOUN quae/PRON non/ADV est/VERB quod/PRON ipsum/PRON est/AUX ,/PUNCT aut/CCONJ est/AUX dissonum/ADJ illi/PRON quidditati/NOUN seu/CCONJ repugnans/VERB ,/PUNCT sicut/SCONJ per/ADP se/PRON existere/VERB quidditati/NOUN albedinis/NOUN :/PUNCT aut/CCONJ ei/PRON consonum/ADJ sive/CCONJ affine/ADJ ,/PUNCT sicut/SCONJ albedini/NOUN esse/VERB in/ADP alio/PRON ./PUNCT 
+si/SCONJ primo/ADJ modo/NOUN ,/PUNCT illi/PRON quidditati/NOUN non/ADV conveniet/VERB esse/VERB quod/PRON est/AUX per/ADP se/PRON necesse/ADJ :/PUNCT sicut/SCONJ nec/CCONJ albedini/NOUN per/ADP se/PRON existere/VERB ./PUNCT 
+si/SCONJ autem/CCONJ secundo/ADJ modo/NOUN ,/PUNCT oportet/VERB quod/SCONJ vel/CCONJ esse/NOUN huiusmodi/ADV dependeat/VERB ab/ADP essentia/NOUN ;/PUNCT vel/CCONJ utrumque/PRON ab/ADP alia/PRON causa/NOUN ;/PUNCT vel/CCONJ essentia/NOUN ab/ADP esse/NOUN ./PUNCT 
+prima/ADJ duo/NUM sunt/VERB contra/ADP rationem/NOUN eius/PRON quod/PRON est/VERB per/ADP se/PRON necesse-esse/VERB :/PUNCT quia/SCONJ ,/PUNCT si/SCONJ ab/ADP alio/PRON dependet/VERB ,/PUNCT iam/ADV non/ADV est/AUX necesse/ADJ esse/NOUN ./PUNCT 
+ex/ADP tertio/ADJ vero/ADJ sequitur/VERB quod/SCONJ illa/PRON quidditas/NOUN accidentaliter/ADJ adveniat/VERB ad/ADP rem/NOUN quae/PRON per/ADP se/PRON necesse/ADJ est/AUX esse/VERB :/PUNCT quia/SCONJ omne/DET quod/PRON sequitur/VERB ad/ADP esse/NOUN rei/NOUN ,/PUNCT est/AUX ei/PRON accidentale/ADJ ./PUNCT 
+et/CCONJ sic/ADV non/ADV erit/AUX eius/PRON quidditas/NOUN ./PUNCT 
+deus/PROPN igitur/ADV non/ADV habet/VERB essentiam/NOUN quae/PRON non/ADV sit/AUX suum/DET esse/NOUN ./PUNCT 
+sed/CCONJ contra/ADP hoc/PRON potest/VERB dici/VERB quod/SCONJ illud/PRON esse/NOUN non/ADV absolute/ADJ dependet/VERB ab/ADP essentia/NOUN illa/PRON ,/PUNCT ut/SCONJ omnino/ADV non/ADV sit/VERB nisi/SCONJ illa/PRON esset/VERB :/PUNCT sed/CCONJ dependet/VERB quantum/ADV ad/ADP coniunctionem/NOUN qua/PRON ei/PRON coniungitur/VERB ./PUNCT 
+et/CCONJ sic/ADV illud/PRON esse/NOUN per/ADP se/PRON necesse/ADJ est/AUX ,/PUNCT sed/CCONJ ipsum/PRON coniungi/VERB non/ADV per/ADP se/PRON necesse/ADJ est/AUX ./PUNCT 
+haec/PRON autem/CCONJ responsio/NOUN praedicta/VERB inconvenientia/NOUN non/ADV evadit/VERB ./PUNCT 
+quia/SCONJ si/SCONJ illud/PRON esse/NOUN potest/VERB intelligi/VERB sine/ADP illa/PRON essentia/NOUN ,/PUNCT sequetur/VERB quod/SCONJ illa/PRON essentia/NOUN accidentaliter/ADJ se/PRON habet/VERB ad/ADP illud/PRON esse/NOUN ./PUNCT 
+sed/CCONJ id/PRON quod/PRON est/AUX per/ADP se/PRON necesse-esse/VERB est/VERB illud/PRON esse/NOUN ./PUNCT 
+ergo/ADV illa/PRON essentia/NOUN se/PRON habet/VERB accidentaliter/ADJ ad/ADP id/PRON quod/PRON est/AUX per/ADP se/PRON necesse/ADJ esse/VERB ./PUNCT 
+non/ADV ergo/ADV est/AUX quidditas/NOUN eius/PRON ./PUNCT 
+hoc/PRON autem/CCONJ quod/PRON est/VERB per/ADP per/ADP se/PRON necesse-esse/VERB ,/PUNCT est/AUX deus/PROPN ./PUNCT 
+non/ADV igitur/ADV illa/PRON est/AUX essentia/NOUN dei/PROPN ,/PUNCT sed/CCONJ aliqua/PRON essentia/NOUN deo/PROPN posterior/ADJ ./PUNCT 
+si/SCONJ autem/CCONJ non/ADV potest/VERB intelligi/VERB illud/PRON esse/NOUN sine/ADP illa/PRON essentia/NOUN ,/PUNCT tunc/ADV illud/PRON esse/NOUN absolute/ADJ dependet/VERB ab/ADP eo/PRON a/ADP quo/PRON dependet/VERB coniunctio/NOUN sua/DET ad/ADP essentiam/NOUN illam/PRON ./PUNCT 
+et/CCONJ sic/ADV redit/VERB idem/PRON quod/SCONJ prius/ADJ ./PUNCT 
+item/ADV ./PUNCT 
+unumquodque/PRON est/VERB per/ADP suum/DET esse/NOUN ./PUNCT 
+quod/PRON igitur/ADV non/ADV est/AUX suum/DET esse/NOUN ,/PUNCT non/ADV est/VERB per/ADP se/PRON necesse-esse/VERB ./PUNCT 
+deus/PROPN autem/CCONJ est/VERB per/ADP se/PRON necesse-esse/VERB ./PUNCT 
+ergo/ADV deus/PROPN est/AUX suum/DET esse/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+si/SCONJ esse/NOUN dei/PROPN non/ADV est/AUX sua/DET essentia/NOUN ,/PUNCT non/ADV autem/CCONJ pars/NOUN eius/PRON esse/AUX potest/VERB ,/PUNCT cum/SCONJ essentia/NOUN divina/ADJ sit/AUX simplex/ADJ ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ,/PUNCT oportet/VERB quod/SCONJ huiusmodi/ADV esse/NOUN sit/AUX aliquid/PRON praeter/ADP essentiam/NOUN eius/PRON ./PUNCT 
+omne/DET autem/CCONJ quod/PRON convenit/VERB alicui/PRON quod/PRON non/ADV est/VERB de/ADP essentia/NOUN eius/PRON ,/PUNCT convenit/VERB ei/PRON per/ADP aliquam/PRON causam/NOUN :/PUNCT 
+ea/PRON enim/ADV quae/PRON per/ADP se/PRON non/ADV sunt/AUX unum/NUM ,/PUNCT si/SCONJ coniungantur/VERB ,/PUNCT oportet/VERB per/ADP aliquam/PRON causam/NOUN uniri/VERB ./PUNCT 
+esse/NOUN igitur/ADV convenit/VERB illi/PRON quidditati/NOUN per/ADP aliquam/PRON causam/NOUN ./PUNCT 
+aut/CCONJ igitur/ADV per/ADP aliquid/PRON quod/PRON est/VERB de/ADP essentia/NOUN illius/PRON rei/NOUN ,/PUNCT sive/CCONJ per/ADP essentiam/NOUN ipsam/PRON ,/PUNCT aut/CCONJ per/ADP aliquid/PRON aliud/PRON ./PUNCT 
+si/SCONJ primo/ADJ modo/NOUN ,/PUNCT essentia/NOUN autem/CCONJ est/VERB secundum/ADP illud/PRON esse/NOUN ,/PUNCT sequitur/VERB quod/SCONJ aliquid/PRON sit/AUX sibi/PRON ipsi/PRON causa/NOUN essendi/VERB ./PUNCT 
+hoc/PRON autem/CCONJ est/AUX impossibile/ADJ :/PUNCT quia/SCONJ prius/ADJ secundum/ADP intellectum/NOUN est/VERB causam/NOUN esse/VERB quam/SCONJ effectum/NOUN ;/PUNCT 
+si/SCONJ ergo/ADV aliquid/PRON sibi/PRON ipsi/PRON esset/AUX causa/NOUN essendi/VERB ,/PUNCT intelligeretur/VERB esse/VERB antequam/SCONJ haberet/VERB esse/NOUN ,/PUNCT quod/PRON est/AUX impossibile/ADJ :/PUNCT 
+-/PUNCT nisi/SCONJ intelligatur/VERB quod/SCONJ aliquid/PRON sit/AUX sibi/PRON causa/NOUN essendi/VERB secundum/ADP esse/NOUN accidentale/ADJ ,/PUNCT quod/PRON esse/NOUN est/AUX secundum/ADP quid/PRON ./PUNCT 
+hoc/PRON enim/ADV non/ADV est/AUX impossibile/ADJ :/PUNCT 
+invenitur/VERB enim/ADV aliquod/PRON ens/NOUN accidentale/ADJ causatum/VERB ex/ADP principiis/NOUN sui/PRON subiecti/NOUN ,/PUNCT ante/ADP quod/PRON esse/NOUN intelligitur/VERB esse/NOUN substantiale/ADJ subiecti/NOUN ./PUNCT 
+nunc/ADV autem/CCONJ non/ADV loquimur/VERB de/ADP esse/NOUN accidentali/ADJ ,/PUNCT sed/CCONJ de/ADP substantiali/ADJ ./PUNCT 
+si/SCONJ autem/CCONJ illi/PRON conveniat/VERB per/ADP aliquam/PRON aliam/PRON causam/NOUN ;/PUNCT 
+omne/DET autem/CCONJ quod/PRON acquirit/VERB esse/NOUN ab/ADP alia/PRON causa/NOUN ,/PUNCT est/AUX causatum/VERB ,/PUNCT et/CCONJ non/ADV est/AUX causa/NOUN prima/ADJ ;/PUNCT 
+deus/PROPN autem/CCONJ est/AUX prima/ADJ causa/NOUN non/ADV habens/VERB causam/NOUN ,/PUNCT ut/SCONJ supra/ADP demonstratum/VERB est/AUX :/PUNCT 
+igitur/ADV ista/PRON quidditas/NOUN quae/PRON acquirit/VERB esse/NOUN aliunde/ADV ,/PUNCT non/ADV est/AUX quidditas/NOUN dei/PROPN ./PUNCT 
+necesse/ADJ est/AUX igitur/ADV quod/SCONJ dei/PROPN esse/NOUN quidditas/NOUN sua/DET sit/AUX ./PUNCT 
+amplius/ADJ ./PUNCT 
+esse/NOUN actum/NOUN quendam/PRON nominat/VERB :/PUNCT 
+non/ADV enim/ADV dicitur/VERB esse/VERB aliquid/PRON ex/ADP hoc/PRON quod/SCONJ est/VERB in/ADP potentia/NOUN ,/PUNCT sed/CCONJ ex/ADP eo/PRON quod/SCONJ est/VERB in/ADP actu/NOUN ./PUNCT 
+omne/DET autem/CCONJ cui/PRON convenit/VERB actus/NOUN aliquis/PRON diversum/ADJ ab/ADP eo/PRON existens/AUX ,/PUNCT se/PRON habet/VERB ad/ADP ipsum/PRON ut/SCONJ potentia/NOUN ad/ADP actum/NOUN :/PUNCT 
+actus/NOUN enim/ADV et/CCONJ potentia/NOUN ad/ADP se/PRON invicem/ADV dicuntur/VERB ./PUNCT 
+si/SCONJ ergo/ADV divina/ADJ essentia/NOUN est/AUX aliud/PRON quam/SCONJ suum/DET esse/NOUN ,/PUNCT sequitur/VERB quod/SCONJ essentia/NOUN et/CCONJ esse/NOUN se/PRON habeant/VERB sicut/SCONJ potentia/NOUN et/CCONJ actus/NOUN ./PUNCT 
+ostensum/VERB est/AUX autem/CCONJ in/ADP deo/PROPN nihil/PRON esse/VERB de/ADP potentia/NOUN ,/PUNCT sed/CCONJ ipsum/PRON esse/AUX purum/ADJ actum/NOUN ./PUNCT 
+non/ADV igitur/ADV dei/PROPN essentia/NOUN est/AUX aliud/PRON quam/SCONJ suum/DET esse/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+omne/DET illud/PRON quod/PRON non/ADV potest/VERB esse/VERB nisi/SCONJ concurrentibus/VERB pluribus/ADJ ,/PUNCT est/AUX compositum/VERB ./PUNCT 
+sed/CCONJ nulla/PRON res/NOUN in/ADP qua/PRON est/AUX aliud/PRON essentia/NOUN et/CCONJ aliud/PRON esse/NOUN ,/PUNCT potest/VERB esse/VERB nisi/SCONJ concurrentibus/VERB pluribus/ADJ ,/PUNCT scilicet/ADV essentia/NOUN et/CCONJ esse/NOUN ./PUNCT 
+ergo/ADV omnis/DET res/NOUN in/ADP qua/PRON est/AUX aliud/PRON essentia/NOUN et/CCONJ aliud/PRON esse/NOUN ,/PUNCT est/AUX composita/VERB ./PUNCT 
+deus/PROPN autem/CCONJ non/ADV est/AUX compositus/VERB ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+ipsum/PRON igitur/ADV esse/NOUN dei/PROPN est/AUX sua/DET essentia/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+omnis/DET res/NOUN est/VERB per/ADP hoc/PRON quod/SCONJ habet/VERB esse/NOUN ./PUNCT 
+nulla/PRON igitur/ADV res/NOUN cuius/PRON essentia/NOUN non/ADV est/AUX suum/DET esse/NOUN ,/PUNCT est/VERB per/ADP essentiam/NOUN suam/DET ,/PUNCT sed/CCONJ participatione/NOUN alicuius/PRON ,/PUNCT scilicet/ADV ipsius/PRON esse/NOUN ./PUNCT 
+quod/PRON autem/CCONJ est/VERB per/ADP participationem/NOUN alicuius/PRON ,/PUNCT non/ADV potest/VERB esse/AUX primum/ADJ ens/NOUN :/PUNCT quia/SCONJ id/PRON quod/PRON aliquid/PRON participat/VERB ad/ADP hoc/PRON quod/SCONJ sit/VERB ,/PUNCT est/AUX eo/PRON prius/ADJ ./PUNCT 
+deus/PROPN autem/CCONJ est/AUX primum/ADJ ens/NOUN ,/PUNCT quo/PRON nihil/PRON est/AUX prius/ADJ ./PUNCT 
+dei/PROPN igitur/ADV essentia/NOUN est/AUX suum/DET esse/NOUN ./PUNCT 
+hanc/PRON autem/CCONJ sublimem/ADJ veritatem/NOUN moyses/PROPN a/ADP domino/NOUN est/AUX edoctus/VERB ,/PUNCT qui/PRON cum/SCONJ quaereret/VERB a/ADP domino/NOUN ,/PUNCT exod./X 3/NUM dicens/VERB :/PUNCT 
+si/SCONJ dixerint/VERB ad/ADP me/PRON filii/NOUN israel/PROPN ,/PUNCT quod/PRON nomen/NOUN eius/PRON ?/PUNCT 
+quid/PRON dicam/VERB eis/PRON ?/PUNCT 
+dominus/NOUN respondit/VERB :/PUNCT 
+ego/PRON sum/VERB qui/PRON sum/VERB ./PUNCT 
+sic/ADV dices/VERB filiis/NOUN israel/PROPN :/PUNCT 
+qui/PRON est/VERB misit/VERB me/PRON ad/ADP vos/PRON ,/PUNCT ostendens/VERB suum/DET proprium/ADJ nomen/NOUN esse/VERB qui/PRON est/VERB ./PUNCT 
+quodlibet/PRON autem/CCONJ nomen/NOUN est/AUX institutum/VERB ad/ADP significandum/VERB naturam/NOUN seu/CCONJ essentiam/NOUN alicuius/PRON rei/NOUN ./PUNCT 
+unde/ADV relinquitur/VERB quod/SCONJ ipsum/PRON divinum/ADJ esse/NOUN est/AUX sua/DET essentia/NOUN vel/CCONJ natura/NOUN ./PUNCT 
+hanc/PRON etiam/ADV veritatem/NOUN catholici/ADJ doctores/NOUN professi/VERB sunt/AUX ./PUNCT 
+ait/VERB namque/ADV hilarius/PROPN ,/PUNCT in/ADP libro/NOUN de/ADP trin./X :/PUNCT 
+esse/NOUN non/ADV est/AUX accidens/NOUN deo/PROPN ,/PUNCT sed/CCONJ subsistens/ADJ veritas/NOUN ,/PUNCT et/CCONJ manens/VERB causa/NOUN ,/PUNCT et/CCONJ naturalis/ADJ generis/NOUN proprietas/NOUN ./PUNCT 
+boetius/PROPN etiam/ADV dicit/VERB ,/PUNCT in/ADP libro/NOUN de/ADP trin./X ,/PUNCT quod/SCONJ divina/ADJ substantia/NOUN est/AUX ipsum/PRON esse/NOUN et/CCONJ ab/ADP ea/PRON est/VERB esse/NOUN ./PUNCT 
+quod/SCONJ in/ADP deo/PROPN non/ADV est/VERB accidens/NOUN ./PUNCT 
+ex/ADP hac/PRON etiam/ADV veritate/NOUN de/ADP necessitate/NOUN sequitur/VERB quod/SCONJ deo/PROPN supra/ADP eius/PRON essentiam/NOUN nihil/PRON supervenire/VERB possit/VERB ,/PUNCT neque/CCONJ aliquid/PRON ei/PRON accidentaliter/ADJ inesse/VERB ./PUNCT 
+ipsum/PRON enim/ADV esse/NOUN non/ADV potest/VERB participare/VERB aliquid/PRON quod/PRON non/ADV sit/VERB de/ADP essentia/NOUN sua/DET :/PUNCT quamvis/SCONJ id/PRON quod/PRON est/VERB possit/VERB aliquid/PRON aliud/PRON participare/VERB ./PUNCT 
+nihil/PRON enim/ADV est/AUX formalius/ADJ aut/CCONJ simplicius/ADJ quam/SCONJ esse/NOUN ./PUNCT 
+et/CCONJ sic/ADV ipsum/PRON esse/NOUN nihil/PRON participare/VERB potest/VERB ./PUNCT 
+divina/ADJ autem/CCONJ substantia/NOUN est/AUX ipsum/PRON esse/NOUN ./PUNCT 
+ergo/ADV nihil/PRON habet/VERB quod/PRON non/ADV sit/VERB de/ADP sua/DET substantia/NOUN ./PUNCT 
+nullum/PRON ergo/ADV accidens/NOUN ei/PRON inesse/VERB potest/VERB ./PUNCT 
+amplius/ADJ ./PUNCT 
+omne/DET quod/PRON inest/VERB alicui/PRON accidentaliter/ADJ ,/PUNCT habet/VERB causam/NOUN quare/ADV insit/VERB :/PUNCT cum/SCONJ sit/VERB praeter/ADP essentiam/NOUN eius/PRON cui/PRON inest/VERB ./PUNCT 
+si/SCONJ igitur/ADV aliquid/PRON accidentaliter/ADJ sit/VERB in/ADP deo/PROPN ,/PUNCT oportet/VERB quod/SCONJ hoc/PRON sit/VERB per/ADP aliquam/PRON causam/NOUN ./PUNCT 
+aut/CCONJ ergo/ADV causa/NOUN accidentis/NOUN est/AUX ipsa/PRON divina/ADJ substantia/NOUN ,/PUNCT aut/CCONJ aliquid/PRON aliud/PRON ./PUNCT 
+si/SCONJ aliquid/PRON aliud/PRON ,/PUNCT oportet/VERB quod/SCONJ illud/PRON agat/VERB in/ADP divinam/ADJ substantiam/NOUN :/PUNCT 
+nihil/PRON enim/ADV inducit/VERB aliquam/PRON formam/NOUN ,/PUNCT vel/CCONJ substantialem/ADJ vel/CCONJ accidentalem/ADJ ,/PUNCT in/ADP aliquo/PRON recipiente/VERB ,/PUNCT nisi/SCONJ aliquo/PRON modo/NOUN agendo/VERB in/ADP ipsum/PRON ;/PUNCT eo/PRON quod/SCONJ agere/VERB nihil/PRON aliud/PRON est/AUX quam/SCONJ facere/VERB aliquid/PRON actu/NOUN ,/PUNCT quod/PRON quidem/ADV est/VERB per/ADP formam/NOUN ./PUNCT 
+ergo/ADV deus/PROPN patietur/VERB et/CCONJ movebitur/VERB ab/ADP alio/PRON agente/NOUN ./PUNCT 
+quod/PRON est/VERB contra/ADP praedeterminata/VERB ./PUNCT 
+si/SCONJ autem/CCONJ ipsa/PRON divina/ADJ substantia/NOUN est/AUX causa/NOUN accidentis/NOUN quod/PRON sibi/PRON inest/VERB ;/PUNCT 
+impossibile/ADJ est/AUX autem/CCONJ quod/SCONJ sit/AUX causa/NOUN illius/PRON secundum/ADP quod/SCONJ est/AUX recipiens/VERB ipsum/PRON ,/PUNCT quia/SCONJ sic/ADV idem/PRON secundum/ADP idem/PRON faceret/VERB seipsum/PRON in/ADP actu/NOUN ;/PUNCT 
+ergo/ADV oportet/VERB ,/PUNCT si/SCONJ in/ADP deo/PROPN est/VERB aliquod/PRON accidens/NOUN ,/PUNCT quod/SCONJ secundum/ADP aliud/PRON et/CCONJ aliud/PRON recipiat/VERB et/CCONJ causet/VERB accidens/NOUN illud/PRON ,/PUNCT sicut/SCONJ corporalia/ADJ recipiunt/VERB propria/ADJ accidentia/NOUN per/ADP naturam/NOUN materiae/NOUN et/CCONJ causant/VERB per/ADP formam/NOUN ./PUNCT 
+sic/ADV igitur/ADV deus/PROPN erit/AUX compositus/VERB ./PUNCT 
+cuius/PRON contrarium/ADJ superius/ADJ probatum/VERB est/AUX ./PUNCT 
+item/ADV ./PUNCT 
+omne/DET subiectum/NOUN accidentis/NOUN comparatur/VERB ad/ADP ipsum/PRON ut/SCONJ potentia/NOUN ad/ADP actum/NOUN :/PUNCT eo/PRON quod/SCONJ accidens/NOUN quaedam/PRON forma/NOUN est/AUX faciens/VERB esse/NOUN actu/NOUN secundum/ADP esse/NOUN accidentale/ADJ ./PUNCT 
+sed/CCONJ in/ADP deo/PROPN nulla/PRON est/VERB potentialitas/NOUN ,/PUNCT ut/SCONJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+in/ADP eo/PRON igitur/ADV nullum/PRON accidens/NOUN esse/VERB potest/VERB ./PUNCT 
+adhuc/ADV ./PUNCT 
+cuicumque/PRON inest/VERB aliquid/PRON accidentaliter/ADJ ,/PUNCT est/AUX aliquo/PRON modo/NOUN secundum/ADP suam/DET naturam/NOUN mutabile/ADJ :/PUNCT 
+accidens/NOUN enim/ADV de/ADP se/PRON natum/VERB est/AUX inesse/VERB et/CCONJ non/ADV inesse/VERB ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN habet/VERB aliquid/PRON accidentaliter/ADJ sibi/PRON conveniens/VERB ,/PUNCT sequetur/VERB quod/SCONJ ipse/PRON sit/AUX mutabilis/ADJ ./PUNCT 
+cuius/PRON contrarium/ADJ supra/ADP demonstratum/VERB est/AUX ./PUNCT 
+amplius/ADJ ./PUNCT 
+cuicumque/PRON inest/VERB aliquod/PRON accidens/NOUN ,/PUNCT non/ADV est/VERB quidquid/PRON habet/VERB in/ADP se/PRON :/PUNCT quia/SCONJ accidens/NOUN non/ADV est/VERB de/ADP essentia/NOUN subiecti/NOUN ./PUNCT 
+sed/CCONJ deus/PROPN est/VERB quidquid/PRON in/ADP se/PRON habet/VERB ./PUNCT 
+in/ADP deo/PROPN igitur/ADV nullum/PRON est/VERB accidens/NOUN ./PUNCT 
+media/ADJ sic/ADV probatur/VERB ./PUNCT 
+unumquodque/PRON nobilius/ADJ invenitur/VERB in/ADP causa/NOUN quam/SCONJ in/ADP effectu/NOUN ./PUNCT 
+deus/PROPN autem/CCONJ est/AUX omnium/DET causa/NOUN ./PUNCT 
+ergo/ADV quidquid/PRON est/VERB in/ADP eo/PRON ,/PUNCT nobilissimo/ADJ modo/NOUN in/ADP eo/PRON invenitur/VERB ./PUNCT 
+perfectissime/NOUN autem/CCONJ convenit/VERB aliquid/PRON alicui/PRON quod/PRON est/AUX ipsummet/PRON :/PUNCT 
+hoc/PRON enim/ADV perfectius/NOUN est/AUX unum/NUM quam/SCONJ cum/SCONJ aliquid/PRON alteri/PRON substantialiter/ADJ unitur/VERB ut/SCONJ forma/NOUN materiae/NOUN ;/PUNCT 
+quae/PRON etiam/ADV unio/VERB perfectior/NOUN est/AUX quam/SCONJ cum/SCONJ aliquid/PRON accidentaliter/ADJ inest/VERB ./PUNCT 
+relinquitur/VERB ergo/ADV quod/SCONJ deus/PROPN sit/VERB quidquid/PRON habet/VERB ./PUNCT 
+item/ADV ./PUNCT 
+substantia/NOUN non/ADV dependet/VERB ab/ADP accidente/NOUN :/PUNCT quamvis/SCONJ accidens/NOUN dependeat/VERB a/ADP substantia/NOUN ./PUNCT 
+quod/PRON autem/CCONJ non/ADV dependet/VERB ab/ADP aliquo/PRON ,/PUNCT potest/VERB aliquando/ADV inveniri/VERB sine/ADP illo/PRON ./PUNCT 
+ergo/ADV potest/VERB aliqua/PRON substantia/NOUN inveniri/VERB sine/ADP accidente/NOUN ./PUNCT 
+hoc/PRON autem/CCONJ praecipue/ADJ videtur/VERB simplicissimae/ADJ substantiae/NOUN convenire/VERB ,/PUNCT qualis/PRON est/AUX substantia/NOUN divina/ADJ ./PUNCT 
+divinae/ADJ igitur/ADV substantiae/NOUN omnino/ADV accidens/NOUN non/ADV inest/VERB ./PUNCT 
+in/ADP hanc/PRON autem/CCONJ sententiam/NOUN etiam/ADV catholici/ADJ tractatores/NOUN conveniunt/VERB ./PUNCT 
+unde/ADV augustinus/PROPN ,/PUNCT in/ADP libro/NOUN de/ADP trin./X ,/PUNCT dicit/VERB quod/SCONJ in/ADP deo/PROPN nullum/PRON est/VERB accidens/NOUN ./PUNCT 
+ex/ADP hac/PRON autem/CCONJ veritate/NOUN ostensa/VERB ,/PUNCT error/NOUN quorundam/PRON in/ADP lege/NOUN sarracenorum/PROPN loquentium/VERB confutatur/VERB ,/PUNCT qui/PRON ponunt/VERB quasdam/PRON intentiones/NOUN divinae/ADJ essentiae/NOUN superadditas/VERB ./PUNCT 
+quod/SCONJ divinum/ADJ esse/NOUN non/ADV potest/VERB designari/VERB per/ADP additionem/NOUN alicuius/PRON differentiae/NOUN substantialis/ADJ ./PUNCT 
+ostendi/VERB etiam/ADV ex/ADP praedictis/VERB potest/VERB quod/SCONJ supra/ADP ipsum/PRON divinum/ADJ esse/NOUN non/ADV potest/VERB aliquid/PRON superaddi/VERB quod/PRON designet/VERB ipsum/PRON designatione/NOUN essentiali/ADJ ,/PUNCT sicut/SCONJ designatur/VERB genus/NOUN per/ADP differentias/NOUN ./PUNCT 
+impossibile/ADJ est/AUX enim/ADV aliquid/PRON esse/VERB in/ADP actu/NOUN nisi/SCONJ omnibus/DET existentibus/VERB quibus/PRON esse/NOUN substantiale/ADJ designatur/VERB :/PUNCT 
+non/ADV enim/ADV potest/VERB esse/VERB animal/NOUN in/ADP actu/NOUN quin/SCONJ sit/AUX animal/NOUN rationale/ADJ vel/CCONJ irrationale/ADJ ./PUNCT 
+unde/ADV etiam/ADV platonici/ADJ ,/PUNCT ponentes/VERB ideas/NOUN ,/PUNCT non/ADV posuerunt/VERB ideas/NOUN per/ADP se/PRON existentes/VERB generum/NOUN ,/PUNCT quae/PRON designantur/VERB ad/ADP esse/NOUN speciei/NOUN per/ADP differentias/NOUN essentiales/ADJ ;/PUNCT sed/CCONJ posuerunt/VERB ideas/NOUN per/ADP se/PRON existentes/VERB solarum/ADJ specierum/NOUN ,/PUNCT quae/PRON ad/ADP sui/PRON designationem/NOUN non/ADV indigent/VERB essentialibus/ADJ differentiis/NOUN ./PUNCT 
+si/SCONJ igitur/ADV divinum/ADJ esse/NOUN per/ADP aliquid/PRON aliud/PRON superadditum/VERB designetur/VERB designatione/NOUN essentiali/ADJ ,/PUNCT ipsum/PRON esse/NOUN non/ADV erit/VERB in/ADP actu/NOUN nisi/SCONJ illo/PRON superaddito/VERB existente/VERB ./PUNCT 
+sed/CCONJ ipsum/PRON esse/NOUN divinum/ADJ est/AUX sua/DET substantia/NOUN ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+ergo/ADV substantia/NOUN divina/ADJ non/ADV potest/VERB esse/VERB in/ADP actu/NOUN nisi/SCONJ aliquo/PRON superveniente/VERB ./PUNCT 
+ex/ADP quo/PRON potest/VERB concludi/VERB quod/SCONJ non/ADV sit/VERB per/ADP se/PRON necesse-esse/VERB ./PUNCT 
+cuius/PRON contrarium/ADJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+item/ADV ./PUNCT 
+omne/DET illud/PRON quod/PRON indiget/VERB aliquo/PRON superaddito/VERB ad/ADP hoc/PRON quod/SCONJ possit/VERB esse/VERB ,/PUNCT est/VERB in/ADP potentia/NOUN respectu/NOUN illius/PRON ./PUNCT 
+sed/CCONJ divina/ADJ substantia/NOUN non/ADV est/VERB aliquo/PRON modo/NOUN in/ADP potentia/NOUN ,/PUNCT ut/SCONJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+sed/CCONJ sua/DET substantia/NOUN est/AUX suum/DET esse/NOUN ./PUNCT 
+igitur/ADV esse/NOUN suum/DET non/ADV potest/VERB designari/VERB aliqua/PRON designatione/NOUN substantiali/ADJ per/ADP aliquid/PRON sibi/PRON superadditum/VERB ./PUNCT 
+amplius/ADJ ./PUNCT 
+omne/DET illud/PRON per/ADP quod/PRON res/NOUN consequitur/VERB esse/NOUN in/ADP actu/NOUN et/CCONJ est/AUX intrinsecum/ADJ rei/NOUN ,/PUNCT vel/CCONJ est/AUX tota/PRON essentia/NOUN rei/NOUN ,/PUNCT vel/CCONJ pars/NOUN essentiae/NOUN ./PUNCT 
+quod/PRON autem/CCONJ designat/VERB aliquid/PRON designatione/NOUN essentiali/ADJ ,/PUNCT facit/VERB rem/NOUN esse/VERB actu/NOUN et/CCONJ est/AUX intrinsecum/ADJ rei/NOUN designatae/VERB :/PUNCT 
+alias/PRON per/ADP id/PRON designari/VERB non/ADV posset/VERB substantialiter/ADJ ./PUNCT 
+ergo/ADV oportet/VERB quod/SCONJ sit/AUX vel/CCONJ ipsa/PRON essentia/NOUN rei/NOUN ,/PUNCT vel/CCONJ pars/NOUN essentiae/NOUN ./PUNCT 
+sed/CCONJ si/SCONJ aliquid/PRON superadditur/VERB ad/ADP esse/NOUN divinum/ADJ ,/PUNCT hoc/PRON non/ADV potest/VERB esse/AUX tota/PRON essentia/NOUN dei/PROPN :/PUNCT quia/SCONJ iam/ADV ostensum/VERB est/AUX quod/SCONJ esse/NOUN dei/PROPN non/ADV est/AUX aliud/PRON ab/ADP essentia/NOUN eius/PRON ./PUNCT 
+relinquitur/VERB ergo/ADV quod/SCONJ sit/AUX pars/NOUN essentiae/NOUN divinae/ADJ ./PUNCT 
+et/CCONJ sic/ADV deus/PROPN erit/AUX compositus/VERB ex/ADP partibus/NOUN essentialiter/ADJ ./PUNCT 
+cuius/PRON contrarium/ADJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+item/ADV ./PUNCT 
+quod/PRON additur/VERB alicui/PRON ad/ADP designationem/NOUN alicuius/PRON designatione/NOUN essentiali/ADJ ,/PUNCT non/ADV constituit/VERB eius/PRON rationem/NOUN ,/PUNCT sed/CCONJ solum/ADJ esse/NOUN in/ADP actu/NOUN :/PUNCT 
+rationale/ADJ enim/ADV additum/VERB animali/NOUN acquirit/VERB animali/NOUN esse/NOUN in/ADP actu/NOUN ,/PUNCT non/ADV autem/CCONJ constituit/VERB rationem/NOUN animalis/NOUN inquantum/SCONJ est/AUX animal/NOUN ;/PUNCT 
+nam/ADV differentia/NOUN non/ADV intrat/VERB definitionem/NOUN generis/NOUN ./PUNCT 
+sed/CCONJ si/SCONJ in/ADP deo/PROPN addatur/VERB aliquid/PRON per/ADP quod/PRON designetur/VERB designatione/NOUN essentiali/ADJ ,/PUNCT oportet/VERB quod/SCONJ illud/PRON constituat/VERB ei/PRON cui/PRON additur/VERB rationem/NOUN propriae/ADJ eius/PRON quidditatis/NOUN seu/CCONJ naturae/NOUN :/PUNCT 
+nam/ADV quod/PRON sic/ADV additur/VERB ,/PUNCT acquirit/VERB rei/NOUN esse/NOUN in/ADP actu/NOUN ;/PUNCT 
+hoc/PRON autem/CCONJ ,/PUNCT scilicet/ADV esse/NOUN in/ADP actu/NOUN ,/PUNCT est/AUX ipsa/PRON divina/ADJ essentia/NOUN ,/PUNCT ut/SCONJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+relinquitur/VERB ergo/ADV quod/SCONJ supra/ADP divinum/ADJ esse/NOUN nihil/PRON possit/VERB addi/VERB quod/PRON designet/VERB ipsum/PRON designatione/NOUN essentiali/ADJ ,/PUNCT sicut/SCONJ differentia/NOUN designat/VERB genus/NOUN ./PUNCT 
+quod/SCONJ deus/PROPN non/ADV est/VERB in/ADP aliquo/PRON genere/NOUN ./PUNCT 
+ex/ADP hoc/PRON autem/CCONJ de/ADP necessitate/NOUN concluditur/VERB quod/SCONJ deus/PROPN non/ADV sit/VERB in/ADP aliquo/PRON genere/NOUN ./PUNCT 
+nam/ADV omne/DET quod/PRON est/VERB in/ADP aliquo/PRON genere/NOUN ,/PUNCT habet/VERB aliquid/PRON in/ADP se/PRON per/ADP quod/PRON natura/NOUN generis/NOUN designatur/VERB ad/ADP speciem/NOUN :/PUNCT 
+nihil/PRON enim/ADV est/VERB in/ADP genere/NOUN quod/PRON non/ADV sit/VERB in/ADP aliqua/PRON eius/PRON specie/NOUN ./PUNCT 
+hoc/PRON autem/CCONJ in/ADP deo/PROPN est/AUX impossibile/ADJ ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+impossibile/ADJ est/AUX igitur/ADV deum/PROPN esse/VERB in/ADP aliquo/PRON genere/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+si/SCONJ deus/PROPN sit/VERB in/ADP genere/NOUN ,/PUNCT aut/CCONJ est/VERB in/ADP genere/NOUN accidentis/NOUN ,/PUNCT aut/CCONJ in/ADP genere/NOUN substantiae/NOUN ./PUNCT 
+in/ADP genere/NOUN accidentis/NOUN non/ADV est/VERB :/PUNCT 
+accidens/NOUN enim/ADV non/ADV potest/VERB esse/AUX primum/ADJ ens/NOUN et/CCONJ prima/ADJ causa/NOUN ./PUNCT 
+in/ADP genere/NOUN etiam/ADV substantiae/NOUN esse/VERB non/ADV potest/VERB :/PUNCT quia/SCONJ substantia/NOUN quae/PRON est/AUX genus/NOUN ,/PUNCT non/ADV est/AUX ipsum/PRON esse/NOUN ;/PUNCT 
+alias/PRON omnis/DET substantia/NOUN esset/AUX esse/NOUN suum/DET ,/PUNCT et/CCONJ sic/ADV non/ADV esset/AUX causata/VERB ab/ADP alio/PRON ,/PUNCT quod/PRON esse/VERB non/ADV potest/VERB ,/PUNCT ut/SCONJ patet/VERB ex/ADP dictis/VERB ./PUNCT 
+deus/PROPN autem/CCONJ est/AUX ipsum/PRON esse/NOUN ./PUNCT 
+igitur/ADV non/ADV est/VERB in/ADP aliquo/PRON genere/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+quicquid/PRON est/VERB in/ADP genere/NOUN secundum/ADP esse/NOUN differt/VERB ab/ADP aliis/PRON quae/PRON in/ADP eodem/PRON genere/NOUN sunt/VERB ./PUNCT 
+alias/PRON genus/NOUN de/ADP pluribus/ADJ non/ADV praedicaretur/VERB ./PUNCT 
+oportet/VERB autem/CCONJ omnia/DET quae/PRON sunt/VERB in/ADP eodem/PRON genere/NOUN ,/PUNCT in/ADP quidditate/NOUN generis/NOUN convenire/VERB quia/SCONJ de/ADP omnibus/DET genus/NOUN in/ADP quod/PRON quid/PRON est/AUX praedicatur/VERB ./PUNCT 
+esse/NOUN igitur/ADV cuiuslibet/PRON in/ADP genere/NOUN existentis/VERB est/VERB praeter/ADP generis/NOUN quidditatem/NOUN ./PUNCT 
+hoc/PRON autem/CCONJ in/ADP deo/PROPN impossibile/ADJ est/AUX ./PUNCT 
+deus/PROPN igitur/ADV in/ADP genere/NOUN non/ADV est/VERB ./PUNCT 
+amplius/ADJ ./PUNCT 
+unumquodque/PRON collocatur/VERB in/ADP genere/NOUN per/ADP rationem/NOUN suae/DET quidditatis/NOUN :/PUNCT 
+genus/NOUN enim/ADV praedicatur/VERB in/ADP quid/PRON est/AUX ./PUNCT 
+sed/CCONJ quidditas/NOUN dei/PROPN est/AUX ipsum/PRON suum/DET esse/NOUN ./PUNCT 
+secundum/ADP quod/PRON non/ADV collocatur/VERB aliquid/PRON in/ADP genere/NOUN :/PUNCT quia/SCONJ sic/ADV ens/NOUN esset/AUX genus/NOUN ,/PUNCT quod/PRON significat/AUX ipsum/PRON esse/NOUN ./PUNCT 
+relinquitur/VERB igitur/ADV quod/SCONJ deus/PROPN non/ADV sit/VERB in/ADP genere/NOUN ./PUNCT 
+quod/SCONJ autem/CCONJ ens/NOUN non/ADV possit/VERB esse/AUX genus/NOUN ,/PUNCT probatur/VERB per/ADP philosophum/NOUN in/ADP hunc/PRON modum/NOUN ./PUNCT 
+si/SCONJ ens/NOUN esset/AUX genus/NOUN ,/PUNCT oporteret/VERB differentiam/NOUN aliquam/PRON inveniri/VERB per/ADP quam/PRON traheretur/VERB ad/ADP speciem/NOUN ./PUNCT 
+nulla/PRON autem/CCONJ differentia/NOUN participat/VERB genus/NOUN ,/PUNCT ita/ADV scilicet/ADV quod/SCONJ genus/NOUN sit/VERB in/ADP ratione/NOUN differentiae/NOUN ,/PUNCT quia/SCONJ sic/ADV genus/NOUN poneretur/VERB bis/ADV in/ADP definitione/NOUN speciei/NOUN :/PUNCT sed/CCONJ oportet/VERB differentiam/NOUN esse/VERB praeter/ADP id/PRON quod/PRON intelligitur/VERB in/ADP ratione/NOUN generis/NOUN ./PUNCT 
+nihil/PRON autem/CCONJ potest/VERB esse/VERB quod/PRON sit/VERB praeter/ADP id/PRON quod/PRON intelligitur/VERB per/ADP ens/NOUN ,/PUNCT si/SCONJ ens/NOUN sit/VERB de/ADP intellectu/NOUN eorum/PRON de/ADP quibus/PRON praedicatur/VERB ./PUNCT 
+et/CCONJ sic/ADV per/ADP nullam/PRON differentiam/NOUN contrahi/VERB potest/VERB ./PUNCT 
+relinquitur/VERB igitur/ADV quod/SCONJ ens/NOUN non/ADV sit/AUX genus/NOUN ./PUNCT 
+unde/ADV ex/ADP hoc/PRON de/ADP necessitate/NOUN concluditur/VERB quod/SCONJ deus/PROPN non/ADV sit/VERB in/ADP genere/NOUN ./PUNCT 
+ex/ADP quo/PRON etiam/ADV patet/VERB quod/SCONJ deus/PROPN definiri/VERB non/ADV potest/VERB :/PUNCT quia/SCONJ omnis/DET definitio/NOUN est/VERB ex/ADP genere/NOUN et/CCONJ differentiis/NOUN ./PUNCT 
+patet/VERB etiam/ADV quod/SCONJ non/ADV potest/VERB demonstratio/NOUN de/ADP ipso/PRON fieri/VERB ,/PUNCT nisi/SCONJ per/ADP effectum/NOUN :/PUNCT quia/SCONJ principium/NOUN demonstrationis/NOUN est/AUX definitio/NOUN eius/PRON de/ADP quo/PRON fit/VERB demonstratio/NOUN ./PUNCT 
+potest/VERB autem/CCONJ alicui/PRON videri/VERB quod/SCONJ ,/PUNCT quamvis/SCONJ nomen/NOUN substantiae/NOUN deo/PROPN proprie/ADJ convenire/VERB non/ADV possit/VERB ,/PUNCT quia/SCONJ deus/PROPN non/ADV substat/VERB accidentibus/NOUN ;/PUNCT res/NOUN tamen/ADV significata/VERB per/ADP nomen/NOUN ei/PRON conveniat/VERB ,/PUNCT et/CCONJ ita/ADV sit/VERB in/ADP genere/NOUN substantiae/NOUN ./PUNCT 
+nam/ADV substantia/NOUN est/AUX ens/NOUN per/ADP se/PRON :/PUNCT quod/PRON deo/PROPN constat/VERB convenire/VERB ,/PUNCT ex/ADP quo/PRON probatum/VERB est/AUX ipsum/PRON non/ADV esse/AUX accidens/NOUN ./PUNCT 
+sed/CCONJ ad/ADP hoc/PRON dicendum/VERB est/VERB ex/ADP dictis/VERB quod/SCONJ in/ADP definitione/NOUN substantiae/NOUN non/ADV est/VERB ens/NOUN per/ADP se/PRON ./PUNCT 
+ex/ADP hoc/PRON enim/ADV quod/PRON dicitur/AUX ens/NOUN non/ADV posset/VERB esse/AUX genus/NOUN :/PUNCT quia/SCONJ iam/ADV probatum/VERB est/AUX quod/SCONJ ens/NOUN non/ADV habet/VERB rationem/NOUN generis/NOUN ./PUNCT 
+similiter/ADJ nec/CCONJ ex/ADP hoc/PRON quod/SCONJ dicitur/VERB per/ADP se/PRON ./PUNCT 
+quia/SCONJ hoc/PRON non/ADV videtur/VERB importare/VERB nisi/SCONJ negationem/NOUN tantum/ADV :/PUNCT 
+dicitur/VERB enim/ADV ens/NOUN per/ADP se/PRON ex/ADP hoc/PRON quod/SCONJ non/ADV est/VERB in/ADP alio/PRON ;/PUNCT 
+quod/PRON est/AUX negatio/NOUN pura/ADJ ./PUNCT 
+quae/PRON nec/CCONJ potest/VERB rationem/NOUN generis/NOUN constituere/VERB :/PUNCT quia/SCONJ sic/ADV genus/NOUN non/ADV diceret/VERB quid/PRON est/AUX res/NOUN ,/PUNCT sed/CCONJ quid/PRON non/ADV est/AUX ./PUNCT 
+oportet/VERB igitur/ADV quod/SCONJ ratio/NOUN substantiae/NOUN intelligatur/VERB hoc/PRON modo/NOUN ,/PUNCT quod/SCONJ substantia/NOUN sit/AUX res/NOUN cui/PRON conveniat/VERB esse/VERB non/ADV in/ADP subiecto/NOUN ;/PUNCT 
+nomen/NOUN autem/CCONJ rei/NOUN a/ADP quidditate/NOUN imponitur/VERB ,/PUNCT sicut/SCONJ nomen/NOUN entis/NOUN ab/ADP esse/NOUN ;/PUNCT et/CCONJ sic/ADV in/ADP ratione/NOUN substantiae/NOUN intelligitur/VERB quod/SCONJ habeat/VERB quidditatem/NOUN cui/PRON conveniat/VERB esse/VERB non/ADV in/ADP alio/PRON ./PUNCT 
+hoc/PRON autem/CCONJ deo/PROPN non/ADV convenit/VERB :/PUNCT 
+nam/ADV non/ADV habet/VERB quidditatem/NOUN nisi/SCONJ suum/DET esse/NOUN ./PUNCT 
+unde/ADV relinquitur/VERB quod/SCONJ nullo/PRON modo/NOUN est/VERB in/ADP genere/NOUN substantiae/NOUN ./PUNCT 
+et/CCONJ sic/ADV nec/CCONJ in/ADP aliquo/PRON genere/NOUN :/PUNCT cum/SCONJ ostensum/VERB sit/AUX ipsum/PRON non/ADV esse/VERB in/ADP genere/NOUN accidentis/NOUN ./PUNCT 
+quod/SCONJ deus/PROPN non/ADV est/AUX esse/NOUN formale/ADJ omnium/DET ./PUNCT 
+ex/ADP his/PRON autem/CCONJ confutatur/VERB quorundam/PRON error/NOUN qui/PRON dixerunt/VERB deum/PROPN nihil/PRON aliud/PRON esse/AUX quam/SCONJ esse/NOUN formale/ADJ uniuscuiusque/PRON rei/NOUN ./PUNCT 
+nam/ADV esse/NOUN hoc/PRON dividitur/VERB per/ADP esse/NOUN substantiae/NOUN et/CCONJ esse/NOUN accidentis/NOUN ./PUNCT 
+divinum/ADJ autem/CCONJ esse/NOUN neque/CCONJ est/AUX esse/NOUN substantiae/NOUN neque/CCONJ esse/NOUN accidentis/NOUN ,/PUNCT ut/SCONJ probatum/VERB est/AUX ./PUNCT 
+impossibile/ADJ est/AUX igitur/ADV deum/PROPN esse/NOUN illud/PRON esse/AUX quo/PRON formaliter/ADJ unaquaeque/PRON res/NOUN est/VERB ./PUNCT 
+item/ADV ./PUNCT 
+res/NOUN ad/ADP invicem/ADV non/ADV distinguuntur/VERB secundum/ADP quod/SCONJ habent/VERB esse/NOUN :/PUNCT quia/SCONJ in/ADP hoc/PRON omnia/DET conveniunt/VERB ./PUNCT 
+si/SCONJ ergo/ADV res/NOUN differunt/VERB ad/ADP invicem/ADV ,/PUNCT oportet/VERB quod/SCONJ vel/CCONJ ipsum/PRON esse/NOUN specificetur/VERB per/ADP aliquas/PRON differentias/NOUN additas/VERB ,/PUNCT ita/ADV quod/SCONJ rebus/NOUN diversis/ADJ sit/AUX diversum/ADJ esse/NOUN secundum/ADP speciem/NOUN :/PUNCT vel/CCONJ quod/SCONJ res/NOUN differant/VERB per/ADP hoc/PRON quod/SCONJ ipsum/PRON esse/NOUN diversis/ADJ naturis/NOUN secundum/ADP speciem/NOUN convenit/VERB ./PUNCT 
+sed/CCONJ primum/ADJ horum/PRON est/AUX impossibile/ADJ :/PUNCT quia/SCONJ enti/NOUN non/ADV potest/VERB fieri/VERB aliqua/PRON additio/NOUN secundum/ADP modum/NOUN quo/PRON differentia/NOUN additur/VERB generi/NOUN ,/PUNCT ut/SCONJ dictum/VERB est/AUX ./PUNCT 
+relinquitur/VERB ergo/ADV quod/SCONJ res/NOUN propter/ADP hoc/PRON differant/VERB quod/SCONJ habent/VERB diversas/ADJ naturas/NOUN ,/PUNCT quibus/PRON acquiritur/VERB esse/NOUN diversimode/NOUN ./PUNCT 
+esse/NOUN autem/CCONJ divinum/ADJ non/ADV advenit/VERB alii/PRON naturae/NOUN ,/PUNCT sed/CCONJ est/AUX ipsa/PRON natura/NOUN ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+si/SCONJ igitur/ADV esse/NOUN divinum/ADJ esset/AUX formale/ADJ esse/NOUN omnium/DET ,/PUNCT oporteret/VERB omnia/DET simpliciter/ADJ esse/AUX unum/NUM ./PUNCT 
+amplius/ADJ ./PUNCT 
+principium/NOUN naturaliter/ADJ prius/ADJ est/AUX eo/PRON cuius/PRON est/AUX principium/NOUN ./PUNCT 
+esse/NOUN autem/CCONJ in/ADP quibusdam/PRON rebus/NOUN habet/VERB aliquid/PRON quasi/ADV principium/NOUN :/PUNCT 
+forma/NOUN enim/ADV dicitur/VERB esse/AUX principium/NOUN essendi/VERB ;/PUNCT et/CCONJ similiter/ADJ agens/NOUN ,/PUNCT quod/PRON facit/VERB aliqua/PRON esse/VERB actu/NOUN ./PUNCT 
+si/SCONJ igitur/ADV esse/NOUN divinum/ADJ sit/AUX esse/NOUN uniuscuiusque/PRON rei/NOUN ,/PUNCT sequetur/VERB quod/SCONJ deus/PROPN ,/PUNCT qui/PRON est/AUX suum/DET esse/NOUN ,/PUNCT habeat/VERB aliquam/PRON causam/NOUN ;/PUNCT et/CCONJ sic/ADV non/ADV sit/VERB necesse-esse/VERB per/ADP se/PRON ./PUNCT 
+cuius/PRON contrarium/ADJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+adhuc/ADV ./PUNCT 
+quod/PRON est/AUX commune/ADJ multis/ADJ ,/PUNCT non/ADV est/AUX aliquid/PRON praeter/ADP multa/ADJ nisi/SCONJ sola/ADJ ratione/NOUN :/PUNCT sicut/SCONJ animal/NOUN non/ADV est/AUX aliud/PRON praeter/ADP socratem/PROPN et/CCONJ platonem/PROPN et/CCONJ alia/PRON animalia/NOUN nisi/SCONJ intellectu/NOUN ,/PUNCT qui/PRON apprehendit/VERB formam/NOUN animalis/NOUN expoliatam/VERB ab/ADP omnibus/DET individuantibus/VERB et/CCONJ specificantibus/VERB ;/PUNCT 
+homo/NOUN enim/ADV est/VERB quod/PRON vere/ADJ est/AUX animal/NOUN ;/PUNCT 
+alias/PRON sequeretur/VERB quod/SCONJ in/ADP socrate/PROPN et/CCONJ platone/PROPN essent/VERB plura/ADJ animalia/NOUN ,/PUNCT scilicet/ADV ipsum/PRON animal/NOUN commune/ADJ ,/PUNCT et/CCONJ homo/NOUN communis/ADJ ,/PUNCT et/CCONJ ipse/PRON plato/PROPN ./PUNCT 
+multo/ADJ igitur/ADV minus/ADJ et/CCONJ ipsum/PRON esse/NOUN commune/ADJ est/AUX aliquid/PRON praeter/ADP omnes/DET res/NOUN existentes/VERB nisi/SCONJ in/ADP intellectu/NOUN solum/ADJ ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN sit/AUX esse/NOUN commune/ADJ ,/PUNCT deus/PROPN non/ADV erit/AUX aliqua/PRON res/NOUN nisi/SCONJ quae/PRON sit/VERB in/ADP intellectu/NOUN tantum/ADV ./PUNCT 
+ostensum/VERB autem/CCONJ est/AUX supra/ADP deum/PROPN esse/AUX aliquid/PRON non/ADV solum/ADJ in/ADP intellectu/NOUN ,/PUNCT sed/CCONJ in/ADP rerum/NOUN natura/NOUN ./PUNCT 
+non/ADV est/AUX igitur/ADV deus/PROPN ipsum/PRON esse/NOUN commune/ADJ omnium/DET ./PUNCT 
+item/ADV ./PUNCT 
+generatio/NOUN per/ADP se/PRON loquendo/VERB est/AUX via/NOUN in/ADP esse/NOUN ,/PUNCT et/CCONJ corruptio/NOUN via/NOUN in/ADP non/ADV esse/NOUN :/PUNCT 
+non/ADV enim/ADV generationis/NOUN terminus/NOUN est/AUX forma/NOUN et/CCONJ corruptionis/NOUN privatio/NOUN ,/PUNCT nisi/SCONJ quia/SCONJ forma/NOUN facit/VERB esse/NOUN et/CCONJ privatio/NOUN non/ADV esse/NOUN ;/PUNCT 
+dato/VERB enim/ADV quod/SCONJ aliqua/PRON forma/NOUN non/ADV faceret/VERB esse/NOUN ,/PUNCT non/ADV diceretur/VERB generari/VERB quod/PRON talem/PRON formam/NOUN acciperet/VERB ./PUNCT 
+si/SCONJ igitur/ADV deus/PROPN sit/AUX omnium/DET rerum/NOUN esse/NOUN formale/ADJ ,/PUNCT sequetur/VERB quod/SCONJ sit/AUX terminus/NOUN generationis/NOUN ./PUNCT 
+quod/PRON est/AUX falsum/ADJ :/PUNCT cum/SCONJ ipse/PRON sit/AUX aeternus/ADJ ,/PUNCT ut/SCONJ supra/ADP ostensum/VERB est/AUX ./PUNCT 
+praeterea/ADV ./PUNCT 
+sequetur/VERB quod/SCONJ esse/NOUN cuiuslibet/PRON rei/NOUN fuerit/VERB ab/ADP aeterno/ADJ ./PUNCT 
+non/ADV igitur/ADV potest/VERB esse/VERB generatio/NOUN vel/CCONJ corruptio/NOUN ./PUNCT 
+si/SCONJ enim/ADV sit/VERB ,/PUNCT oportet/VERB quod/SCONJ esse/NOUN praeexistens/VERB alicui/PRON rei/NOUN de/ADP novo/ADJ acquiratur/VERB ./PUNCT 
+aut/CCONJ ergo/ADV alicui/PRON prius/ADJ existenti/VERB :/PUNCT aut/CCONJ nullo/PRON modo/NOUN prius/ADJ existenti/VERB ./PUNCT 
+si/SCONJ primo/ADJ modo/NOUN ,/PUNCT cum/SCONJ unum/NUM sit/AUX esse/NOUN omnium/DET existentium/VERB secundum/ADP positionem/NOUN praedictam/VERB ,/PUNCT sequetur/VERB quod/SCONJ res/NOUN quae/PRON generari/VERB dicitur/VERB ,/PUNCT non/ADV accipiat/VERB novum/ADJ esse/NOUN ,/PUNCT sed/CCONJ novum/ADJ modum/NOUN essendi/VERB :/PUNCT quod/PRON non/ADV facit/VERB generationem/NOUN ,/PUNCT sed/CCONJ alterationem/NOUN ./PUNCT 
+si/SCONJ autem/CCONJ nullo/PRON modo/NOUN prius/ADJ existebat/VERB ,/PUNCT sequetur/VERB quod/SCONJ fiat/VERB ex/ADP nihilo/PRON :/PUNCT quod/PRON est/VERB contra/ADP rationem/NOUN generationis/NOUN ./PUNCT 
+igitur/ADV haec/PRON positio/NOUN omnino/ADV generationem/NOUN et/CCONJ corruptionem/NOUN destruit/VERB ./PUNCT 
+et/CCONJ ideo/ADV patet/VERB eam/PRON esse/AUX impossibilem/ADJ ./PUNCT 
+hunc/PRON etiam/ADV errorem/NOUN sacra/ADJ doctrina/NOUN repellit/VERB ,/PUNCT dum/SCONJ confitetur/VERB deum/PROPN excelsum/VERB et/CCONJ elevatum/VERB ,/PUNCT ut/SCONJ dicitur/VERB isaiae/PROPN 6-1/NUM ;/PUNCT et/CCONJ eum/PRON super/ADP omnia/DET esse/VERB ,/PUNCT ut/SCONJ rom./X 9-5/NUM habetur/VERB ./PUNCT 
+si/SCONJ enim/ADV esse/NOUN omnium/DET ,/PUNCT tunc/ADV est/AUX aliquid/PRON omnium/DET ,/PUNCT non/ADV autem/CCONJ super/ADP omnia/DET ./PUNCT 
+hi/PRON etiam/ADV errantes/VERB eadem/PRON sententia/NOUN procelluntur/VERB qua/PRON et/CCONJ idolatrae/NOUN ,/PUNCT qui/PRON incommunicabile/ADJ nomen/NOUN ,/PUNCT scilicet/ADV dei/PROPN ,/PUNCT lignis/NOUN et/CCONJ lapidibus/NOUN imposuerunt/VERB ,/PUNCT ut/SCONJ habetur/VERB sap./X 14-21/NUM ./PUNCT 
+si/SCONJ enim/ADV deus/PROPN est/AUX esse/NOUN omnium/DET ,/PUNCT non/ADV magis/ADV dicetur/VERB vere/ADJ lapis/NOUN est/AUX ens/NOUN ,/PUNCT quam/SCONJ lapis/NOUN est/AUX deus/PROPN ./PUNCT 
+huic/PRON autem/CCONJ errori/NOUN quatuor/NUM sunt/AUX quae/PRON videntur/VERB praestitisse/VERB fomentum/NOUN ./PUNCT 
+primum/ADJ est/AUX quarundam/PRON auctoritatum/NOUN intellectus/NOUN perversus/VERB ./PUNCT 
+invenitur/VERB enim/ADV a/ADP dionysio/PROPN dictum/NOUN ,/PUNCT iv/NUM cap./X cael./X hier./X :/PUNCT esse/NOUN omnium/DET est/AUX superessentialis/ADJ divinitas/NOUN ./PUNCT 
+ex/ADP quo/PRON intelligere/VERB voluerunt/VERB ipsum/PRON esse/NOUN formale/ADJ omnium/DET rerum/NOUN deum/PROPN esse/AUX ,/PUNCT non/ADV considerantes/VERB hunc/PRON intellectum/NOUN ipsis/PRON verbis/NOUN consonum/ADJ esse/AUX non/ADV posse/VERB ./PUNCT 
+nam/ADV si/SCONJ divinitas/NOUN est/AUX omnium/DET esse/NOUN formale/ADJ ,/PUNCT non/ADV erit/VERB super/ADP omnia/DET ,/PUNCT sed/CCONJ inter/ADP omnia/DET ,/PUNCT immo/ADV aliquid/PRON omnium/DET ./PUNCT 
+cum/SCONJ ergo/ADV divinitatem/NOUN super/ADP omnia/DET dixit/VERB ,/PUNCT ostendit/VERB secundum/ADP suam/DET naturam/NOUN ab/ADP omnibus/DET distinctum/VERB et/CCONJ super/ADP omnia/DET collocatum/VERB ./PUNCT 
+ex/ADP hoc/PRON vero/ADJ quod/SCONJ dixit/VERB quod/SCONJ divinitas/NOUN est/AUX esse/NOUN omnium/DET ,/PUNCT ostendit/VERB quod/SCONJ a/ADP deo/PROPN in/ADP omnibus/DET quaedam/PRON divini/ADJ esse/NOUN similitudo/NOUN reperitur/VERB ./PUNCT 
+hunc/PRON etiam/ADV eorum/PRON perversum/VERB intellectum/NOUN alibi/ADV apertius/VERB excludens/VERB ,/PUNCT dixit/VERB in/ADP ii/NUM cap./X de/ADP div./X nom./X ,/PUNCT quod/SCONJ ipsius/PRON dei/PROPN neque/CCONJ tactus/NOUN neque/CCONJ aliqua/PRON commixtio/NOUN est/AUX ad/ADP res/NOUN alias/PRON ,/PUNCT sicut/SCONJ est/AUX puncti/VERB ad/ADP lineam/NOUN vel/CCONJ figurae/NOUN sigilli/NOUN ad/ADP ceram/NOUN ./PUNCT 
+secundum/ADJ quod/PRON eos/PRON in/ADP hunc/PRON errorem/NOUN promovit/VERB ,/PUNCT est/AUX rationis/NOUN defectus/NOUN ./PUNCT 
+quia/SCONJ enim/ADV id/PRON quod/PRON commune/ADJ est/AUX per/ADP additionem/NOUN specificatur/VERB vel/CCONJ individuatur/VERB ,/PUNCT aestimaverunt/VERB divinum/ADJ esse/NOUN ,/PUNCT cui/PRON nulla/PRON fit/VERB additio/NOUN ,/PUNCT non/ADV esse/AUX aliquod/PRON esse/NOUN proprium/ADJ ,/PUNCT sed/CCONJ esse/NOUN commune/ADJ omnium/DET ;/PUNCT non/ADV considerantes/VERB quod/SCONJ id/PRON quod/PRON commune/ADJ est/AUX vel/CCONJ universale/ADJ sine/ADP additione/NOUN esse/VERB non/ADV potest/VERB ,/PUNCT sed/CCONJ sine/ADP additione/NOUN consideratur/VERB :/PUNCT 
+non/ADV enim/ADV animal/NOUN potest/VERB esse/VERB absque/ADP rationali/ADJ differentia/NOUN ,/PUNCT quamvis/SCONJ absque/ADP his/PRON differentiis/NOUN cogitetur/VERB ./PUNCT 
+licet/SCONJ etiam/ADV cogitetur/VERB universale/ADJ absque/ADP additione/NOUN ,/PUNCT non/ADV tamen/ADV absque/ADP receptibilitate/NOUN additionis/NOUN :/PUNCT 
+nam/ADV si/SCONJ animali/NOUN nulla/PRON differentia/NOUN addi/VERB posset/VERB ,/PUNCT genus/NOUN non/ADV esset/AUX ;/PUNCT et/CCONJ similiter/ADJ est/VERB de/ADP omnibus/DET aliis/PRON nominibus/NOUN ./PUNCT 
+divinum/ADJ autem/CCONJ esse/NOUN est/VERB absque/ADP additione/NOUN non/ADV solum/ADJ in/ADP cogitatione/NOUN ,/PUNCT sed/CCONJ etiam/ADV in/ADP rerum/NOUN natura/NOUN :/PUNCT nec/CCONJ solum/ADJ absque/ADP additione/NOUN ,/PUNCT sed/CCONJ etiam/ADV absque/ADP receptibilitate/NOUN additionis/NOUN ./PUNCT 
+unde/ADV ex/ADP hoc/PRON ipso/PRON quod/SCONJ additionem/NOUN ,/PUNCT non/ADV recipit/VERB nec/CCONJ recipere/VERB potest/VERB ,/PUNCT magis/ADV concludi/VERB potest/VERB quod/SCONJ deus/PROPN non/ADV sit/AUX esse/NOUN commune/ADJ ,/PUNCT sed/CCONJ proprium/ADJ :/PUNCT 
+etiam/ADV ex/ADP hoc/PRON ipso/PRON suum/DET esse/NOUN ab/ADP omnibus/DET aliis/PRON distinguitur/VERB quod/SCONJ nihil/PRON ei/PRON addi/VERB potest/VERB ./PUNCT 
+unde/ADV commentator/PROPN in/ADP libro/NOUN de/ADP causis/NOUN dicit/VERB quod/SCONJ causa/NOUN prima/ADJ ex/ADP ipsa/PRON puritate/NOUN suae/DET bonitatis/NOUN ab/ADP aliis/PRON distinguitur/VERB et/CCONJ quodammodo/ADV individuatur/VERB ./PUNCT 
+tertium/ADJ quod/PRON eos/PRON in/ADP hunc/PRON errorem/NOUN induxit/VERB ,/PUNCT est/AUX divinae/ADJ simplicitatis/NOUN consideratio/NOUN ./PUNCT 
+quia/SCONJ enim/ADV deus/PROPN in/ADP fine/NOUN simplicitatis/NOUN est/VERB ,/PUNCT aestimaverunt/VERB illud/PRON quod/PRON in/ADP ultimo/ADJ resolutionis/NOUN invenitur/VERB eorum/PRON quae/PRON fiunt/VERB in/ADP nobis/PRON ,/PUNCT deum/PROPN esse/AUX ,/PUNCT quasi/ADV simplicissimum/ADJ :/PUNCT 
+non/ADV enim/ADV est/VERB in/ADP infinitum/ADJ procedere/VERB in/ADP compositione/NOUN eorum/PRON quae/PRON sunt/VERB in/ADP nobis/PRON ./PUNCT 
+in/ADP hoc/PRON etiam/ADV eorum/PRON defecit/VERB ratio/NOUN ,/PUNCT dum/SCONJ non/ADV attenderunt/VERB id/PRON quod/PRON in/ADP nobis/PRON simplicissimum/ADJ invenitur/AUX ,/PUNCT non/ADV tam/ADV rem/NOUN completam/ADJ ,/PUNCT quam/SCONJ rei/NOUN aliquid/PRON esse/AUX ./PUNCT 
+deo/PROPN autem/CCONJ simplicitas/NOUN attribuitur/VERB sicut/SCONJ rei/NOUN alicui/PRON perfectae/NOUN subsistenti/ADJ ./PUNCT 
+quartum/ADJ etiam/ADV quod/PRON eos/PRON ad/ADP hoc/PRON inducere/VERB potuit/VERB ,/PUNCT est/AUX modus/NOUN loquendi/VERB quo/PRON dicimus/VERB deum/PROPN in/ADP omnibus/DET rebus/NOUN esse/VERB :/PUNCT non/ADV intelligentes/VERB quod/SCONJ non/ADV sic/ADV est/VERB in/ADP rebus/NOUN quasi/ADV aliquid/PRON rei/NOUN ,/PUNCT sed/CCONJ sicut/SCONJ rei/NOUN causa/NOUN quae/PRON nullo/PRON modo/NOUN suo/DET effectui/NOUN deest/VERB ./PUNCT 
+non/ADV enim/ADV similiter/ADJ dicimus/VERB esse/VERB formam/NOUN in/ADP corpore/NOUN ,/PUNCT et/CCONJ nautam/NOUN in/ADP navi/NOUN ./PUNCT 
+quod/SCONJ deus/PROPN non/ADV sit/AUX forma/NOUN alicuius/PRON corporis/NOUN ./PUNCT 
+ostenso/VERB igitur/ADV quod/SCONJ deus/PROPN non/ADV sit/AUX esse/NOUN omnium/DET ,/PUNCT similiter/ADJ ostendi/VERB potest/VERB quod/SCONJ deus/PROPN non/ADV sit/AUX alicuius/PRON rei/NOUN forma/NOUN ./PUNCT 
+nam/ADV divinum/ADJ esse/NOUN non/ADV potest/VERB esse/AUX alicuius/PRON quidditatis/NOUN quae/PRON non/ADV sit/AUX ipsum/PRON esse/NOUN ,/PUNCT ut/SCONJ ostensum/VERB est/AUX ./PUNCT 
+quod/PRON autem/CCONJ est/AUX ipsum/PRON esse/NOUN divinum/ADJ ,/PUNCT non/ADV est/AUX aliud/PRON quam/SCONJ deus/PROPN ./PUNCT 
+impossibile/ADJ est/AUX igitur/ADV deum/PROPN esse/AUX alicuius/PRON alterius/PRON formam/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+forma/NOUN corporis/NOUN non/ADV est/AUX ipsum/PRON esse/NOUN ,/PUNCT sed/CCONJ essendi/VERB principium/NOUN ./PUNCT 
+deus/PROPN autem/CCONJ est/AUX ipsum/PRON esse/NOUN ./PUNCT 
+non/ADV ergo/ADV est/AUX deus/PROPN forma/NOUN corporis/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+ex/ADP unione/VERB formae/NOUN et/CCONJ materiae/NOUN resultat/VERB aliquid/PRON compositum/VERB ,/PUNCT quod/PRON est/AUX totum/PRON respectu/NOUN materiae/NOUN et/CCONJ formae/NOUN ./PUNCT 
+partes/NOUN autem/CCONJ sunt/VERB in/ADP potentia/NOUN respectu/NOUN totius/PRON ./PUNCT 
+in/ADP deo/PROPN autem/CCONJ nulla/PRON est/VERB potentialitas/NOUN ./PUNCT 
+impossibile/ADJ est/AUX igitur/ADV deum/PROPN esse/AUX formam/NOUN unitam/VERB alicui/PRON rei/NOUN ./PUNCT 
+adhuc/ADV ./PUNCT 
+quod/PRON per/ADP se/PRON habet/VERB esse/NOUN ,/PUNCT nobilius/ADJ est/AUX eo/PRON quod/PRON habet/VERB esse/NOUN in/ADP alio/PRON ./PUNCT 
+omnis/DET autem/CCONJ forma/NOUN alicuius/PRON corporis/NOUN habet/VERB esse/NOUN in/ADP alio/PRON ./PUNCT 
+cum/SCONJ igitur/ADV deus/PROPN sit/AUX ens/NOUN nobilissimum/ADJ ,/PUNCT quasi/ADV prima/ADJ essendi/VERB causa/NOUN ,/PUNCT non/ADV potest/VERB esse/AUX alicuius/PRON forma/NOUN ./PUNCT 
+praeterea/ADV ./PUNCT 
+hoc/PRON idem/PRON potest/VERB ostendi/VERB ex/ADP aeternitate/NOUN motus/NOUN ,/PUNCT sic/ADV ./PUNCT 
+si/SCONJ deus/PROPN est/AUX forma/NOUN alicuius/PRON mobilis/ADJ ,/PUNCT cum/SCONJ ipse/PRON sit/AUX primum/ADJ movens/VERB ,/PUNCT compositum/NOUN erit/AUX movens/VERB seipsum/PRON ./PUNCT 
+sed/CCONJ movens/VERB seipsum/PRON potest/VERB moveri/VERB et/CCONJ non/ADV moveri/VERB ./PUNCT 
+utrumque/PRON igitur/ADV in/ADP ipso/PRON est/VERB ./PUNCT 
+quod/PRON autem/CCONJ est/VERB huiusmodi/ADV ,/PUNCT non/ADV habet/VERB motus/NOUN indeficientiam/NOUN ex/ADP seipso/PRON ./PUNCT 
+oportet/VERB igitur/ADV supra/ADP movens/VERB seipsum/PRON ponere/VERB aliud/PRON primum/ADJ movens/VERB ,/PUNCT quod/PRON largiatur/VERB ei/PRON perpetuitatem/NOUN motus/NOUN ./PUNCT 
+et/CCONJ sic/ADV deus/PROPN ,/PUNCT qui/PRON est/AUX primum/ADJ movens/VERB ,/PUNCT non/ADV est/AUX forma/NOUN corporis/NOUN moventis/VERB seipsum/PRON ./PUNCT 
+est/AUX autem/CCONJ hic/PRON processus/NOUN utilis/ADJ ponentibus/VERB aeternitatem/NOUN motus/NOUN ./PUNCT 
+quo/PRON non/ADV posito/VERB ,/PUNCT eadem/PRON conclusio/NOUN haberi/VERB potest/VERB ex/ADP regularitate/NOUN motus/NOUN caeli/NOUN ./PUNCT 
+sicut/SCONJ enim/ADV movens/VERB seipsum/PRON potest/VERB quiescere/VERB et/CCONJ moveri/VERB ,/PUNCT ita/ADV potest/VERB velocius/ADJ et/CCONJ tardius/ADJ moveri/VERB ./PUNCT 
+necessitas/NOUN igitur/ADV uniformitatis/NOUN motus/NOUN caeli/NOUN dependet/VERB ex/ADP aliquo/PRON principio/NOUN superiori/ADJ omnino/ADV immobili/ADJ ,/PUNCT quod/PRON non/ADV est/AUX pars/NOUN corporis/NOUN moventis/VERB seipsum/PRON quasi/ADV aliqua/PRON forma/NOUN eius/PRON ./PUNCT 
+huic/PRON autem/CCONJ veritati/NOUN scripturae/PROPN concordat/VERB auctoritas/NOUN ./PUNCT 
+dicitur/VERB enim/ADV in/ADP psalmo/PROPN :/PUNCT 
+elevata/VERB est/AUX magnificentia/NOUN tua/DET super/ADP caelos/NOUN ,/PUNCT deus/PROPN ./PUNCT 
+et/CCONJ iob/PROPN 8/NUM :/PUNCT 
+excelsior/VERB caelo/NOUN est/AUX et/CCONJ quid/PRON facies/VERB ?/PUNCT 
+longior/ADJ terra/NOUN mensura/NOUN eius/PRON est/AUX et/CCONJ profundior/ADJ mari/NOUN ./PUNCT 
+sic/ADV igitur/ADV gentilium/ADJ error/NOUN evacuatur/VERB ,/PUNCT qui/PRON dicebant/VERB deum/PROPN esse/AUX animam/NOUN caeli/NOUN vel/CCONJ etiam/ADV animam/NOUN totius/PRON mundi/NOUN ,/PUNCT et/CCONJ ex/ADP hoc/PRON errore/NOUN ,/PUNCT idolatriam/NOUN defendebant/VERB ,/PUNCT dicentes/VERB totum/PRON mundum/NOUN esse/AUX deum/PROPN ,/PUNCT non/ADV ratione/NOUN corporis/NOUN ,/PUNCT sed/CCONJ ratione/NOUN animae/NOUN ,/PUNCT sicut/SCONJ homo/NOUN dicitur/AUX sapiens/ADJ non/ADV ratione/NOUN corporis/NOUN sed/CCONJ animae/NOUN :/PUNCT 
+quo/PRON supposito/VERB ,/PUNCT sequi/VERB opinabantur/VERB quod/SCONJ mundo/NOUN et/CCONJ partibus/NOUN eius/PRON non/ADV indebite/ADJ divinus/ADJ cultus/NOUN exhibeatur/VERB ./PUNCT 
+commentator/PROPN etiam/ADV dicit/VERB ,/PUNCT in/ADP xi/NUM metaphys./X ,/PUNCT quod/SCONJ hic/PRON locus/NOUN fuit/AUX lapsus/NOUN sapientum/VERB gentis/NOUN zabiorum/PROPN ,/PUNCT idest/ADV idolatrarum/NOUN quia/SCONJ scilicet/ADV posuerunt/VERB deum/PROPN esse/AUX formam/NOUN caeli/NOUN ./PUNCT 
+de/ADP perfectione/NOUN divina/ADJ ./PUNCT 
+licet/SCONJ autem/CCONJ ea/PRON quae/PRON sunt/VERB et/CCONJ vivunt/VERB ,/PUNCT perfectiora/NOUN sint/AUX quam/SCONJ ea/PRON quae/PRON tantum/ADV sunt/VERB ,/PUNCT deus/PROPN tamen/ADV qui/PRON non/ADV est/AUX aliud/PRON quam/SCONJ suum/DET esse/NOUN ,/PUNCT est/AUX universaliter/ADJ ens/NOUN perfectum/NOUN ./PUNCT 
+et/CCONJ dico/VERB universaliter/ADJ perfectum/NOUN ,/PUNCT cui/PRON non/ADV deest/VERB alicuius/PRON generis/NOUN nobilitas/NOUN ./PUNCT 
+omnis/DET enim/ADV nobilitas/NOUN cuiuscumque/PRON rei/NOUN est/VERB sibi/PRON secundum/ADP suum/DET esse/NOUN :/PUNCT 
+nulla/PRON enim/ADV nobilitas/NOUN esset/VERB homini/NOUN ex/ADP sua/DET sapientia/NOUN nisi/SCONJ per/ADP eam/PRON sapiens/ADJ esset/AUX ,/PUNCT et/CCONJ sic/ADV de/ADP aliis/PRON ./PUNCT 
+sic/ADV ergo/ADV secundum/ADP modum/NOUN quo/PRON res/NOUN habet/VERB esse/NOUN ,/PUNCT est/VERB suus/DET modus/NOUN in/ADP nobilitate/NOUN :/PUNCT 
+nam/ADV res/NOUN secundum/ADP quod/SCONJ suum/DET esse/NOUN contrahitur/VERB ad/ADP aliquem/PRON specialem/ADJ modum/NOUN nobilitatis/NOUN maiorem/ADJ vel/CCONJ minorem/ADJ ,/PUNCT dicitur/VERB esse/AUX secundum/ADP hoc/PRON nobilior/ADJ vel/CCONJ minus/ADJ nobilis/ADJ ./PUNCT 
+igitur/ADV si/SCONJ aliquid/PRON est/VERB cui/PRON competit/VERB tota/PRON virtus/NOUN essendi/VERB ,/PUNCT ei/PRON nulla/PRON nobilitatum/NOUN deesse/VERB potest/VERB quae/PRON alicui/PRON rei/NOUN conveniat/VERB ./PUNCT 
+sed/CCONJ rei/NOUN quae/PRON est/AUX suum/DET esse/NOUN ,/PUNCT competit/VERB esse/VERB secundum/ADP totam/PRON essendi/VERB potestatem/NOUN :/PUNCT sicut/SCONJ ,/PUNCT si/SCONJ esset/VERB aliqua/PRON albedo/NOUN separata/VERB ,/PUNCT nihil/PRON ei/PRON de/ADP virtute/NOUN albedinis/NOUN deesse/VERB posset/VERB ;/PUNCT 
+nam/ADV alicui/PRON albo/ADJ aliquid/PRON de/ADP virtute/NOUN albedinis/NOUN deest/VERB ex/ADP defectu/NOUN recipientis/VERB albedinem/NOUN ,/PUNCT quae/PRON eam/PRON secundum/ADP modum/NOUN suum/DET recipit/VERB ,/PUNCT et/CCONJ fortasse/ADV non/ADV secundum/ADP totum/PRON posse/VERB albedinis/NOUN ./PUNCT 
+deus/PROPN igitur/ADV ,/PUNCT qui/PRON est/AUX suum/DET esse/NOUN ,/PUNCT ut/SCONJ supra/ADP probatum/VERB est/AUX ,/PUNCT habet/VERB esse/NOUN secundum/ADP totam/PRON virtutem/NOUN ipsius/PRON esse/NOUN ./PUNCT 
+non/ADV potest/VERB ergo/ADV carere/VERB aliqua/PRON nobilitate/NOUN quae/PRON alicui/PRON rei/NOUN conveniat/VERB ./PUNCT 
+sicut/SCONJ autem/CCONJ omnis/DET nobilitas/NOUN et/CCONJ perfectio/NOUN inest/VERB rei/NOUN secundum/ADP quod/SCONJ est/VERB ,/PUNCT ita/ADV omnis/DET defectus/NOUN inest/VERB ei/PRON secundum/ADP quod/SCONJ aliqualiter/ADJ non/ADV est/VERB ./PUNCT 
+deus/PROPN autem/CCONJ ,/PUNCT sicut/SCONJ habet/VERB esse/NOUN totaliter/ADJ ,/PUNCT ita/ADV ab/ADP eo/PRON totaliter/ADJ absistit/VERB non/ADV esse/NOUN :/PUNCT quia/SCONJ per/ADP modum/NOUN per/ADP quem/PRON habet/VERB aliquid/PRON esse/NOUN ,/PUNCT deficit/VERB a/ADP non/ADV esse/NOUN ./PUNCT 
+a/ADP deo/PROPN ergo/ADV omnis/DET defectus/NOUN absistit/VERB ./PUNCT 
+est/AUX igitur/ADV universaliter/ADJ perfectus/NOUN ./PUNCT 
+illa/PRON vero/ADJ quae/PRON tantum/ADV sunt/VERB ,/PUNCT non/ADV sunt/AUX imperfecta/ADJ propter/ADP imperfectionem/NOUN ipsius/PRON esse/NOUN absoluti/ADJ :/PUNCT 
+non/ADV enim/ADV ipsa/PRON habent/VERB esse/NOUN secundum/ADP suum/DET totum/PRON posse/VERB ,/PUNCT sed/CCONJ participant/VERB esse/NOUN per/ADP quendam/PRON particularem/ADJ modum/NOUN et/CCONJ imperfectissimum/ADJ ./PUNCT 
+item/ADV ./PUNCT 
+omne/DET imperfectum/ADJ ab/ADP aliquo/PRON perfecto/NOUN necesse/ADJ est/AUX ut/SCONJ praecedatur/VERB :/PUNCT 
+semen/NOUN enim/ADV est/VERB ab/ADP animali/NOUN vel/CCONJ a/ADP planta/NOUN ./PUNCT 
+igitur/ADV primum/ADJ ens/NOUN oportet/VERB esse/AUX perfectissimum/NOUN ./PUNCT 
+ostensum/VERB est/AUX autem/CCONJ deum/PROPN esse/AUX primum/ADJ ens/NOUN ./PUNCT 
+est/AUX igitur/ADV perfectissimus/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+unumquodque/PRON perfectum/NOUN est/AUX inquantum/SCONJ est/VERB actu/NOUN ;/PUNCT imperfectum/ADJ autem/CCONJ secundum/ADP quod/SCONJ est/VERB potentia/NOUN cum/ADP privatione/NOUN actus/NOUN ./PUNCT 
+id/PRON igitur/ADV quod/PRON nullo/PRON modo/NOUN est/VERB potentia/NOUN sed/CCONJ est/AUX actus/NOUN purus/ADJ ,/PUNCT oportet/VERB perfectissimum/NOUN esse/AUX ./PUNCT 
+tale/PRON autem/CCONJ deus/PROPN est/AUX ./PUNCT 
+est/AUX igitur/ADV perfectissimus/NOUN ./PUNCT 
+amplius/ADJ ./PUNCT 
+nihil/PRON agit/VERB nisi/SCONJ secundum/ADP quod/SCONJ est/VERB in/ADP actu/NOUN ./PUNCT 
+actio/NOUN igitur/ADV consequitur/VERB modum/NOUN actus/NOUN in/ADP agente/NOUN ./PUNCT 
+impossibile/ADJ est/AUX igitur/ADV effectum/NOUN qui/PRON per/ADP actionem/NOUN educitur/VERB ,/PUNCT esse/VERB in/ADP nobiliori/ADJ actu/NOUN quam/SCONJ sit/VERB actus/NOUN agentis/NOUN :/PUNCT 
+possibile/ADJ est/AUX tamen/ADV actum/NOUN effectus/NOUN imperfectiorem/ADJ esse/AUX quam/SCONJ sit/VERB actus/NOUN causae/NOUN agentis/VERB ,/PUNCT eo/PRON quod/SCONJ actio/NOUN potest/VERB debilitari/VERB ex/ADP parte/NOUN eius/PRON in/ADP quod/PRON terminatur/VERB ./PUNCT 
+in/ADP genere/NOUN autem/CCONJ causae/NOUN efficientis/ADJ fit/VERB reductio/NOUN ad/ADP unam/NUM primam/ADJ quae/PRON deus/PROPN dicitur/AUX ,/PUNCT ut/SCONJ ex/ADP dictis/VERB patet/VERB ,/PUNCT a/ADP quo/PRON sunt/VERB omnes/DET res/NOUN ,/PUNCT ut/SCONJ in/ADP sequentibus/VERB ostendetur/VERB ./PUNCT 
+oportet/VERB igitur/ADV quicquid/PRON actu/NOUN est/VERB in/ADP quacumque/PRON re/NOUN alia/PRON ,/PUNCT inveniri/VERB in/ADP deo/PROPN multo/ADJ eminentius/VERB quam/SCONJ sit/VERB in/ADP re/NOUN illa/PRON ,/PUNCT non/ADV autem/CCONJ e/ADP converso/ADJ ./PUNCT 
+est/AUX igitur/ADV deus/PROPN perfectissimus/NOUN ./PUNCT 
+item/ADV ./PUNCT 
+in/ADP unoquoque/PRON genere/NOUN est/VERB aliquid/PRON perfectissimum/NOUN in/ADP genere/NOUN illo/PRON ,/PUNCT ad/ADP quod/PRON omnia/DET quae/PRON sunt/AUX illius/PRON generis/NOUN mensurantur/VERB :/PUNCT quia/SCONJ ex/ADP eo/PRON unumquodque/PRON ostenditur/VERB magis/ADV vel/CCONJ minus/ADJ perfectum/NOUN esse/AUX ,/PUNCT quod/PRON ad/ADP mensuram/NOUN sui/DET generis/NOUN magis/ADV vel/CCONJ minus/ADJ appropinquat/VERB ;/PUNCT 
+sicut/SCONJ album/ADJ dicitur/VERB esse/AUX mensura/NOUN in/ADP omnibus/DET coloribus/NOUN ,/PUNCT et/CCONJ virtuosus/ADJ inter/ADP omnes/DET homines/NOUN ./PUNCT 
+id/PRON autem/CCONJ quod/PRON est/AUX mensura/NOUN omnium/DET entium/NOUN non/ADV potest/VERB esse/AUX aliud/PRON quam/SCONJ deus/PROPN ,/PUNCT qui/PRON est/AUX suum/DET esse/NOUN ./PUNCT 
+ipsi/PRON igitur/ADV nulla/PRON deest/VERB perfectionum/NOUN quae/PRON aliquibus/PRON rebus/NOUN conveniat/VERB :/PUNCT 
+alias/PRON non/ADV esset/AUX omnium/DET communis/ADJ mensura/NOUN ./PUNCT 
+hinc/PRON est/VERB quod/SCONJ ,/PUNCT cum/SCONJ quaereret/VERB moyses/PROPN divinam/ADJ videre/VERB faciem/NOUN seu/CCONJ gloriam/NOUN ,/PUNCT responsum/VERB est/AUX ei/PRON a/ADP domino/NOUN ,/PUNCT ego/PRON ostendam/VERB tibi/PRON omne/DET bonum/NOUN ,/PUNCT ut/SCONJ habetur/VERB exod./X 33-19/NUM ,/PUNCT per/ADP hoc/PRON dans/VERB intelligere/VERB in/ADP se/PRON omnis/DET bonitatis/NOUN plenitudinem/NOUN esse/VERB ./PUNCT 
+dionysius/PROPN etiam/ADV ,/PUNCT in/ADP v/NUM cap./X de/ADP div./X nom./X dicit/VERB :/PUNCT 
+deus/PROPN non/ADV quodam/PRON modo/NOUN est/AUX existens/VERB ,/PUNCT sed/CCONJ simpliciter/ADJ et/CCONJ incircumscriptive/ADJ totum/PRON esse/NOUN in/ADP seipso/PRON accepit/VERB et/CCONJ praeaccepit/VERB ./PUNCT 
+sciendum/VERB tamen/ADV est/VERB quod/SCONJ perfectio/NOUN deo/PROPN convenienter/VERB attribui/VERB non/ADV potest/VERB si/SCONJ nominis/NOUN significatio/NOUN quantum/ADV ad/ADP sui/PRON originem/NOUN attendatur/VERB :/PUNCT 
+quod/PRON enim/ADV factum/VERB non/ADV est/AUX ,/PUNCT nec/CCONJ perfectum/NOUN posse/VERB dici/AUX videtur/VERB ./PUNCT 
+sed/CCONJ quia/SCONJ omne/DET quod/PRON fit/VERB ,/PUNCT de/ADP potentia/NOUN in/ADP actum/NOUN deductum/VERB est/AUX et/CCONJ de/ADP non/ADV esse/NOUN in/ADP esse/NOUN quando/SCONJ factum/VERB est/AUX ,/PUNCT tunc/ADV recte/ADJ perfectum/NOUN esse/AUX dicitur/VERB ,/PUNCT quasi/ADV totaliter/ADJ factum/VERB ,/PUNCT quando/SCONJ potentia/NOUN totaliter/ADJ est/VERB ad/ADP actum/NOUN reducta/VERB ,/PUNCT ut/SCONJ nihil/PRON de/ADP non/ADV esse/NOUN retineat/VERB ,/PUNCT sed/CCONJ habeat/VERB esse/NOUN completum/ADJ ./PUNCT 
+per/ADP quandam/PRON igitur/ADV nominis/NOUN extensionem/NOUN perfectum/NOUN dicitur/AUX non/ADV solum/ADJ quod/PRON fiendo/VERB pervenit/VERB ad/ADP actum/NOUN completum/ADJ ,/PUNCT sed/CCONJ id/PRON etiam/ADV quod/PRON est/VERB in/ADP actu/NOUN completo/ADJ absque/ADP omni/DET factione/NOUN ./PUNCT 
+et/CCONJ sic/ADV deum/PROPN perfectum/NOUN esse/AUX dicimus/VERB ,/PUNCT secundum/ADP illud/PRON matth./X 5-48/NUM :/PUNCT 
+estote/AUX perfecti/NOUN sicut/SCONJ et/CCONJ pater/NOUN vester/DET caelestis/ADJ perfectus/NOUN est/AUX ./PUNCT 
+de/ADP similitudine/NOUN creaturarum/NOUN ./PUNCT 
+ex/ADP hoc/PRON autem/CCONJ quomodo/ADV in/ADP rebus/NOUN possit/VERB similitudo/NOUN ad/ADP deum/PROPN inveniri/VERB vel/CCONJ non/ADV possit/VERB ,/PUNCT considerari/VERB potest/VERB ./PUNCT 
+effectus/NOUN enim/ADV a/ADP suis/DET causis/NOUN deficientes/VERB non/ADV conveniunt/VERB cum/ADP eis/PRON in/ADP nomine/NOUN et/CCONJ ratione/NOUN ,/PUNCT necesse/ADJ est/AUX tamen/ADV aliquam/PRON inter/ADP ea/PRON similitudinem/NOUN inveniri/VERB :/PUNCT 
+de/ADP natura/NOUN enim/ADV actionis/NOUN est/VERB ut/SCONJ agens/NOUN sibi/PRON simile/ADJ agat/VERB cum/SCONJ unumquodque/PRON agat/VERB secundum/ADP quod/SCONJ actu/NOUN est/VERB ./PUNCT 
+unde/ADV forma/NOUN effectus/NOUN in/ADP causa/NOUN excedente/VERB invenitur/VERB quidem/ADV aliqualiter/ADJ ,/PUNCT sed/CCONJ secundum/ADP alium/PRON modum/NOUN et/CCONJ aliam/PRON rationem/NOUN ,/PUNCT ratione/NOUN cuius/PRON causa/NOUN aequivoca/ADJ dicitur/AUX ./PUNCT 
+sol/NOUN enim/ADV in/ADP corporibus/NOUN inferioribus/NOUN calorem/NOUN causat/VERB agendo/VERB secundum/ADP quod/SCONJ actu/NOUN est/VERB ;/PUNCT 
+unde/ADV oportet/VERB quod/SCONJ calor/NOUN a/ADP sole/NOUN generatus/VERB aliqualem/ADJ similitudinem/NOUN obtineat/VERB ad/ADP virtutem/NOUN activam/ADJ solis/NOUN ,/PUNCT per/ADP quam/PRON calor/NOUN in/ADP istis/PRON inferioribus/NOUN causatur/VERB ,/PUNCT ratione/NOUN cuius/PRON sol/NOUN calidus/ADJ dicitur/AUX ,/PUNCT quamvis/SCONJ non/ADV una/NUM ratione/NOUN ./PUNCT 
+et/CCONJ sic/ADV sol/NOUN omnibus/DET illis/PRON similis/ADJ aliqualiter/ADJ dicitur/AUX in/ADP quibus/PRON suos/DET effectus/NOUN efficaciter/ADJ inducit/VERB :/PUNCT 
+a/ADP quibus/PRON tamen/ADV rursus/ADV omnibus/DET dissimilis/ADJ est/AUX ,/PUNCT inquantum/SCONJ huiusmodi/ADV effectus/NOUN non/ADV eodem/PRON modo/NOUN possident/VERB calorem/NOUN et/CCONJ huiusmodi/ADV quo/PRON in/ADP sole/NOUN invenitur/VERB ./PUNCT 
+ita/ADV etiam/ADV et/CCONJ deus/PROPN omnes/DET perfectiones/NOUN rebus/NOUN tribuit/VERB ,/PUNCT ac/CCONJ per/ADP hoc/PRON cum/ADP omnibus/DET similitudinem/NOUN habet/VERB et/CCONJ dissimilitudinem/NOUN simul/ADV ./PUNCT 
+et/CCONJ inde/ADV est/VERB quod/SCONJ sacra/ADJ scriptura/PROPN aliquando/ADV similitudinem/NOUN inter/ADP eum/PRON et/CCONJ creaturam/NOUN commemorat/VERB ,/PUNCT ut/SCONJ cum/SCONJ dicitur/VERB gen./X 1-26/NUM :/PUNCT 
+faciamus/VERB hominem/NOUN ad/ADP imaginem/NOUN et/CCONJ similitudinem/NOUN nostram/DET ;/PUNCT 
+aliquando/ADV similitudo/NOUN negatur/VERB ,/PUNCT secundum/ADP illud/PRON isaiae/PROPN 40-18/NUM :/PUNCT 
+cui/PRON ergo/ADV similem/ADJ fecistis/VERB deum/PROPN ,/PUNCT aut/CCONJ quam/PRON imaginem/NOUN ponetis/VERB ei/PRON ?/PUNCT 
+et/CCONJ in/ADP psalmo/PROPN :/PUNCT 
+deus/PROPN ,/PUNCT quis/PRON similis/ADJ erit/AUX tibi/PRON ?/PUNCT 
+huic/PRON autem/CCONJ rationi/NOUN dionysius/PROPN concordat/VERB ,/PUNCT qui/PRON in/ADP ix/NUM cap./X de/ADP div./X nom./X dicit/VERB :/PUNCT 
+eadem/PRON similia/ADJ sunt/AUX deo/PROPN et/CCONJ dissimilia/ADJ :/PUNCT 
+similia/ADJ quidem/ADV ,/PUNCT secundum/ADP imitationem/NOUN eius/PRON qui/PRON non/ADV est/AUX perfecte/NOUN imitabilis/ADJ ,/PUNCT qualem/PRON in/ADP eis/PRON contingit/VERB esse/VERB ;/PUNCT 
+dissimilia/ADJ autem/CCONJ ,/PUNCT secundum/ADP quod/SCONJ causata/VERB habent/VERB minus/ADJ suis/DET causis/NOUN ./PUNCT 
+secundum/ADP tamen/ADV hanc/PRON similitudinem/NOUN convenientius/VERB dicitur/AUX deo/PROPN creatura/NOUN similis/ADJ quam/SCONJ e/ADP converso/ADJ ./PUNCT 
+simile/ADJ enim/ADV alicui/PRON dicitur/AUX quod/PRON eius/PRON possidet/VERB qualitatem/NOUN vel/CCONJ formam/NOUN ./PUNCT 
+quia/SCONJ igitur/ADV id/PRON quod/PRON in/ADP deo/PROPN perfecte/NOUN est/VERB ,/PUNCT in/ADP rebus/NOUN aliis/PRON per/ADP quandam/PRON deficientem/VERB participationem/NOUN invenitur/VERB ,/PUNCT illud/PRON secundum/ADP quod/PRON similitudo/NOUN attenditur/VERB ,/PUNCT dei/PROPN quidem/ADV simpliciter/ADJ est/AUX ,/PUNCT non/ADV autem/CCONJ creaturae/NOUN ./PUNCT 
+et/CCONJ sic/ADV creatura/NOUN habet/VERB quod/PRON dei/PROPN est/AUX :/PUNCT 
+unde/ADV et/CCONJ deo/PROPN recte/ADJ similis/ADJ dicitur/AUX ./PUNCT 
+non/ADV autem/CCONJ sic/ADV potest/VERB dici/VERB deum/PROPN habere/VERB quod/PRON creaturae/NOUN est/AUX ./PUNCT 
+unde/ADV nec/CCONJ convenienter/VERB dicitur/VERB deum/PROPN creaturae/NOUN similem/ADJ esse/AUX :/PUNCT 
+sicut/SCONJ nec/CCONJ hominem/NOUN dicimus/VERB suae/DET imagini/NOUN esse/AUX similem/ADJ ,/PUNCT cui/PRON tamen/ADV sua/DET imago/NOUN recte/ADJ similis/ADJ enuntiatur/AUX ./PUNCT 
+multo/ADJ etiam/ADV minus/ADJ proprie/ADJ dicitur/VERB quod/SCONJ deus/PROPN creaturae/NOUN similetur/VERB ./PUNCT 
+nam/ADV assimilatio/NOUN motum/NOUN ad/ADP similitudinem/NOUN dicit/VERB et/CCONJ sic/ADV competit/VERB et/CCONJ quod/PRON ab/ADP alio/PRON accipit/VERB unde/ADV simile/ADJ sit/AUX ./PUNCT 
+creatura/NOUN autem/CCONJ accipit/VERB a/ADP deo/PROPN unde/ADV ei/PRON sit/AUX similis/ADJ :/PUNCT non/ADV autem/CCONJ e/ADP converso/ADJ ./PUNCT 
+non/ADV igitur/ADV deus/PROPN creaturae/NOUN assimilatur/VERB ,/PUNCT sed/CCONJ magis/ADV e/ADP converso/ADJ ./PUNCT 
+quae/PRON nomina/NOUN de/ADP deo/PROPN possint/VERB praedicari/VERB ./PUNCT 
+ex/ADP his/PRON etiam/ADV considerari/VERB potest/VERB quid/PRON de/ADP deo/PROPN dici/VERB vel/CCONJ non/ADV dici/VERB possit/VERB ,/PUNCT quid/PRON ve/CCONJ de/ADP eo/PRON tantum/ADV dicatur/VERB ,/PUNCT quid/PRON etiam/ADV simul/ADV et/CCONJ aliis/PRON rebus/NOUN ./PUNCT 
+quia/SCONJ enim/ADV omnem/DET perfectionem/NOUN creaturae/NOUN est/VERB in/ADP deo/PROPN invenire/VERB sed/CCONJ per/ADP alium/PRON modum/NOUN eminentiorem/VERB ,/PUNCT quaecumque/PRON nomina/NOUN absolute/ADJ perfectionem/NOUN absque/ADP defectu/NOUN designant/VERB ,/PUNCT de/ADP deo/PROPN praedicantur/VERB et/CCONJ de/ADP aliis/PRON rebus/NOUN :/PUNCT sicut/SCONJ est/VERB bonitas/NOUN ,/PUNCT sapientia/NOUN ,/PUNCT esse/NOUN ,/PUNCT et/CCONJ alia/PRON huiusmodi/ADV ./PUNCT 
+quodcumque/PRON vero/ADJ nomen/NOUN huiusmodi/ADV perfectiones/NOUN exprimit/VERB cum/ADP modo/NOUN proprio/ADJ creaturis/NOUN ,/PUNCT de/ADP deo/PROPN dici/VERB non/ADV potest/VERB nisi/SCONJ per/ADP similitudinem/NOUN et/CCONJ metaphoram/NOUN ,/PUNCT per/ADP quam/PRON quae/PRON sunt/AUX unius/NUM rei/NOUN alteri/PRON solent/VERB adaptari/VERB ,/PUNCT sicut/SCONJ aliquis/PRON homo/NOUN dicitur/AUX lapis/NOUN propter/ADP duritiam/NOUN intellectus/NOUN ./PUNCT 
+huiusmodi/ADV autem/CCONJ sunt/VERB omnia/DET nomina/NOUN imposita/VERB ad/ADP designandum/VERB speciem/NOUN rei/NOUN creatae/VERB ,/PUNCT sicut/SCONJ homo/NOUN et/CCONJ lapis/NOUN :/PUNCT 
+nam/ADV cuilibet/PRON speciei/NOUN debetur/VERB proprius/ADJ modus/NOUN perfectionis/NOUN et/CCONJ esse/NOUN ./PUNCT 
+similiter/ADJ etiam/ADV quaecumque/PRON nomina/NOUN proprietates/NOUN rerum/NOUN designant/VERB quae/PRON ex/ADP propriis/ADJ principiis/NOUN specierum/NOUN causatur/VERB ./PUNCT 
+unde/ADV de/ADP deo/PROPN dici/VERB non/ADV possunt/VERB nisi/SCONJ metaphorice/ADJ ./PUNCT 
+quae/PRON vero/ADJ huiusmodi/ADV perfectiones/NOUN exprimunt/VERB cum/ADP supereminentiae/NOUN modo/NOUN quo/PRON deo/PROPN conveniunt/VERB ,/PUNCT de/ADP solo/ADJ deo/PROPN dicuntur/VERB :/PUNCT sicut/SCONJ summum/ADJ bonum/NOUN ,/PUNCT primum/ADJ ens/NOUN ,/PUNCT et/CCONJ alia/PRON huiusmodi/ADV ./PUNCT 
+dico/VERB autem/CCONJ aliqua/PRON praedictorum/VERB nominum/NOUN perfectionem/NOUN absque/ADP defectu/NOUN importare/VERB ,/PUNCT quantum/ADV ad/ADP illud/PRON ad/ADP quod/PRON significandum/VERB nomen/NOUN fuit/AUX impositum/VERB :/PUNCT 

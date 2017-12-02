@@ -1,0 +1,950 @@
+제일/ADV 가까운/ADJ 스타벅스가/NOUN 어디/ADV 있지/ADJ 
+이/DET 행사는/NOUN 도가/NOUN 주관하고/VERB 경기관광공사와/NOUN 경기국제의료관광협의회(e-gima.com)가/NOUN 주최하며/VERB 도내/NOUN 8개/NOUN 병원이/NOUN 함께/ADV 참여한다/VERB ./PUNCT 
+해당/NOUN 질량은/NOUN 항성의/NOUN 구성/NOUN 원소에/ADV 따라/VERB 태양의/NOUN 1.2배에서/ADV 1.46배로/ADV 약간/ADV 차이가/NOUN 난다/VERB ./PUNCT 
+건물은/NOUN 대체로/ADV 균형이/NOUN 맞고/VERB 조화가/NOUN 잘/ADV 되어/VERB 아담한/ADJ 감을/NOUN 준다/VERB ./PUNCT 
+열무김칫국물/NOUN 하나만/NUM 시원하게/ADV 먹고/VERB 나왔네요/VERB ./PUNCT 
+우연히/ADV 그와/ADV 인사를/NOUN 나누게/VERB 되고/VERB 그를/NOUN 통해/VERB 외국인/NOUN 기업인을/NOUN 알게/VERB 되고/VERB ,/PUNCT 또/CCONJ 기업인들을/NOUN 통해/VERB 외교관을/NOUN 알게/VERB 되고/VERB ./PUNCT 
+특히/ADV 크리스탈의/NOUN 화장기/NOUN 없는/VERB 수수한/ADJ 얼굴빛과/NOUN 하늘하늘거리는/ADJ 긴/ADJ 생머리는/NOUN 남성들의/NOUN 보호본능을/NOUN 자극해/VERB 시선이/NOUN 집중됐다/VERB ./PUNCT 
+구/NOUN 안양천길은/NOUN 강서구/NOUN ,/PUNCT 양천구/NOUN ,/PUNCT 구로구에서/ADV 광명/NOUN ,/PUNCT 안양/NOUN ,/PUNCT 안산/NOUN 등지로/ADV 갈/VERB 경우/NOUN ,/PUNCT 다른/ADJ 간선도로에/ADV 비해/VERB 소요시간이/NOUN 적고/VERB 영등포로/ADV 갈/VERB 필요가/NOUN 없기/NOUN 때문에/ADP 유용한/VERB 도로이다/VERB ./PUNCT 
+데뷔/NOUN 첫/NUM 시즌/NOUN 24경기에/ADV 출전하며/VERB 좋은/ADJ 활약을/NOUN 펼쳤으나/VERB 2011/NUM 시즌엔/ADV 시즌/NOUN 초반/NOUN 부상을/NOUN 당하여/VERB 5경기/NOUN 출전에/ADV 그쳤다/VERB ./PUNCT 
+그리고/ADV 정상에/ADV 있는/VERB 매점/NOUN 가격이/NOUN 비싸서/VERB 왠만하면/VERB 먹을/VERB 것/NOUN 들고/VERB 가는/VERB 게/NOUN 좋고요/ADJ ./PUNCT 
+디자인은/NOUN 아이폰/NOUN 4와/NOUN 흡사하지만/VERB ,/PUNCT 측면부가/NOUN 약간/ADV 다르다/ADJ ./PUNCT 
+시키다/VERB 말투가/NOUN 기분/NOUN 나빠서/VERB 취소했어요/VERB 
+몇/DET 년/NOUN 전/ADP 고시/NOUN 공부하던/VERB 시절에/ADV 선후배들과/ADV 자주/ADV 갔던/VERB 곳인데/VERB 여전히/ADV 사장님의/NOUN 친절은/NOUN 최고더군요/VERB 
+그/DET 가격에/ADV 샐러드/NOUN 바를/NOUN 무한으로/ADV 먹을/VERB 수/NOUN 있어서/VERB 좋은/VERB 거/NOUN 같아요/ADJ !/PUNCT 
+이때부터/ADV 백합물은/NOUN 남성이/NOUN 즐기는/VERB 레즈물로서의/NOUN 의미가/NOUN 아니라/VERB 여성들도/NOUN 즐길/VERB 수/NOUN 있는/VERB 영역으로/ADV 확장됐으며/VERB '우정/NOUN 이상/ADP 연인/NOUN 미만'이라는/VERB 컨셉으로/ADV 서서히/ADV 퍼지기/NOUN 시작했다/VERB ./PUNCT 
+롬니의/NOUN 온라인/NOUN 유세/NOUN 담당자/NOUN 재크/NOUN 모펫은/NOUN "유권자들이/NOUN 즐겁게/ADV 시간을/NOUN 보낼/VERB 수/NOUN 있는/VERB 곳으로/ADV 메시지를/NOUN 전해야/VERB 한다"며/VERB "유권자들이/NOUN 머무르는/VERB 공간에서/ADV 그들/PRON 방식으로/ADV 접근해야/VERB 한다"고/VERB 강조했다/VERB ./PUNCT 
+설거지/NOUN 끝내고/VERB 주문/NOUN 받네요/VERB ;/PUNCT 
+현재/ADV 웹/NOUN 2.0/NOUN 기반의/NOUN 가장/ADV 대표적인/ADJ 웹/NOUN 기술로는/ADV 매쉬업(Mash-up/NOUN ),/PUNCT REST/NOUN ,/PUNCT FOX/NOUN ,/PUNCT XML등이/NOUN 있으며/VERB 또한/ADV 웹/NOUN 애플리케이션들이/NOUN 새롭게/ADV 각광받고/VERB 있는/VERB 상호/NOUN 작용/NOUN 웹/NOUN 애플리케이션/NOUN 구성/NOUN 스타일인/VERB ,/PUNCT AJAX(Asynchronous/NOUN Javascript/NOUN and/NOUN XML)의/NOUN 사용이/NOUN 두드러지고/VERB 있다/VERB ./PUNCT 
+병원까지/ADV 거리는/NOUN 
+학계와/NOUN 기업이/NOUN 협력해/VERB 기술발전은/NOUN 물론/CCONJ 고용/NOUN 창출에도/ADV 힘을/NOUN 쏟자는/VERB 취지였다/VERB ./PUNCT 
+서울대/NOUN 미대에서/ADV 함께/ADV 교수생활을/NOUN 했고/VERB 절친한/ADJ 친구로/ADV 우정을/NOUN 나눴던/VERB 세/NUM 작가의/NOUN 1950~1960년대/NOUN 작품을/NOUN 모은/VERB 이/DET 전시에는/ADV 일반에/ADV 공개되지/VERB 않았던/VERB 작품들도/NOUN 나왔다/VERB ./PUNCT 
+총/NOUN 연장길이는/NOUN 14.3㎞로/ADV ,/PUNCT 영동고속도로/NOUN ,/PUNCT 서울외곽순환고속도로/ADV 등과/ADV 연결된다/VERB ./PUNCT 
+구제역/NOUN 사태/NOUN 이후/ADP 처음으로/ADV 시장이/NOUN 열린/VERB 탓인지/VERB 경기도와/NOUN 경북/NOUN ,/PUNCT 충북/NOUN 지역/NOUN 농민과/NOUN 상인들까지/NOUN 가세해/VERB 평소보다/ADV 많은/ADJ 200여명이/NOUN 찾았다/VERB ./PUNCT 
+'하녀'와/ADV 같은/ADJ 날/ADV 개봉한/VERB 이/DET 영화의/NOUN 누적/NOUN 관객은/NOUN 54만5천366명이다/VERB ./PUNCT 
+회사에서/ADV 3미터이지만/VERB 저는/PRON 절대/ADV 이곳에/ADV 입차하지/VERB 않습니다/VERB ./PUNCT 
+1941년/NOUN 1월/NOUN 11일/NOUN 일본/NOUN 정부로부터/ADV 훈5등/NOUN 서보장을/NOUN 받았고/VERB 1940년/NOUN 3월/NOUN 28일/NOUN 고등관/NOUN 3등/NOUN ,/PUNCT 1943년/NOUN 1월/NOUN 21일/NOUN 정5위에/ADV 각각/ADV 서위되었다/VERB ./PUNCT 
+지금/ADV 강남사거리/NOUN 막히냐/VERB 
+전부터/ADV 자주/ADV 가는/VERB 곳이었는데/VERB 최근에/ADV 가보니/VERB 육회를/NOUN 그냥/ADV 주네요/VERB 
+대전까지/ADV 거리가/NOUN 얼마나/ADV 되나요/VERB 
+한화가/NOUN 입주하는/VERB 방현지구는/NOUN 대덕연구개발특구/NOUN 1단계/NOUN 개발사업지구로/ADV 지난/VERB 2006년/NOUN 8월/NOUN 개발사업계획/NOUN 고시/VERB ,/PUNCT 2008년/NOUN 8월/NOUN 실시계획/NOUN 승인/NOUN 고시된/VERB 국가산업단지다/VERB ./PUNCT 
+그는/PRON 2005년/NOUN FIFA/NOUN 컨페더레이션스컵에서/ADV 대회/NOUN MVP로/ADV 뽑혔고/VERB 이와/ADV 동시에/ADV 5골을/NOUN 기록해/VERB 최다득점선수가/NOUN 됨으로써/ADV 황금신발상(Golden/NOUN Boot/NOUN Award)을/NOUN 수상하였다/VERB ./PUNCT 
+가장/ADV 가까운/ADJ 병원까지/ADV 차타고/VERB 가면/VERB 얼마나/ADV 걸려/VERB 
+이/DET 아파트는/NOUN 골목에/ADV 있는/VERB 아파트치고/ADV 커서/VERB 찾기도/NOUN 쉽다/ADJ 
+그/DET 신문/NOUN 주위에/ADP 셍스태크는/NOUN 미국에서/ADV 아프리카계/NOUN 미국인들의/NOUN 신문의/NOUN 가장/ADV 큰/ADJ 체인점을/NOUN 지었다/VERB ./PUNCT 
+참고로/ADV 매운탕두/NOUN 맛나요/ADJ 
+매거진에는/ADV 뉴스와/NOUN 쇼/NOUN 플로어의/NOUN 지도가/NOUN 실려있다/ADJ ./PUNCT 
+처방전도/NOUN 똑같고/VERB 돈이/NOUN 안될/VERB 것/NOUN 같으니깐/VERB 환자의/NOUN 증상을/NOUN 자세히/ADV 알려고/VERB 하지도/NOUN 않습니다/ADJ ./PUNCT 
+이는/PRON 지난해/NOUN 중국/NOUN 외환/NOUN 보유액/NOUN 증가분의/NOUN 7.6%에/ADV 해당하는/VERB 규모로/ADV ,/PUNCT 2009년/NOUN 핫머니/NOUN 유입액인/VERB 291억/NOUN 달러에/ADV 비해/VERB 대폭/ADV 늘어났다/VERB ./PUNCT 
+다시는/ADV 가기/NOUN 시른/VERB 집/NOUN 
+이후/ADV 알키모스는/NOUN 죽고/VERB 바키데스는/NOUN 벳/NOUN 바시에서/ADV 요나단과/NOUN 시몬에게/ADV 다시/ADV 크게/ADV 패해/VERB 유대를/NOUN 떠나고/VERB 말았다/VERB ./PUNCT 
+호텔과/NOUN 고급식당을/NOUN 중심으로/ADV 신선한/ADJ 음식(fresh/NOUN food)을/NOUN 필요로/ADV 하는/VERB 곳에/ADV 자신들이/PRON 재배한/VERB 농작물을/NOUN 공급할/VERB 예정에/ADV 있으며/VERB 올해/NOUN 좋은/ADJ 결과를/NOUN 얻으면/VERB 재배면적을/NOUN 확대할/VERB 계획이다/VERB ./PUNCT 
+고등어/NOUN 조림/NOUN 밥이랑/ADV 같이/ADV 먹으면/VERB 너무/ADV 맛있어요/ADJ !/PUNCT 
+2008년부터/ADV 현재까지/ADV 콜센터/NOUN 민원안내/NOUN 및/CCONJ 상담/NOUN 실적은/NOUN 차량등록/NOUN 21만1,828건/NOUN ,/PUNCT 여권발급/NOUN 19만8,193건을/NOUN 비롯하여/VERB 총/NOUN 1,18만2,270건으로/ADV 1일/NOUN 평균/NOUN 1,696건에/ADV 이른다/VERB ./PUNCT 
+폐식이지만/VERB ,/PUNCT 당역/NOUN 개업/NOUN 후에/ADP 설치된/VERB 남쪽/NOUN 출입구에서는/ADV 간이식이/NOUN 되고/VERB 있다/VERB ./PUNCT 
+등번호는/NOUN 한신/NOUN 타이거스/NOUN 시절의/NOUN 에나쓰/NOUN 유타카와/NOUN 착용했던/VERB 28번으로/ADV 정해졌고/VERB 이것은/PRON 라이벌/NOUN 관계였던/VERB 요미우리/NOUN 자이언츠에/ADV 입단한/VERB 가네토도/NOUN 똑같이/ADV 28번으로/ADV 배정되었다/VERB ./PUNCT 
+강지영의/NOUN 코믹/NOUN 골반댄스는/NOUN 5일/NOUN 일요일/NOUN 오후/NOUN 4시/NOUN 10분/NOUN MBC/NOUN &lt;꽃다발/NOUN 통해/VERB 확인할/VERB 수/NOUN 있다/ADJ ./PUNCT 
+구글맵에/ADV 10/NOUN %/PUNCT 쿠폰이/NOUN 있어서/VERB 휴대폰에서/ADV 보여주고/VERB 구매했습니다/VERB ./PUNCT 
+청암(靑巖)이라는/VERB 명칭은/NOUN 설립/NOUN 이사장인/VERB 청암/NOUN 박태준의/NOUN 호를/NOUN 딴/VERB 것이다/VERB ./PUNCT 
+윈도/NOUN ,/PUNCT AutoCAD/NOUN ,/PUNCT 한글과/NOUN 컴퓨터/NOUN 등의/NOUN 68개의/NOUN 벤더/NOUN 사이트들과/ADV 연계되어/VERB 있으며/VERB ,/PUNCT ESD/NOUN 제품의/NOUN 라이선스/NOUN 또는/CCONJ 설치/NOUN 키/NOUN 정보를/NOUN 제공하는/VERB ESD몰과/NOUN ,/PUNCT 리셀러/NOUN 가격정보/NOUN ,/PUNCT 교육/NOUN ,/PUNCT 제품정보/NOUN ,/PUNCT 거래처별/NOUN 라이선스/NOUN 관리/NOUN 기능/NOUN ,/PUNCT 기간/NOUN 라이선스의/NOUN 기간/NOUN 경과/NOUN 안내/NOUN 등을/NOUN 제공하는/VERB 리셀러/NOUN 코너/NOUN 등이/NOUN 있다/ADJ ./PUNCT 
+토지면(土旨面)은/NOUN 대한민국/NOUN 전라남도/NOUN 구례군에/ADV 위치한/VERB 면이다/VERB ./PUNCT 
+당시/ADV 1발의/NOUN 수류탄과/NOUN 37발의/NOUN AK/NOUN 소총/NOUN 실탄을/NOUN 맞고/VERB 죽었다고/VERB 한다/VERB ./PUNCT 
+현행/NOUN 부양의무자/NOUN 소득기준을/NOUN 보면/VERB ,/PUNCT 부양의무자가/NOUN 수급자와/NOUN 부양의무자/NOUN 각각의/NOUN 최저생계비를/NOUN 합한/VERB 금액의/NOUN 1.3배/NOUN 이상을/NOUN 벌면/VERB 부모의/NOUN 수급/NOUN 자격이/NOUN 제한된다/VERB ./PUNCT 
+진짜/ADV 추천하고/VERB 싶습니다/VERB ./PUNCT 
+대부분의/NOUN 십각류는/NOUN 청소동물이다/VERB ./PUNCT 
+쌀과/NOUN 백합의/NOUN 조갯살을/NOUN 쑨/VERB 죽이/NOUN 백합죽이다/VERB ./PUNCT 
+박주영은/NOUN 3일/NOUN 서울/NOUN 월드컵경기장에서/ADV 열린/VERB 세르비아와의/NOUN A매치/NOUN 평가전에서/ADV 전반/NOUN 9분/NOUN 그림같은/ADJ 헤딩골을/NOUN 성공시켜/VERB 한국의/NOUN 2-1/NUM 승리를/NOUN 견인했다/VERB ./PUNCT 
+365일/ADV 하루도/NOUN 안/ADV 쉬는/VERB 약국이네요/VERB 
+정시/NOUN 이월/NOUN 규모가/NOUN 확정되기까지/ADV 예단하기는/NOUN 어렵지만/VERB 올해도/NOUN 정시모집은/NOUN 상당히/ADV 좁은/ADJ 문이/NOUN 될/VERB 전망이다/VERB ./PUNCT 
+아기랑/ADV 있는데/VERB 분갈이/NOUN 힘들/VERB 꺼/NOUN 같다고/VERB 그냥/ADV 해/VERB 주시더라구요/VERB 
+대부분/ADV 발생/NOUN 과정에서/ADV 죽는다/VERB ./PUNCT 
+자전거/NOUN 타고/VERB 대전역/NOUN 가는/VERB 길/NOUN 
+지금/ADV 문/NOUN 연/VERB 음식점/NOUN 있어/ADJ 
+포장해/VERB 가니/VERB 양을/NOUN 더/ADV 많이/ADV 주셔서/VERB 맛나게/ADV 먹었네요/VERB 
+근처/NOUN 맥도날드/ADV 가는/VERB 지도를/NOUN 보여주세요/VERB 
+또/ADV 포경수술의/NOUN 여부에/ADV 따라/VERB 자위/NOUN 방식에/ADV 차이가/NOUN 있을/VERB 수/NOUN 있으며/VERB ,/PUNCT 이에/ADV 따라/VERB 어떤/DET 방법은/NOUN 고통스러울/VERB 수도/NOUN 있다/ADJ ./PUNCT 
+김주영은/NOUN 연세대학교/NOUN 입학/NOUN 후/ADP 1학기/NOUN 동안/ADP 그곳에서/ADV 축구를/NOUN 하다가/VERB 오스트레일리아로/ADV 유학을/NOUN 가게/VERB 되어/VERB 축구를/NOUN 그만두게/VERB 되었다/VERB ./PUNCT 
+'일분동안'은/NOUN 얼굴피부/NOUN 마사지기/NOUN 중/ADP 비용대비/ADV 쓸모가/NOUN 좋기로/ADV 이름난/VERB 제품이다/VERB ./PUNCT 
+씽크대/NOUN 뚫는/VERB 법/NOUN 비디오/NOUN 사이트로/ADV 가시오/VERB ./PUNCT 
+요약하면/ADV 비순차/NOUN 프로세서는/NOUN 데이터/NOUN 흐름을/NOUN 찾아/VERB 처리하는/VERB 프로세서로/ADV 볼/VERB 수/NOUN 있다/ADJ ./PUNCT 
+스타벅스까지/ADV 기차타고/VERB 가는/VERB 길이/NOUN 있기는/VERB 하니/VERB 
+그래서/ADV 스파/NOUN 상품권을/NOUN 구매하기도/NOUN 하지만/VERB ,/PUNCT 상품권은/NOUN 금액이/NOUN 표시되어/VERB 있어/VERB 받는/VERB 사람이/NOUN 부담스러워/VERB 할/VERB 수/NOUN 있는/VERB 단점이/NOUN 있습니다/ADJ ./PUNCT 
+서울/NOUN 교통/NOUN 상황/NOUN 보여줘/VERB 
+근처에서/ADV 먹어본/VERB 중/NOUN 아주/ADV 괜찮은/VERB 편에/ADV 속합니다/VERB 
+밑반찬은/NOUN 직접/ADV 하신다니/VERB 더더욱/ADV 믿음이/NOUN 갑니다/VERB 
+소녀시대/NOUN Gee(지)/NOUN 뮤직비디오를/NOUN 찾아라/VERB ./PUNCT 
+환자/NOUN 입장은/NOUN 생각/NOUN 안하고/VERB 이상한/ADJ 소리합니다/VERB ./PUNCT 
+슬로베니아와/NOUN 크로아티아가/NOUN 1991년에/NOUN 유고슬라비아로부터/ADV 탈퇴하고/VERB 난/VERB 후/NOUN ,/PUNCT 무슬림/NOUN 보스니아인(44/NOUN %),/PUNCT 세르비아/NOUN 정교회/NOUN 세르비아인(31/NOUN %),/PUNCT 가톨릭교/NOUN 크로아티아인(17%)/NOUN 등/NOUN 여러/ADJ 민족으로/ADV 구성된/VERB 보스니아/NOUN 헤르체고비나/NOUN 유고슬라비안/NOUN 공화국은/NOUN 1992년/NOUN 2월/NOUN 29일에/NOUN 독립을/NOUN 위한/VERB 국민/NOUN 투표를/NOUN 실시했다/VERB ./PUNCT 
+강남대로/NOUN 스트릿뷰/NOUN 보여줘/VERB 
+저렴한/ADJ 가격에/ADV 소고기를/NOUN 먹을/VERB 수/NOUN 있어서/VERB 회식/NOUN 장소로/ADV 자주/ADV 이용하는/VERB 곳이에요/VERB ./PUNCT 
+택배로/ADV 대여하는/VERB 백일상/NOUN 차림은/NOUN 만족한다/VERB 해도/VERB 소품/NOUN 상태는/NOUN 받아봐야/VERB 아는/VERB 거라/VERB 마음에/ADV 들어도/VERB 선뜻/ADV 결정이/NOUN 안/ADV 되더라고요/VERB 
+1969년/NOUN 경영에서/ADV 은퇴하며/VERB 전문경영인에게/ADV 유한양행의/NOUN 경영권을/NOUN 인계하였다/VERB ./PUNCT 
+1986년/NOUN 그는/PRON 다시/ADV 타예레스/NOUN 데/NOUN 코르도바로/ADV 갔으나/VERB 한시즌/NOUN 뒤/ADP CD/NOUN 아르메니오로/ADV 이적했다/VERB ./PUNCT 
+유럽재정위기가/NOUN 단기적으로/ADV 봉합됨에/ADV 따라/VERB 이제/ADV 시장의/NOUN 관심은/NOUN 경기변수로/ADV 옮겨질/VERB 것으로/ADV 예상한다/VERB ./PUNCT 
+모든/DET 안주가/NOUN 깔끔하고/VERB 맛있습니다/ADJ 
+전두환/NOUN 정권이/NOUN 김대중/NOUN 전/NOUN 대통령에게/NOUN 사형을/NOUN 선고했다가/VERB 무기징역으로/ADV 감형한/VERB 뒤/NOUN 미국으로의/NOUN 출국을/NOUN 허용한/VERB 이면에는/ADV 미국의/NOUN 역할이/NOUN 있었다/VERB ./PUNCT 
+오로라/NOUN 뜻은/NOUN 
+커피/NOUN 맛도/NOUN 나쁘지/VERB 않음/NOUN ./PUNCT 
+치킨/NOUN 양도/NOUN 많고/VERB 정직하게/ADV 만드시네여/VERB 
+그래서/ADV ρ로/ADV 나타내는/VERB 밀도행렬은/NOUN 대각선행렬이다/VERB ./PUNCT 
+반려/NOUN 동물을/NOUN 가족과/ADV 같이/VERB 생각하는/VERB 사람들임다/VERB .../PUNCT 
+계산/NOUN 좀/ADV 해/VERB 봐라/VERB root/NOUN 128/NUM 
+저지라고/VERB 불리지만/VERB 이/DET 지역은/NOUN 실제로/ADV 산이/NOUN 많은데/VERB ,/PUNCT 저지라는/VERB 이름은/NOUN 이/DET 지역이/NOUN 당시/ADV 후진/NOUN 지역으로/ADV 인식되었기/NOUN 때문에/ADP 붙여졌다/VERB ./PUNCT 
+그리고/ADV 그리스에는/ADV 산이/NOUN 많고/VERB 평야가/NOUN 적어/VERB 각/DET 골짜기나/NOUN 평지가/NOUN 하나의/NUM 지리적/ADJ 단위를/NOUN 이룬다/VERB ./PUNCT 
+이마트/NOUN 언제까지/ADV 문여나/VERB 
+사장님이/NOUN 친절하시고/VERB 낚시에/ADV 조예가/NOUN 깊으셔셔/VERB 머리에/ADV 쏙쏙/ADV 들어오네요/VERB ../PUNCT 
+한/NUM 외환관계자는/NOUN "지난/VERB 금융위기/NOUN 이후/ADP 상대적으로/ADV 높게/ADV 유지돼온/VERB 원/달러/NOUN 환율과/ADV 함께/ADV 최근/ADV 한국/NOUN 기업들의/NOUN 경쟁력/NOUN 강화/NOUN ,/PUNCT 주식시장/NOUN 호조/NOUN 등이/NOUN 맞물리면서/VERB 외국자본의/NOUN 유입이/NOUN 급격히/ADV 늘고/VERB 있다"고/VERB 설명했다/VERB ./PUNCT 
+영암소방서/NOUN 119대원과/NOUN 영암군지역자율방재단/NOUN ,/PUNCT 우체국집배원/NOUN ,/PUNCT 군청/NOUN 수로원/NOUN 등이/NOUN 소방우의/NOUN 525벌과/NOUN 방한복/NOUN 346벌/NOUN 등을/NOUN 기증받게/VERB 됐다/VERB ./PUNCT 
+서울특별시/NOUN 성북구/NOUN 삼선동/NOUN 1가/NOUN 13-1/NUM 하나은행/NOUN 빌딩/NOUN 3층에/ADV 위치해/VERB 있다/VERB ./PUNCT 
+낙서로/ADV 도배된/VERB 벽도/NOUN 재미있구요/ADJ 
+무료도메인/NOUN 조심하시고/VERB 웬만하면/VERB 유료도메인을/NOUN 이용하세요/VERB ./PUNCT 
+1963년/NOUN 인민일보에서/ADV 소비에트/NOUN 연방의/NOUN 공산당을/NOUN 비판한/VERB 문장인/VERB 9평소공(九評蘇共)의/NOUN 형식을/NOUN 본뜨고/VERB 있다/VERB ./PUNCT 
+그에/ADV 따라/VERB 중국/NOUN 정부는/NOUN 대도시의/NOUN 인구를/NOUN 지방으로/ADV 분산시키고/VERB 아이들을/NOUN 훌륭한/ADJ 공산당원으로/ADV 만든다는/VERB 명목으로/ADV 홍위병/NOUN 양성소로/ADV 보냈다/VERB ./PUNCT 
+맛/NOUN 개선이/NOUN 필요한/VERB 것/NOUN 같네요/ADJ 
+행정개편특위원장으로서/ADV 관련/NOUN 논의를/NOUN 주도하고/VERB 있는/VERB 허태열/NOUN 최고위원은/NOUN "반대/NOUN 의견도/NOUN 많지만/VERB ,/PUNCT 특별시와/NOUN 광역시/NOUN 소속의원/NOUN 87명/NOUN 가운데/ADP 의견을/NOUN 제시한/VERB 67명의/NOUN 52%가/NOUN 찬성했다"면서/VERB "독선과/NOUN 독주를/NOUN 견제할/VERB 장치를/NOUN 넣어/VERB 구청장에/ADV 대한/VERB 견제는/NOUN 지금보다/ADV 더/ADV 강화된다"고/VERB 설명했다/VERB ./PUNCT 
+장난/NOUN 아니게/VERB 친절합니다/ADJ ./PUNCT 
+2009년/NOUN 이전까지는/ADP 르까프/NOUN OZ라고/VERB 불렀으나/VERB 2009년/NOUN 1월/NOUN 31일에/NOUN '화승/NOUN OZ'로/ADV 팀/NOUN 이름을/NOUN 개칭하였다/VERB ./PUNCT 
+손님/NOUN 대접/NOUN 받고/VERB 싶은/VERB 분들은/NOUN 쳐다도/ADV 보지/VERB 마세요/VERB ./PUNCT 
+그러나/ADV 이/DET 약물은/NOUN 기억손상의/NOUN 증거를/NOUN 보여주지는/VERB 못한다/VERB ./PUNCT 
+걸즈/NOUN 힙합/NOUN You/NOUN Tube/NOUN 
+이런/ADJ 인구/NOUN 구성비는/NOUN 향후/ADV 주택시장에/ADV 좋지/VERB 않은/VERB 영향을/NOUN 줄/VERB 것으로/ADV 보인다/VERB ./PUNCT 
+아이패드/NOUN 사진/NOUN 보여줘/VERB 
+먹을만한/VERB 게/NOUN 없고/VERB 맛있지/VERB 않음/NOUN ./PUNCT 
+그리고/ADV 사장님도/NOUN 넘넘/ADV 친절히/ADV 저나/NOUN 받으시네요/VERB 
+대전까지/ADV 거리가/NOUN 어떻게/ADV 돼/VERB 
+그/DET 돈이면/VERB 다른/ADJ 한식집이나/NOUN 일식집/NOUN 알아보시는/VERB 게/NOUN 좋습니다/ADJ 
+아울러/ADV 조기/NOUN 과열조짐이/NOUN 보이는/VERB 지방선거에/ADV 대비해/VERB 자금추적/NOUN ,/PUNCT 회계분석/NOUN ,/PUNCT 인터넷프로토콜(IP)/NOUN 추적/NOUN ,/PUNCT 디지털/NOUN 분석과/NOUN 같은/VERB 과학/NOUN 수사/NOUN 기법을/NOUN 선거사범/NOUN 수사에/ADV 도입/NOUN ,/PUNCT 불법선거/NOUN 예방과/NOUN 단속활동/NOUN 강화로/ADV 공명선거/NOUN 풍토를/NOUN 확고히/ADV 하겠다고/VERB 강조했다/VERB ./PUNCT 
+스타벅스에/ADV 자전거/NOUN 타고/VERB 가는/VERB 길/NOUN 알려줘/VERB 
+무한도전/NOUN 에피소드를/NOUN 찾으시오/VERB 
+현재/ADV 의약품/NOUN 안전사용/NOUN 교육교재는/NOUN 지역/NOUN 내/NOUN 약사를/NOUN 중심으로/ADV 결성된/VERB 약사랑배움터에서/ADV 지역아동센터/NOUN ,/PUNCT 동주민센터/NOUN 및/CCONJ 초등학교/NOUN 방과후공부방/NOUN 어린이를/NOUN 대상으로/ADV 실시/NOUN 중인/VERB 약물오남용예방/NOUN 교육의/NOUN 교재로/ADV 활용되고/VERB 있다/VERB ./PUNCT 
+예전에/ADV 먹던/VERB 냉동삼겹살이/NOUN 먹고/VERB 싶을/VERB 때/NOUN 꼭/ADV 가봐야/VERB 할/VERB 곳/NOUN ./PUNCT 
+성장/NOUN 가능성이/NOUN 큰/VERB 동남아/NOUN 등/NOUN 개도국/NOUN 디자인시장을/NOUN 첫/NUM 진출/NOUN 목표로/ADV 삼았다/VERB ./PUNCT 
+디자이너/NOUN 분이/NOUN 친절하고/VERB 디자인이/NOUN 굳입니다~/VERB 
+집/NOUN 근처라/ADP 지나가다/VERB 들러봤는데/VERB 파스타건/NOUN 피자건/NOUN 맛은/NOUN 두말할/VERB 나위/NOUN 없이/VERB 만족스럽습니다/ADJ ./PUNCT 
+명박이/NOUN 관련/NOUN 뉴스/NOUN 
+일단/ADV 회의/NOUN 질이/NOUN 예사롭지/VERB 않았어요/VERB !/PUNCT 
+남부지방은/NOUN 남해안을/NOUN 중심으로/ADV 비가/NOUN 꾸준히/ADV 이어지다가/VERB 토요일/NOUN 새벽에/ADV 대부분/ADV 그치기/NOUN 때문에/ADP ,/PUNCT 주말/NOUN 야외활동에는/ADV 지장이/NOUN 없겠습니다/VERB ./PUNCT 
+거기에다/ADV 쿠폰/NOUN 도장도/NOUN 찍어주고/VERB 천원/NOUN 내면/VERB 래귤러/NOUN 아메리카노/NOUN 리필도/NOUN 가능/NOUN ./PUNCT 
+화구/NOUN 중앙에는/ADV 화구호가/NOUN 있으며/VERB ,/PUNCT 많은/ADJ 아프리카의/NOUN 야생동물의/NOUN 터전이/NOUN 되었다/VERB ./PUNCT 
+땅도/NOUN 고르지/VERB 않아/VERB 세컨샷을/NOUN 하기가/NOUN 불편하다/ADJ ./PUNCT 
+여기에/ADV 최근/ADV 옥천/NOUN 그리고/CCONJ 포항/NOUN 지진/NOUN 등/NOUN 잇단/ADJ 지진/NOUN 발생/NOUN 소식이/NOUN 들리자/VERB 지진에/ADV 대한/VERB 불안감은/NOUN 더욱/ADV 커지고/VERB 있는/VERB 실정이다/VERB ./PUNCT 
+그러나/ADV 1622년/NOUN 명나라/NOUN 장수/NOUN 모문룡이/NOUN 광해군의/NOUN 권유로/ADV 평안북도/NOUN 철산의/NOUN 가도에/ADV 주둔하여/VERB 요동의/NOUN 회복을/NOUN 획책하며/VERB 후금을/NOUN 자극하였다/VERB ./PUNCT 
+2005년/NOUN 바레인/NOUN 축구/NOUN 국가대표팀과의/ADV 2006년/NOUN FIFA/NOUN 월드컵/NOUN AFC-CONCACAF/NOUN 플레이오프에는/ADV 출전하지/VERB 못했으며/VERB ,/PUNCT 2006년/NOUN FIFA/NOUN 월드컵에서는/ADV 주전/NOUN 골키퍼인/VERB 켈빈/NOUN 잭/NOUN (Kelvin/NOUN Jack)의/NOUN 부상으로/ADV 조별/NOUN 리그/NOUN 1차전/NOUN 스웨덴/NOUN 축구/NOUN 국가대표팀/NOUN 전에서/ADV 기회를/NOUN 잡았다/VERB ./PUNCT 
+만주보민회의/NOUN 경비는/NOUN 모두/ADV 일본/NOUN 정부에게서/ADV 지원받았다/VERB ./PUNCT 
+경북안동시에서는/ADV 올바른/ADJ 손/NOUN 씻기/NOUN 운동을/NOUN 생활화하여/VERB ,/PUNCT 식중독/NOUN 및/CCONJ 각종/NOUN 전염병/NOUN 등의/NOUN 감염성/NOUN 질병/NOUN 발생률을/NOUN 감소시키며/VERB 건강한/ADJ 생활/NOUN 습관과/NOUN 성장기/NOUN 어린이들의/NOUN 개인/NOUN 위생준수/NOUN 향상을/NOUN 도모하기/NOUN 위해/VERB 4월1일부터/ADV 6월24일까지/ADV 초등학교(유치부/NOUN ),/PUNCT 어린이집/NOUN ,/PUNCT 유치원/NOUN 등/NOUN 2,000여명을/NOUN 대상으로/ADV 손씻기/NOUN 체험교실을/NOUN 운영한다/VERB ./PUNCT 
+워낙/ADV 어렸을/VERB 때부터/ADV 방송/NOUN 일을/NOUN 시작해/VERB 또래/NOUN 연예인들보다/ADV 경력이/NOUN 길다/ADJ ./PUNCT 
+국제/NOUN 전화를/NOUN 수십/NUM 번/NOUN 넘게/VERB 했는데/VERB ,/PUNCT 그/DET 때마다/ADV 아직/ADV 보험/NOUN 회사에서/ADV 처리가/NOUN 않됐다/VERB ,/PUNCT 이번/DET 주/NOUN 안으로는/ADP 꼭/ADV 입금해/VERB 주겠다는/VERB 말만/NOUN 반복해서/VERB 하고/VERB 있습니다/VERB ./PUNCT 
+다만/ADV 이번/NOUN 설/NOUN 연휴는/NOUN 오는/VERB 6일까지/ADV 5일간의/NOUN 연휴로/ADV 인해/VERB 귀경/NOUN 교통량이/NOUN 다소/ADV 분산될/VERB 것으로/ADV 전망됐다/VERB ./PUNCT 
+원할머니/NOUN 체인/NOUN 중/ADP 서비스가/NOUN 가장/ADV 별로였던/VERB 곳/NOUN ./PUNCT 
+효성은/NOUN 이번/NOUN 주총에서/ADV 김종갑/NOUN 하이닉스반도체/NOUN 이사회/NOUN 의장과/NOUN 최흥식/NOUN 전/NOUN 금융연구원장을/NOUN 사외이사로/ADV 신규/NOUN 선임했다/VERB ./PUNCT 
+변수는/NOUN 북한이/NOUN 임금/NOUN 인상/NOUN 문제를/NOUN 들고/VERB 나올지/VERB 여부다/VERB ./PUNCT 
+바우스/NOUN 씨는/NOUN 당시/ADV 매립/NOUN 장소를/NOUN 구체적으로/ADV 언급했으며/VERB ,/PUNCT "1978년/NOUN 한국으로/ADV 돌아와/VERB 캠프/NOUN 머서를/NOUN 방문했을/VERB 때/NOUN 매립지/NOUN 주변에/ADV 별다른/ADJ 변화가/NOUN 없어서/VERB 놀랐다"고/VERB 말했습니다/VERB ./PUNCT 
+무었보다/ADV 알바보다는/ADV 운송하는/VERB 사람이/NOUN 책임이/NOUN 있다고/VERB 생각한다/VERB 
+그렇게/ADV 출장비/NOUN 만원을/NOUN 드리고/VERB 컴터/NOUN 본체를/NOUN 가져가시더니/VERB 전화/NOUN 와서는/VERB 하드/NOUN 본체를/NOUN 갈아야/VERB 해서/VERB 13만/NUM 원/NOUN 달라고/VERB 하였습니다/VERB ./PUNCT 
+30일/NOUN 중고차/NOUN 전문기업/NOUN SK엔카에/ADV 따르면/VERB 현재/ADV 홈페이지(www.encar.com)에는/ADV 1984년/NOUN 국내에서/ADV 유일하게/ADV 생산된/VERB 차종인/VERB 포니/NOUN 세단/NOUN 2대가/NOUN 올라와/VERB 있다/VERB ./PUNCT 
+맥도날드까지/ADV 거리/NOUN mile로/ADV 
+캠퍼스/NOUN 건축물의/NOUN 중심은/NOUN 로우/NOUN 메모리얼/NOUN 도서관(Low/NOUN Memorial/NOUN Library)으로/ADV 세스/NOUN 로우(Seth/NOUN Low/NOUN )/PUNCT 총장의/NOUN 아버지를/NOUN 기념하여/VERB 명명되었으며/VERB 로만/ADJ 클래식/ADJ 스타일로/ADV 지어졌고/VERB 오늘날/ADV 뉴욕시의/NOUN 역사/NOUN 사적이다/VERB ./PUNCT 
+비전향/NOUN 장기수들은/NOUN 카메라/NOUN 앞에서/ADP 구체적인/ADJ 얘기를/NOUN 하려/VERB 하지/VERB 않았다/VERB ./PUNCT 
+철저한/ADJ 재고/NOUN 관리에/ADV 바로/ADV 구매가/NOUN 가능한/VERB 업체/NOUN 
+일반/NOUN 삼계닭이/NOUN 아닌가/ADJ ?/PUNCT 
+또/ADV 수구/NOUN 남고부문에서도/ADV 전남제일고가/NOUN 강원체고를/NOUN 12/NUM 대/ADP 8로/ADV 꺾고/VERB 우승했다/VERB ./PUNCT 
+유/NOUN 부연구위원은/NOUN "휴머니즘을/NOUN 기초로/ADV 녹색/NOUN ,/PUNCT 생명/NOUN ,/PUNCT 창의/NOUN ,/PUNCT 융합이/NOUN 어우러지는/VERB '그린/NOUN 휴머니즘'이/NOUN 인류의/NOUN 도전과제/NOUN 극복과/NOUN 본원적/ADJ 요구에/ADV 접근하는/VERB 미래/NOUN 키워드"라며/VERB "자연과의/NOUN 조화를/NOUN 지향하고/VERB 사회적/ADJ 갈등/NOUN ,/PUNCT 인간소외/NOUN 극복/NOUN 등을/NOUN 추구하는/VERB 휴머니즘이/NOUN 발현되는/VERB 녹색사회를/NOUN 추구해야/VERB 한다"고/VERB 말했습니다/VERB ./PUNCT 
+정비기술이/NOUN 사상구/NOUN 일대에서/ADV 제일/ADV 잘하시내요/VERB 
+만약/ADV 통영에/NOUN 들리신다면/VERB 꼭/ADV 요리사의/NOUN 집에/ADV 들리세요/VERB 
+또한/ADV 시설을/NOUN 비교할/VERB 때/NOUN 무턱대고/ADV 대규모/NOUN 체인점과/ADV 비교하려는/VERB 것이/NOUN 아니다/ADJ 
+매운족발은/NOUN 맛있고/VERB 콜라겐이/NOUN 많이/ADV 붙어있어서/VERB 꼼꼼하게/ADV 뜯어/VERB 드시면/VERB 좋을/VERB 듯/NOUN 
+바로/ADV 이곳입니다/VERB ./PUNCT 
+씽크대/NOUN 뚫는/VERB 법을/NOUN 찾으시오/VERB 
+무지/ADV 맛없고/VERB 양이/NOUN 적어/VERB 밥을/NOUN 남겨야/VERB 했음/NOUN ./PUNCT 
+비록/ADV 저수지/NOUN 구석에/ADV 있지만/VERB 해물탕/NOUN 맛이/NOUN 죽여줘요~/ADJ 
+대전까지/ADV 몇/DET 마일/NOUN 
+경보고속도로/NOUN 상황이/NOUN 어때/ADJ 
+이는/PRON 신용경색을/NOUN 뚫기/NOUN 위한/VERB `바이패스/NOUN 수술/NOUN (심장동맥/NOUN 우회로/NOUN 조성수술)`로/ADV 볼/VERB 수/NOUN 있다/ADJ ./PUNCT 
+여느/DET 중식당보다는/ADV 양이/NOUN 적습니다/ADJ ./PUNCT 
+각/DET 선두차/NOUN 전면에/ADP 있는/VERB 차량/NOUN 번호/NOUN 표시는/NOUN 1999년까지는/ADV 비상문/NOUN 옆/ADP 후미등/NOUN 케이스/NOUN 위에/ADP 은색/NOUN 스티커로/ADV 4자리/NOUN 모두를/NOUN 표시했으나/VERB ,/PUNCT 2000년부터/ADV 도입된/VERB 3차분/NOUN 차량부터/ADV 비상문/NOUN 창/NOUN 아래에/ADP 검은/ADJ 글씨로/ADV 끝/NOUN 2자리만을/NOUN 표기하였고/VERB 기존에/ADV 도입된/VERB 차량도/NOUN 모두/ADV 이/DET 형식으로/ADV 통일되었다/VERB ./PUNCT 
+아르마딜로/NOUN 스페이스()는/NOUN 존/NOUN 카맥이/NOUN 우주/NOUN 여행을/NOUN 목적으로/ADV 2000년에/NOUN 설립한/VERB 기업이다/VERB ./PUNCT 
+로마/NOUN 교구에는/ADV 186명의/NOUN 추기경이/NOUN 있으며/VERB ,/PUNCT 여기에/ADV 더하여/VERB 1,187명의/NOUN 로마인/NOUN 성직자가/NOUN 있다/ADJ ./PUNCT 
+용산역세권/NOUN 개발사업은/NOUN 다음달/NOUN 17일이/NOUN 지난해/NOUN 8500억/NUM 원/NOUN 규모의/NOUN 자산유동화증권(ABS)/NOUN 발행에/ADV 대한/VERB 이자(128억/NOUN 원)의/NOUN 지급/NOUN 기한이어서/VERB 이때까지/ADV 자금조달/NOUN 방안을/NOUN 마련하지/VERB 못하면/VERB 전면/ADV 중단될/VERB 위기에/ADV 놓인다/VERB ./PUNCT 
+한국경영자총협회는/NOUN "이번/NOUN 북한의/NOUN 도발로/ADV 우리/PRON 군과/NOUN 선량한/ADJ 주민의/NOUN 인명피해가/NOUN 발생했고/VERB 한반도는/NOUN 물론/ADV 국제사회의/NOUN 평화와/NOUN 안정도/NOUN 위협받고/VERB 있다"며/VERB "경영계는/NOUN 북한의/NOUN 범죄행위를/NOUN 강력히/ADV 규탄하며/VERB 정부는/NOUN 강력하게/ADV 응징해야/VERB 한다"고/VERB 주문했다/VERB ./PUNCT 
+대한전선은/NOUN 이번/NOUN 프리즈미안/NOUN 투자자산/NOUN 처분으로/ADV 당면/NOUN 과제인/VERB 재무구조/NOUN 개선에/ADV 한층/ADV 더/ADV 탄력을/NOUN 받게/VERB 되었다/VERB ./PUNCT 
+30달러/NOUN 얼마야/VERB 
+구글은/NOUN 언제/ADV 세워졌니/VERB 
+주인/NOUN 아주머니에게/NOUN 맛이/NOUN 생각만/ADV 못하다고/VERB 하니까/VERB 미안하다는/VERB 말/NOUN 없이/VERB 냉동이라서/VERB 그레요/VERB 하면서/VERB 카운터로/ADV 가더군요/VERB 
+이/DET 건물에서/ADV 특이한/VERB 것은/NOUN 기둥/NOUN 간격을/NOUN 다르게/VERB 한/VERB 것/NOUN ,/PUNCT 액방대신/ADV 장여를/NOUN 쓴/VERB 것/NOUN ,/PUNCT 대들보가/NOUN 커서/VERB 주두/NOUN 위에/ADP 직접/ADV 올려놓음으로써/ADV 제공/NOUN 하나가/NUM 삭제된/VERB 것/NOUN ,/PUNCT 첨차구조가/NOUN 특이한/VERB 것/NOUN ,/PUNCT 7량집으로서/ADV 두리/NOUN 사이/ADP 간격이/NOUN 모두/ADV 같은/VERB 것/NOUN 등이다/VERB ./PUNCT 
+일반적으로/ADV ,/PUNCT 모든/DET 가믈란/NOUN 사이에는/ADP 차이가/NOUN 있으며/VERB ,/PUNCT 특히/ADV 상류층/NOUN 사회에서/ADV 나타난/VERB 가믈란은/NOUN 개성적인/ADJ 스타일이/NOUN 존재한다/VERB ./PUNCT 
+어느덧/ADV 우리/PRON 사회도/NOUN '반려동물'이라는/VERB 말이/NOUN 낯설지/VERB 않을/VERB 만큼/NOUN 성숙했다/ADJ ./PUNCT 
+고양이과/NOUN 동물들의/NOUN 특성으로/ADV ,/PUNCT 오므릴/VERB 수/NOUN 있는/VERB 발톱을/NOUN 가지고/VERB 있다/VERB ./PUNCT 
+재판부는/NOUN 또/ADV "창업주/NOUN 사망/NOUN 후/ADP 수십년이/NOUN 지나도록/VERB 침묵하다가/VERB 상속세가/NOUN 면제된/VERB 후에야/ADV 이의를/NOUN 제기했다/VERB 해도/VERB 신의칙에/ADV 반하지/VERB 않는다"고/VERB 밝혔다/VERB ./PUNCT 
+탕수육도/NOUN 바삭하고/VERB 맛있어요/ADJ !/PUNCT 
+계약/NOUN 후/ADP 정근우는/NOUN "빨리/ADV 계약을/NOUN 마쳐서/VERB 내년시즌/NOUN 준비를/NOUN 더욱/ADV 알차게/ADV 준비할/VERB 수/NOUN 있게/ADV 됐다"면서/VERB "발전된/VERB 모습으로/ADV 팬들과/NOUN 구단의/NOUN 성원에/ADV 보답하겠다"고/VERB 소감을/NOUN 밝혔다/VERB ./PUNCT 
+이탈리안/NOUN 레스토랑/NOUN 좀/ADV 추천해줘/VERB 
+맥도날드까지/ADV 늦어도/VERB 몇/DET 시면/ADV 도착할까/VERB 
+그동안/ADV 계속해서/ADV 신한지주를/NOUN 내다팔던/VERB 외국인이/NOUN 이날은/ADV 적극적인/ADJ 매수세다/VERB ./PUNCT 
+차/NOUN 타고/VERB 인천공항까지/ADV 얼마나/ADV 걸려/VERB 
+당초/ADV 김현중은/NOUN 13일/NOUN 오후/NOUN 도쿄/NOUN NHK홀에서/ADV '프리미엄/NOUN 토크&amp;라이브'/NOUN 이벤트에/ADV 참석할/VERB 예정이었다/VERB ./PUNCT 
+시설도/NOUN 좋고/VERB 선생님도/NOUN 좋습니다/ADJ 
+사후/ADV 서울/NOUN 효창공원에/ADV 안장되었다/VERB ./PUNCT 
+이만하면/VERB 용원에서는/ADV 맛있는/VERB 집이네요/VERB 
+주로/ADV 인도네시아의/NOUN 술라웨시/NOUN 섬과/NOUN 살라야르/NOUN 섬의/NOUN 저지대에서/ADV 발견된다/VERB ./PUNCT 
+중국/NOUN 국민당군의/NOUN 반격/NOUN 후/ADP 다시/ADV 번시후/NOUN 시가/NOUN 되었다/VERB ./PUNCT 
+1번/NOUN 트랙부터/ADV 순서대로/ADV 들어주세요/VERB 
+동네에서/ADV 편하게/ADV 먹으면서/VERB 고기/NOUN 질도/NOUN 괜찮은/VERB 편이내요/VERB 
+수강료는/NOUN 무료다/VERB ./PUNCT 
+지난달/NOUN 16일/NOUN 실시간/NOUN 인터넷/NOUN 방송/NOUN 유스트림을/NOUN 통해/VERB 컴백을/NOUN 알린/VERB 원더걸스는/NOUN 신곡/NOUN '투/NOUN 디퍼런트/NOUN 티어스'를/NOUN 공개했다/VERB ./PUNCT 
+제주도는/NOUN 재단이/NOUN 6일/NOUN 중간집계해/VERB 발표한/VERB 상위/NOUN 10개/NOUN 지역에/ADV 이름을/NOUN 올려/VERB 기대를/NOUN 모았다/VERB ./PUNCT 
+아이들이/NOUN 조금/ADV 떠들었다고/VERB 다음부터는/ADV 포장해/VERB 가라고/VERB 했어요/VERB 
+전보다/ADV 종류도/NOUN 많아지고/VERB 좋아요/ADJ ./PUNCT 
+축협에서/ADV 직접/ADV 운영하는/VERB 한우고기집입니다/VERB ./PUNCT 
+지진희는/NOUN "더/ADV (코믹하게)/ADV 할/VERB 수도/NOUN 있었는데/VERB 적당히/ADV 했다"며/VERB 웃었다/VERB ./PUNCT 
+여기에/ADV 조선일보는/NOUN 1면/NOUN 머리기사를/NOUN 통해/VERB 이명박/NOUN 대통령이/NOUN 이번/NOUN 사건에/ADV 대응하는/VERB 차원에서/ADV 내년/NOUN 1월로/ADV 계획된/VERB 방중계획을/NOUN 연기할/VERB 수도/NOUN 있다고/VERB 전했다/VERB ./PUNCT 
+같은/ADJ 제품/NOUN 인터넷보다/ADV 4천900원/ADV 더/ADV 비싸게/ADV 파네요/VERB 
+정말/ADV 오래되었지요/ADJ ./PUNCT 
+고무신/NOUN ,/PUNCT 찢어진/VERB 운동화가/NOUN 드물지/VERB 않던/VERB 때에/ADV 제가/PRON 신었던/VERB 구두/NOUN 땜에/ADP 속상했을/VERB 아이들은/NOUN 또/ADV 얼마였을까/VERB 반성하였습니다/VERB ./PUNCT 
+상대성/NOUN 이론에서는/ADV 사건이라는/VERB 말이/NOUN 자주/ADV 나오므로/VERB ,/PUNCT 사건의/NOUN 의미를/NOUN 잘/ADV 이해할/VERB 필요가/NOUN 있다/ADJ ./PUNCT 
+원래의/NOUN 덕천역은/NOUN 남덕천역이다/VERB ./PUNCT 
+이들은/PRON 김일성을/NOUN 중심으로/ADV 한/VERB 항일무장투쟁/NOUN 세력으로서/ADV 광복/NOUN 이후/ADP 남로당파/NOUN ,/PUNCT 소련파/NOUN ,/PUNCT 연안파/NOUN 등/NOUN 다른/ADJ 계파를/NOUN 차례로/ADV 몰아내고/VERB 조선민주주의인민공화국의/NOUN 정권을/NOUN 장악했다/VERB ./PUNCT 
+티아라의/NOUN 앨범/NOUN Day/NOUN by/NOUN day(데이/NOUN 바이/NOUN 데이)의/NOUN 앨범/NOUN 커버/NOUN 이미지를/NOUN 찾아라/VERB ./PUNCT 
+오리고기/NOUN 전문인데/VERB 가야공원에/ADV 있는/VERB 오리집보다/ADV 맛이/NOUN 좋아요/ADJ 
+레이저(Razer)는/NOUN 22일/NOUN ,/PUNCT 경량/NOUN 마우스/NOUN 매트/NOUN 레이저/NOUN 베스퓰라(RAZER/NOUN VESPULA)를/NOUN 출시한다고/VERB 밝혔다/VERB ./PUNCT 
+자장면/NOUN 하나/ADV 시켰는데/VERB 1시간이/NOUN 넘어도/VERB 안/ADV 와요/VERB !/PUNCT 
+1949년/NOUN 중화인민공화국/NOUN 수립에/ADV 따라/VERB 본사를/NOUN 베이징으로/ADV 옮겼다/VERB ./PUNCT 
+집/NOUN 앞이라/ADP 먹은/VERB 건데/VERB 기름값/NOUN 나가더라도/VERB 나가서/VERB 먹어야겠네요/VERB ./PUNCT 
+프로농구/NOUN 결과/NOUN 
+리움/NOUN 미술관/NOUN 주위/NOUN 지도/NOUN 
+밥/NOUN 먹다/VERB 말고/VERB 오빠가/NOUN 나를/PRON 놀렸습니다/VERB ./PUNCT 
+1916년에/NOUN 솜므/NOUN 전투에서/ADV 처음/ADV 등장한/VERB 전차는/NOUN 독일군의/NOUN 골칫거리였다/VERB ./PUNCT 
+두/NUM 분/NOUN 너무/ADV 친절하시고/VERB 발롱펌/NOUN 너무/ADV 예쁘게/ADV 나왔어요/VERB !/PUNCT 
+마법/NOUN 전투/NOUN 장면/NOUN ,/PUNCT 크리처들의/NOUN 비행장면/NOUN ,/PUNCT 호그와트의/NOUN 신비로운/ADJ 모습들을/NOUN 3D로/ADV 본다면/VERB 분명/ADV 장관일/VERB 것이다/VERB ./PUNCT 
+도내에서/ADV 평균등록금이/NOUN 가장/ADV 비싼/VERB 대학은/NOUN 연세대/NOUN 원주캠퍼스로/ADV 862만원이고/VERB 한림대(788만원/NOUN ),/PUNCT 관동대(753만원/NOUN ),/PUNCT 상지대(751만원/NOUN ),/PUNCT 경동대(748만원/NOUN ),/PUNCT 한라대(738만원/NOUN ),/PUNCT 한중대(711만원/NOUN ),/PUNCT 강릉원주대(457만원/NOUN ),/PUNCT 강원대(439만원)/NOUN 등의/NOUN 순서를/NOUN 기록했다/VERB ./PUNCT 
+푸들이/NOUN 뭔지/VERB 설명해봐/VERB 
+해물/NOUN 재료를/NOUN 엄청/ADV 많이/ADV 넣어서/VERB 좋았습니다/ADJ 
+전/PRON 그냥/ADV 맛있고/VERB 좋았습니다/ADJ 
+여기에/ADV 286개/NOUN 공기업과/NOUN 공공기관들이/NOUN 안고/VERB 있는/VERB 부채가/NOUN 무려/ADV 388조6000억/NUM 원에/ADV 달한다/VERB ./PUNCT 
+이명박/NOUN 대통령은/NOUN 오늘/NOUN 과학인재/NOUN 240여/NOUN 명을/NOUN 청와대로/ADV 초청해/VERB 대통령과학장학증서와/NOUN 대통령/NOUN 포스트닥/NOUN 펠로우/NOUN 지정서를/NOUN 수여하고/VERB 오찬을/NOUN 함께/ADV 하며/VERB 격려했습니다/VERB ./PUNCT 
+지금/ADV 영업하는/VERB 백화점/NOUN 보여줘/VERB 
+이전에는/ADV 상대식/NOUN 승강장/NOUN 2면/NOUN 2선의/NOUN 구조를/NOUN 지녔지만/VERB ,/PUNCT 지금은/ADV 단선/NOUN 승강장/NOUN 1면/NOUN 1선의/NOUN 구조를/NOUN 지닌/VERB 지상역이다/VERB ./PUNCT 
+2002년/NOUN ,/PUNCT 제27회/NOUN 호리프로/NOUN 탤런트/NOUN 스카우트/NOUN 캐러밴/NOUN '퓨어걸/NOUN 2002/NUM '/PUNCT 그랑프리/NOUN 수상을/NOUN 거쳐/VERB 본격적으로/ADV 여배우/NOUN 활동을/NOUN 시작했다/VERB ./PUNCT 
+깔끔하고/VERB 맛나요/ADJ 
+기아차도/NOUN 올해/NOUN 상반기/NOUN 신형/NOUN 프라이드를/NOUN 출시하면서/VERB 소형차/NOUN 시장/NOUN 공략에/ADV 나선다/VERB ./PUNCT 
+남산/NOUN 타워/NOUN 흑백사진/NOUN 필요해요/ADJ 
+그래서/ADV 보기도/NOUN 좋고/VERB 인조가/NOUN 아닌/VERB 자연/NOUN 잔디이기/NOUN 때문에/ADP 선수들에게는/NOUN 허리나/NOUN 하반신에게/ADV 미치는/VERB 충격도/NOUN 완화된다/VERB ./PUNCT 
+정부는/NOUN 탈락/NOUN 지역의/NOUN 반발을/NOUN 고려해/VERB 입지/NOUN 선정/NOUN 후/ADP 김황식/NOUN 국무총리가/NOUN 대국민/NOUN 담화문을/NOUN 발표하는/VERB 방안을/NOUN 검토하고/VERB 있는/VERB 것으로/ADV 전해졌습니다/VERB ./PUNCT 
+게이의/NOUN 시체는/NOUN 2006년/NOUN ,/PUNCT 장례식이/NOUN 이루어질/VERB 때까지/ADV 4년간/ADV 영안실에/ADV 방치되어/VERB 있었다/VERB ./PUNCT 
+고용부는/NOUN 정규직•비정규직/NOUN 차별금지/NOUN 대책에/ADV 차별시정제도/NOUN 활성화/NOUN ,/PUNCT 사회보험/NOUN 가입/NOUN 확대/NOUN ,/PUNCT 근로복지/NOUN 확충/NOUN 등의/NOUN 내용을/NOUN 포함할/VERB 방침이다/VERB ./PUNCT 
+여기에/ADV 대해/VERB 도킨스는/NOUN 로즈가/NOUN 비판하는/VERB 유전자/NOUN 결정론이란/NOUN 사회생물학자들/NOUN 사이에/ADP 실제로/ADV 존재하지/VERB 않는/VERB 가공의/NOUN 이념임을/NOUN 지적하고/VERB ,/PUNCT 로즈의/NOUN 주장은/ADV 정치적/ADJ 목적이/NOUN 담겨있다고/VERB 답했다/VERB ./PUNCT 
+경기가/NOUN 끝난/VERB 1주/NOUN 후에/ADP 모나코에서/ADV 2.36m를/NOUN 넘기도/VERB 하였다/VERB ./PUNCT 
+칠순이신/VERB 아버님/NOUN 축하/NOUN 꽃/NOUN 바구니를/NOUN 주문했더니/VERB 정성스럽고/VERB 예쁘게/ADV 만들어/VERB 주셨습니다/VERB ./PUNCT 
+지금/ADV 문/NOUN 연/VERB 약국/NOUN 번호/NOUN 알려줘/VERB 
+포르쉐를/NOUN 벤치마킹한/VERB 2세대는/NOUN 전륜/NOUN 브레이크에는/ADV 일본의/NOUN 승용차로는/ADV 최초로/ADV 대향/NOUN 4/NUM 피스톤의/NOUN 알루미늄/NOUN 캘리퍼를/NOUN 적용되는/VERB 등/NOUN 성능이/NOUN 크게/ADV 향상되었다/VERB ./PUNCT 
+사진/NOUN 티아라/NOUN 
+동네/NOUN 어르신들/NOUN 경로잔치에/ADV 무료로/ADV 술도/NOUN 주시는/VERB 아주/ADV 배포/NOUN 크신/VERB 사장님이시더라구요/VERB 
+경복궁/NOUN 옆/ADP 효자로의/NOUN 한적한/ADJ 골목에/ADV 위치해/VERB 삼청동/NOUN 산책/NOUN 후/ADP 들러/VERB 쉬기/NOUN 좋음/NOUN ./PUNCT 
+국제서법예술연합한국본부는/NOUN 서예의/NOUN 국제교류를/NOUN 통하여/VERB 서법/NOUN 예술의/NOUN 발전을/NOUN 도모하고/VERB 민족/NOUN 전통문화의/NOUN 선양과/NOUN 인류/NOUN 문화의/NOUN 대동/NOUN 실현을/NOUN 목적으로/ADV 1989년/NOUN 12월/NOUN 12일/NOUN 설립된/VERB 대한민국/NOUN 문화체육관광부/NOUN 소관의/NOUN 사단법인이다/VERB ./PUNCT 
+그리고/ADV 친서민/NOUN 농업정책의/NOUN 방향과/NOUN 법안/NOUN 논의가/NOUN 이뤄지는/VERB 게/NOUN 있다면/VERB ?/PUNCT 
+2011년/NOUN 2011년/NOUN AFC/NOUN 아시안컵이/NOUN 개최되었다/VERB ./PUNCT 
+더욱이/ADV 연방/NOUN 정부는/NOUN 각/DET 콜로니/NOUN 사이드를/NOUN 식민지/NOUN 취급하며/VERB ,/PUNCT 콜로니/NOUN 공사/NOUN 등/NOUN 특수/NOUN 법인을/NOUN 통해/VERB 착취를/NOUN 일삼았다/VERB ./PUNCT 
+뮤즈가/NOUN 2007년/NOUN 6월/NOUN 16일과/NOUN 6월/NOUN 17일/NOUN 양일에/ADV 거쳐/VERB 콘서트를/NOUN 개최한/VERB 바/NOUN 있는데/VERB ,/PUNCT 한/NUM 차례/ADV 공연은/NOUN 완전/ADV 매진되었다/VERB ./PUNCT 
+검사/NOUN 전/ADP 특이/NOUN 사항/NOUN 물어본/VERB 게/NOUN 상당히/ADV 짜증낼/VERB 정도의/NOUN 질문인가요/VERB ?/PUNCT 
+고기맛/NOUN ,/PUNCT 서비스/NOUN ,/PUNCT 친절함에/ADV 자주/ADV 가는데/VERB 특히/ADV 맘에/ADV 드는/VERB 부분은/NOUN 고기/NOUN 원산지를/NOUN 속이지를/VERB 않고/VERB 판매하는/VERB 것이/NOUN 맘에/ADV 들었습니다/VERB ./PUNCT 
+이번/NOUN 전시회는/NOUN 의료정보/NOUN ,/PUNCT 외과수술/NOUN ,/PUNCT 외상처치/NOUN ,/PUNCT 치료/NOUN ,/PUNCT 진단/NOUN 등의/NOUN 분야에서/ADV 의료기기관련/NOUN 장비•재료•서비스/NOUN 등을/NOUN 포괄하는/VERB 브라질/NOUN 및/CCONJ 중남미지역/NOUN 의료전문전시회로서/NOUN ,/PUNCT 세계/NOUN 35개국/NOUN 1250여/NOUN 개의/NOUN 의료기기제조사들이/NOUN 88,000㎡규모로/ADV 출품했으며/VERB ,/PUNCT 약/NOUN 9만여/NOUN 명의/NOUN 바이어가/NOUN 방문했다/VERB ./PUNCT 
+1994년/NOUN 단편/NOUN 영화/NOUN 《백색인》으로/ADV 연기/NOUN 생활을/NOUN 시작했다/VERB ./PUNCT 
+특히/ADV 한국과학기술원은/NOUN 4가지/NOUN 실천사항을/NOUN 모두/ADV 어겼다가/VERB 적발됐고/VERB 가평군청/NOUN ,/PUNCT 덕양구청/NOUN ,/PUNCT 서울/NOUN 노원구청/NOUN ,/PUNCT 서울/NOUN 종로구청/NOUN ,/PUNCT 한국건설기술연구원/NOUN ,/PUNCT 한국원자력연구원/NOUN 등/NOUN 6곳은/NOUN 2개/NOUN 항목을/NOUN 위반했다/VERB ./PUNCT 
+깨끗하고/VERB 닭무침이/NOUN 서비스로/ADV 조금/ADV 나오는데/VERB 맛나요/ADJ 
+구마라시바(鳩摩羅時婆/NOUN ),/PUNCT 구마라기바(拘摩羅耆婆/NOUN ),/PUNCT 줄여서/VERB 나습(羅什/NOUN ),/PUNCT 습(什/NOUN ),/PUNCT 의역하여/VERB 동수(童壽)라고도/VERB 한다/VERB ./PUNCT 
+이들은/PRON 수사/NOUN 과정에서/ADV 계속/ADV 말을/NOUN 바꾸는/VERB 등/NOUN 서로/ADV 말을/NOUN 맞춰/VERB 범행을/NOUN 부인할/VERB 가능성까지/ADV 있다고/VERB 판단됐다/VERB ./PUNCT 
+그리고/ADV 타/NOUN 치과에/ADV 비해/VERB 치료나/VERB 시술/NOUN 가격이/NOUN 비싸요/ADJ 
+요즘/ADV 디지털/NOUN 신권력인/VERB 파워블로거/NOUN ,/PUNCT 트위터들/NOUN ,/PUNCT 게이머들도/NOUN 그/DET PC박스/NOUN 안이/NOUN 세계의/NOUN 다로/ADV 보일지/VERB 모르지만/VERB 디지털보다는/ADV 아날로그/NOUN 세상이/NOUN 훨씬/ADV 넓고/VERB 다양하다는/VERB 걸/NOUN 잊으면/VERB 조만간/ADV '우물/NOUN 안/ADP 황소개구리'가/NOUN 됩니다/VERB ./PUNCT 
+백반은/NOUN 그럭저럭/ADV 보통이구/VERB ,/PUNCT 오리주물럭을/NOUN 먹었는데/VERB 맛이/NOUN 싱겁고/VERB 매웠습니다/ADJ ./PUNCT 
+BBK의/NOUN 실소유주가/NOUN 이/NOUN 후보라는/VERB 것을/NOUN 입증할/VERB '이면계약서'가/NOUN 있다고/VERB 한국에/ADV 가서/VERB 폭로하기로/ADV 했다는/VERB 것이다/VERB ./PUNCT 
+2012년/NOUN 내셔널리그/NOUN 하반기/NOUN 추가등록/NOUN 선수로/ADV 목포시청/NOUN 축구단에/ADV 등록되었다/VERB ./PUNCT 
+담백한/ADJ 삼계탕과/NOUN 오이저림이/NOUN 인상적이다/VERB 
+맥도날드까지/ADV 몇/DET 키로야/VERB 
+홍합도/NOUN 많이/ADV 없고/VERB 비싸기만/NOUN 하네요/VERB 
+셀프라/VERB 가격도/NOUN 저렴하고/VERB 기름도/NOUN 저질/NOUN 기름/NOUN 같지는/VERB 않습니다/VERB 
+길/NOUN 막혀/VERB 
+1900년(메이지/NOUN 33년/NOUN )/PUNCT 5월/NOUN 20일에/NOUN 소장으로/ADV 진급하면서/VERB 상비함대/NOUN 사령관으로/ADV 임명되었지만/VERB 계속해서/ADV 군무국장/NOUN 겸/NOUN 군령부/NOUN 차장이라는/VERB 요직을/NOUN 겸임하였다/VERB ./PUNCT 
+현재는/ADV 일본으로부터/ADV 독립하여/VERB 공화정이/NOUN 들어서면서/VERB 군주제가/NOUN 폐지되어/VERB 사용하지/VERB 않게/VERB 되었다/VERB ./PUNCT 
+평면/NOUN 상에/ADP 꼭지점과/NOUN 변을/NOUN 그리되/VERB 변과/NOUN 변이/NOUN 꼭지점이/NOUN 아닌/VERB 곳에서는/ADV 교차하지/VERB 않도록/VERB 그릴/VERB 수/NOUN 있는/VERB 그래프를/NOUN 평면/NOUN 그래프라/VERB 한다/VERB ./PUNCT 
+차량/NOUN 주차/NOUN 안내하시는/VERB 분들이나/NOUN 입구에서/ADV 대기/NOUN 손님을/NOUN 안내하는/VERB 직원이나/NOUN 모두/NOUN 친절합니다/ADJ ./PUNCT 
+제일/ADV 가까운/ADJ 병원까지/ADV 가는/VERB 데/ADV 걸리는/VERB 시간/NOUN 좀/ADV 알려줘/VERB 
+동쪽/NOUN 정면의/NOUN 황소/NOUN 머리들내부/NOUN 벽들에는/ADV 프레스코화들이/NOUN 그려져/VERB 있는데/VERB ,/PUNCT 그림들의/NOUN 대부분은/NOUN 원본/NOUN 상태가/NOUN 보존되지/VERB 못했다/VERB ./PUNCT 
+영원한/ADJ 단골이/NOUN 될/VERB 것/NOUN 같아요/ADJ ../PUNCT 
+교육개발원/NOUN 조사를/NOUN 보면/VERB "평소/ADV 욕설을/NOUN 전혀/ADV 하지/VERB 않는다"는/VERB 아이는/NOUN 100명/NOUN 중/ADP 5명에/ADV 불과하다/ADJ ./PUNCT 
+컴퓨터에/ADV 관한/VERB 모든/DET 것/NOUN 이곳에서/ADV 해결하세요/VERB 
+모든/DET 음식이/NOUN 다/ADV 깔끔하고/VERB 최고입니다/VERB ./PUNCT 
+2단계에서/ADV 입학사정관들이/NOUN 주로/ADV 평가한/VERB 것은/NOUN '자기/PRON 탐색의/NOUN 완성도'라고/VERB 할까요/VERB ?/PUNCT 
+울산에서/ADV 사는데/VERB 시골/NOUN 어머니님께서/NOUN 믿음/NOUN 가는/VERB 주유소라고/VERB 말씀하시더군요/VERB ../PUNCT 
+중일/NOUN 전쟁/NOUN 발발/NOUN 후/ADP 전시체제/NOUN 하에서/ADP 국민총력조선연맹으로/ADV 흡수되었다/VERB ./PUNCT 
+유럽에서는/ADV 때때로/ADV '자유보수주의'가/NOUN '사회적/ADJ 보수주의'로/ADV 번역되곤/VERB 한다/VERB ./PUNCT 
+즉/ADV ,/PUNCT 일반/NOUN 법률과/ADV 성문의/NOUN 헌법과/ADV 충돌하면/VERB ,/PUNCT 헌법이/NOUN 우선한다/VERB ./PUNCT 
+당장/ADV 시장/NOUN 규모만/ADV 수백/NUM 조원/NOUN 규모가/NOUN 예상되는데/VERB ,/PUNCT 그것을/PRON 단숨에/ADV 독점할/VERB 핵/NOUN 폭풍/NOUN 급/NOUN 극비재료를/NOUN 급등파동이/NOUN 전개되는/VERB 초입에서/ADV 필자가/NOUN 극적으로/ADV 확인했다/VERB ./PUNCT 
+지금/ADV 강남사거리/NOUN 차/NOUN 잘/ADV 가냐/VERB 
+이들/DET 새로운/ADJ 우상은/NOUN 매스/NOUN 미디어에/ADV 의해/VERB 대량으로/ADV 재생산되므로/VERB 더욱더/ADV 신격화된다/VERB ./PUNCT 
+맛은/NOUN 있지만/VERB 먹고/VERB 나면/VERB 느껴지는/VERB 느끼함이랄까/VERB .../PUNCT 
+국가보안법에/ADV 대해/VERB 알고/VERB 싶어/VERB 
+이번/NOUN 전시회는/NOUN 다양한/ADJ 장르의/NOUN 전시작품들이/NOUN 새로운/ADJ 전시공간에서/ADV 한자리에/ADV 만나/VERB 볼/VERB 수/NOUN 있는/VERB 좋은/ADJ 기회이다/VERB ./PUNCT 
+서비스/NOUN 그리하면/VERB 곤란해요/ADJ ./PUNCT 
+사람들이/NOUN 모두들/ADV 어디서/ADV 샀냐고/VERB 물어본답니다/VERB ./PUNCT 
+짬뽕에/ADV 송이버섯이랑/NOUN 해물/NOUN 들어가/VERB 있는데/VERB 매콤하고/VERB 국물/NOUN 바로/ADV 바로/ADV 만들어줘서/VERB 신선함/ADJ !/PUNCT 
+저렴한/ADJ 가격에/ADV 푸짐하고/VERB 맛있게/ADV 먹을/VERB 수/NOUN 있는/VERB 집이구요/VERB 
+STX는/NOUN 이를/PRON 시작으로/ADV 향후/ADV 시장/NOUN 상황을/NOUN 살피면서/VERB 수시로/ADV 현금성/NOUN 자산을/NOUN 매각해/VERB 인수/NOUN 자금/NOUN 확충에/ADV 나설/VERB 것으로/ADV 보인다/VERB ./PUNCT 
+우선/ADV 이번/NOUN 7ㆍ4/NUM 전당대회를/NOUN 통해/VERB '박근혜/NOUN 친화적'인/NOUN 환경이/NOUN 조성된/VERB 것으로/ADV 보인다/VERB ./PUNCT 
+행정안전부는/NOUN 올/NOUN 9월/NOUN 30일/NOUN 전면/NOUN 시행되는/VERB '개인정보/NOUN 보호법/NOUN 시행령/NOUN 및/CCONJ 시행규칙/NOUN 제정안'을/NOUN 마련/NOUN ,/PUNCT 5월/NOUN 24일부터/ADV 6월/NOUN 12일까지(20일간)/ADV 입법예고를/NOUN 통해/VERB 국민의/NOUN 의견을/NOUN 수렴한다/VERB ./PUNCT 
+덴마크/NOUN 수도/NOUN 좀/ADV 찾아줘/VERB 
+우리/PRON 아이가/NOUN 너무/ADV 좋아해요/VERB ./PUNCT 
+전공투는/NOUN 처음에는/ADV 학비문제/NOUN 등/NOUN 각/DET 대학/NOUN 개별의/NOUN 문제를/NOUN 다루는/VERB 조직/NOUN ,/PUNCT 운동으로서/ADV 각/DET 대학의/NOUN 학생자치회의/NOUN 테두리를/NOUN 넘어/VERB 결성되었다/VERB ./PUNCT 
+태어나서/ADV 처음으로/ADV 맛/NOUN 본/VERB 들깨삼계탕/NOUN 정말/ADV 맛있었습니다/ADJ .../PUNCT 
+차별화된/ADJ 교육시스템과/NOUN 7단계에/ADV 걸친/VERB 체계적이고/VERB 엄격한/ADJ 개발관리/NOUN 프로세스를/NOUN 거쳐/VERB 제작됐다/VERB ./PUNCT 
+그런/ADJ 측면에서/ADV 이해할/VERB 수/NOUN 있다는/VERB 지적도/NOUN 있다/ADJ ./PUNCT 
+2002년/NOUN 《농민신문》/NOUN 신춘문예/NOUN 시조부문/NOUN ,/PUNCT 2003년/NOUN 《동아일보》/NOUN 신춘문예/NOUN 시조부문/NOUN ,/PUNCT 2011년/NOUN 《조선일보》/NOUN 신춘문예/NOUN 미술평론부문에/ADV 당선되었다/VERB ./PUNCT 
+나가수/NOUN 출연진/NOUN 박정현과/NOUN 김범수씨의/NOUN '사람,/NOUN 사랑/NOUN '/PUNCT 뮤직비디오와/NOUN 메이킹/NOUN 필름을/NOUN 마련하고/VERB ,/PUNCT 이들의/PRON 사인도/NOUN 온라인상에서/ADV 받을/VERB 수/NOUN 있는/VERB 이벤트도/NOUN 전개/NOUN 중이다/VERB ./PUNCT 
+가격도/NOUN 오르고/VERB 예전/NOUN 반찬/NOUN 그릇을/NOUN 생각하고/VERB 가신다면/VERB 실망하실/VERB 듯/NOUN 
+깔끔한/ADJ 반찬/NOUN 직접/ADV 드셔보세요/VERB 
+전세계/NOUN 대륙의/NOUN 개수는/NOUN 몇/DET 개/NOUN 
+티아라의/NOUN Day/NOUN by/NOUN day(데이/NOUN 바이/NOUN 데이/NOUN )/PUNCT 앨범/NOUN 커버/NOUN 이미지를/NOUN 찾아라/VERB ./PUNCT 
+내년/NOUN 6월/NOUN 현지/NOUN 개봉예정이다/VERB ./PUNCT 
+먼저/ADV ,/PUNCT 한/NUM 해/NOUN 동안/ADP 발표된/VERB 작품들/NOUN 중/ADP 최고의/NOUN 작품으로/ADV 평가되는/VERB 중단편소설만을/NOUN 선정하는/VERB 이상문학상의/NOUN 2010년/NOUN 작품집/NOUN '아침의/NOUN 문'이/NOUN 출간/NOUN 2주/NOUN 만에/ADP 9위에/ADV 오르며/VERB 큰/ADJ 인기를/NOUN 끌고/VERB 있다/VERB ./PUNCT 
+앞에/ADV 손님도/NOUN 없는데/VERB 1분/NOUN 기다렸어요/VERB 
+사고가/NOUN 나자/VERB 선박을/NOUN 호위하던/VERB 해안경비대/NOUN 함정이/NOUN 곧바로/ADV 바다에/ADV 뛰어든/VERB 난민의/NOUN 수색/NOUN ,/PUNCT 구조에/ADV 돌입했고/VERB 단/ADV 한/NUM 사람의/NOUN 인명피해도/NOUN 없이/VERB 탑승자/NOUN 모두가/NOUN 구조됐다고/VERB 외신이/NOUN 전했다/VERB ./PUNCT 
+대전/NOUN 신세계백화점/NOUN 지하철타고/VERB 어떻게/ADV 가니/VERB 
+소량의/NOUN 마그네슘이나/NOUN 알루미늄을/NOUN 산화제와/ADV 반응시킬/VERB 때/NOUN 발생하는/VERB 빛과/NOUN 소리를/NOUN 이용하는/VERB 무기로/ADV 별다른/ADJ 살상력은/NOUN 없다/ADJ ./PUNCT 
+슬로바키아어/NOUN 위키백과()는/NOUN 슬로바키아어로/ADV 된/VERB 위키백과이다/VERB ./PUNCT 
+장사/NOUN 그렇게/ADV 하지/VERB 마라/VERB 
+대전/NOUN 어떻게/ADV 가/VERB 
+이날/NOUN 뉴미디어/NOUN 업계/NOUN 하례회에서는/ADV 해외/NOUN 진출에/ADV 대한/VERB 정부/NOUN 지원을/NOUN 요구하는/VERB 목소리가/NOUN 많았던/VERB 것으로/ADV 전해졌다/VERB ./PUNCT 
+검은색/NOUN 스포츠카/NOUN 이미지가/NOUN 바탕화면/NOUN 크기에/ADV 맞지/VERB 않을/VERB 때/NOUN 
+두/NUM 레이더가/NOUN 조금/ADV 떨어진/VERB 곳에서/ADV 동시에/ADV 지표를/NOUN 관측하게/VERB 되면/VERB ,/PUNCT 지표의/NOUN 기복을/NOUN 관측하게/VERB 된다/VERB ./PUNCT 
+만약/ADV 그/PRON 중/ADP 일부/NOUN 데이터가/NOUN 지워지면/VERB 해당/NOUN 영역은/NOUN 데이터가/NOUN 지워진/VERB 용량만큼/ADV 중간이/NOUN 비게/VERB 되는데/VERB ,/PUNCT 나중에/ADV 다시/ADV 새로운/ADJ 데이터가/NOUN 입력되면/VERB 이/DET 영역부터/ADV 우선/ADV 채우게/VERB 된다/VERB ./PUNCT 
+'살아있는/ADJ 아침'은/NOUN 블루베리맛과/NOUN 키위맛/NOUN 2종으로/ADV 구성돼/VERB 있다/VERB ./PUNCT 
+여기서/ADV 맥도날드까지/ADV 몇/DET km인가요/VERB ?/PUNCT 
+닮은/VERB 듯/NOUN 하면서도/VERB 저마다/ADV 각자의/NOUN 분위기와/NOUN 눈빛/NOUN ,/PUNCT 끼를/NOUN 지닌/VERB '론자매'들의/NOUN 어린/ADJ 파워가/NOUN 영화계를/NOUN 뜨겁게/ADV 달구고/VERB 있는/VERB 가운데/NOUN ,/PUNCT 충무로의/NOUN 청사진/NOUN 김새론/NOUN ,/PUNCT 김아론/NOUN ,/PUNCT 김예론의/NOUN 다음/NOUN 행보에/ADV 업계/NOUN 안팎으로/ADV 귀추가/NOUN 주목되고/VERB 있다/VERB ./PUNCT 
+사람의/NOUN 정이/NOUN 오가는/VERB 곳이네요/VERB ./PUNCT 
+이곳은/PRON 가족과/ADV 함께/ADV 한/NUM 번은/ADV 가/VERB 볼/VERB 만한/VERB 곳입니다/VERB ./PUNCT 
+다크나이트/NOUN 라이즈/NOUN 예고편/NOUN 찾아줘/VERB 
+파주에/ADV 이렇게/ADV 맛있는/ADJ 횟집이/NOUN 있다니/VERB .../PUNCT 
+이와/ADV 관련해/VERB 대한유도회는/NOUN "국내/NOUN 임원들이/NOUN 국제기구에서/ADV 주요/NOUN 요직을/NOUN 차지하며/VERB 대한민국유도가/NOUN 명실공히/ADV 아시아유도와/NOUN 세계유도의/NOUN 중심으로/ADV 발돋움하게/VERB 되었다"고/VERB 전했다/VERB ./PUNCT 
+태안군은/NOUN 이에/ADV 따라/VERB 소방차와/NOUN 급수차를/NOUN 동원하고/VERB 수자원공사의/NOUN 도움을/NOUN 받아/VERB 비상급수를/NOUN 실시할/VERB 방침이다/VERB ./PUNCT 
+제/PRON 여자/NOUN 친구가/NOUN 여기/PRON 병원/ADV 다녀와서는/VERB 잔뜩/ADV 겁먹었더군요/VERB ./PUNCT 
+청도에서/ADV 중화요리는/NOUN 넘버원/NOUN 
+예를/NOUN 들어/VERB 달러당/NOUN 원화/NOUN 환율은/NOUN 1000원이고/VERB ,/PUNCT 1년/NOUN 만기/NOUN 국채/NOUN 이자율이/NOUN 우리나라에서는/ADV 연/NOUN 5%이고/VERB 미국에서는/ADV 3%라고/VERB 해보자/VERB ./PUNCT 
+대신/ADV 편의시설이/NOUN 지극히/ADV 세련되었다든가/VERB 하는/VERB 건/NOUN 기대하지/VERB 말아주세요/VERB 
+고기도/NOUN 퍽퍽하고요/ADJ 
+제2공화국정부에서부터/ADV 계획되었던/VERB 5개년/NOUN 계획안이/NOUN 제3공화국정부로/ADV 넘어오면서/VERB 경제개발/NOUN 5개년/NOUN 계획안이/NOUN 수정되어/VERB 본격적으로/ADV 실시되었다/VERB ./PUNCT 
+하지만/ADV 작년/NOUN 지방선거/NOUN 이후/ADP 이념/NOUN 면에서/ADV 급격히/ADV 왼쪽으로/ADV 기울고/VERB 있다/VERB ./PUNCT 
+주인은/NOUN 눈에/ADV 힘이나/NOUN 주고/VERB 불친절해요/ADJ 
+여기/PRON 깔끔하고/VERB 맛도/NOUN 좋은/VERB 분식집이다/VERB ./PUNCT 
+이전/NOUN 사장/NOUN 때와/ADV 비교가/NOUN 된다/VERB ./PUNCT 
+오랜만에/ADV 갔는데/VERB 건물/NOUN 전체가/NOUN 리모델링을/NOUN 했더라고요/VERB 
+스타벅스가/NOUN 어디에/ADV 있나요/ADJ 
+막걸리가/NOUN 다른/ADJ 곳보다/ADV 무척/ADV 맛있어요/ADJ ./PUNCT 
+1등급/NOUN 암돼지만/NOUN 판매한다네요/VERB 
+이런/ADJ 곳에/ADV 있기/NOUN 아까울/VERB 정도로/ADV 서비스와/NOUN 음식/NOUN 맛도/NOUN 진짜/ADV 최고입니다/VERB 
+전국경제인연합회가/NOUN 개최하는/VERB '제/NOUN 31차/NOUN 한/NOUN 호주경제인협력위원회'인데요./VERB 
+프랑스/NOUN 최초의/NOUN 입헌군주제/NOUN 정권/NOUN 하의/ADP 회의였다/VERB ./PUNCT 
+시에/ADV 따르면/VERB 개정/NOUN 주택법시행령에/ADV 따라/VERB 300가구/NOUN 이상이거나/VERB 150가구/NOUN 이상이면서/VERB 승강기가/NOUN 설치돼/VERB 있는/VERB 공동주택의/NOUN 관리주체는/NOUN 공동주택관리비정보시스템(http://www.khmais.net)에/ADV 일반관리비/NOUN ,/PUNCT 청소비/NOUN ,/PUNCT 경비비/NOUN ,/PUNCT 소독비/NOUN ,/PUNCT 승강기/NOUN 유지비/NOUN ,/PUNCT 수선유지비/NOUN 등/NOUN 6개/NOUN 항목을/NOUN 매월/NOUN 말까지/ADV 등록해야/VERB 한다/VERB ./PUNCT 
+현재위치에서/ADV 대전역/NOUN 가는/VERB 길을/NOUN 알려주세요/VERB 
+핸드/NOUN 드립의/NOUN 깊이를/NOUN 충분히/ADV 만끽할/VERB 수/NOUN 있는/VERB 멋진/ADJ 곳입니다/VERB ㅅㅅ/X 
+혁명적인/ADJ 프랑스/NOUN 철갑/NOUN 전함/NOUN 코테쓰는/NOUN 원래/ADV 도쿠가와/NOUN 측에서/ADV 주문된/VERB 것이었으나/VERB 천황파에/ADV 납품되어/VERB 이/DET 해전을/NOUN 끝내는/VERB 데/ADV 결정적인/ADJ 역할을/NOUN 한다/VERB ./PUNCT 
+우즈는/NOUN "마스터스가/NOUN 첫/NUM 복귀전이/NOUN 될/VERB 것으로/ADV 보인다"며/VERB "아널드/NOUN 파머와/NOUN 조/NOUN 루이스/NOUN 등에게/NOUN 전화를/NOUN 걸어/VERB '아널드/NOUN 파마/NOUN 인비테이셔널/NOUN '/PUNCT 대회와/NOUN '태비스톡/NOUN 컵/NOUN '/PUNCT 대회에/ADV 참가할/VERB 수/NOUN 없게/VERB 된/VERB 데/ADV 유감을/NOUN 표명했다"고/VERB 말했다/VERB ./PUNCT 
+가장/ADV 가까운/ADJ 병원까지/ADV 막히는/VERB 시간에/ADV 차로/ADV 가면/VERB 얼마나/ADV 걸려/VERB 
+장동건/NOUN 고소영/NOUN 측근은/NOUN "신랑/NOUN 장동건과/NOUN 신부/NOUN 고소영은/NOUN 어젯밤/NOUN 신라호텔에/ADV 투숙했다"며/VERB "결혼식/NOUN 당일/NOUN 혼잡한/ADJ 상황을/NOUN 고려해/VERB 동선을/NOUN 최소화하기/NOUN 위해/VERB 이같이/ADV 결정했다"고/VERB 밝혔다/VERB ./PUNCT 
+조중동/NOUN 같은/VERB 데서는/ADV 공공연히/ADV 삼성왕국/NOUN ,/PUNCT 황태자라/ADV 칭한다/VERB ./PUNCT 
+만약에/ADV 켈로이드가/NOUN 크다면/VERB 절제를/NOUN 한/VERB 후에/ADV 미세/NOUN 봉합술을/NOUN 시행한/VERB 후/NOUN 전자선/NOUN 치료를/NOUN 병행해야/VERB 한다/VERB ./PUNCT 
+그러나/ADV 2002년/NOUN FIFA/NOUN 월드컵에서는/ADV 득점을/NOUN 하지/VERB 못했고/VERB ,/PUNCT 팀도/NOUN 1승/NOUN 1무/NOUN 1패로/ADV 16강에도/ADV 오르지/VERB 못하고/VERB 탈락하였다/VERB ./PUNCT 
+맛은/NOUN 말할/VERB 것도/NOUN 없어요/ADJ 
+"이/PRON 같은/VERB 스케줄은/NOUN 40대/NOUN 중반의/NOUN 여배우에게는/ADV 정말/ADV 힘든/VERB 스케줄이다"고/VERB 말해/VERB 웃음을/NOUN 자아냈다/VERB ./PUNCT 
+완전/ADV 짱/ADV 좋아요/ADJ !/PUNCT 
+도/NOUN 평가담당관실/NOUN 관계자는/NOUN "평가결과/NOUN 문화관광/NOUN ,/PUNCT 규제개혁/NOUN 및/CCONJ 법질서/NOUN ,/PUNCT 일자리/NOUN 창출/NOUN 분야는/NOUN 우수한/VERB 것으로/ADV 분석됐다"며/VERB "그러나/ADV 보건위생/NOUN ,/PUNCT 지역/NOUN 경제분야는/NOUN 미흡한/VERB 것으로/ADV 나타났다"고/VERB 말했다/VERB ./PUNCT 
+여태껏/ADV 가봤던/VERB 펜션/NOUN 중/ADP 최고/NOUN ./PUNCT 
+정엽은/NOUN 유재석의/NOUN 노래에/ADV 대해/VERB 감정/NOUN 전달은/NOUN 좋았다고/VERB 평가를/NOUN 내렸다/VERB ./PUNCT 
+1730년/NOUN 아들/NOUN 카를로/NOUN 에마누엘레/NOUN 3세에게/NOUN 왕위를/NOUN 물려주고/VERB 2년/NOUN 뒤/ADP 죽었다/VERB ./PUNCT 
+오랜만에/ADV 정말/ADV 맜있는/VERB 집을/NOUN 찾아서/VERB 기분도/NOUN 좋고/VERB 다음에/ADV 또/ADV 와야겠다/VERB ./PUNCT 
+'근대선교의/NOUN 아버지/NOUN '/PUNCT 윌리엄/NOUN 케리/NOUN ,/PUNCT '중국선교의/NOUN 아버지/NOUN '/PUNCT 허드슨/NOUN 테일러/NOUN ,/PUNCT '케임브리지/NOUN 7인/NOUN '/PUNCT CT/NOUN 스터드/NOUN 등/NOUN 탁월한/ADJ 선교사/NOUN 배출의/NOUN 요람이었던/VERB 유럽/NOUN 기독교가/NOUN 역동성을/NOUN 상실/VERB ,/PUNCT 박물관/NOUN 교회로/ADV 전락했다는/VERB 문제의식에/ADV 따라/VERB 한국교회가/NOUN 새로운/ADJ 역할/NOUN 모델을/NOUN 만들자는/VERB 움직임이/NOUN 나타나고/VERB 있다/VERB ./PUNCT 
+사장은/NOUN 조폭/NOUN 출신처럼/ADV 인상/NOUN 더럽고/VERB 직원들도/NOUN 질/NOUN 떨어짐/NOUN 
+한상률/NOUN 전/NOUN 국세청장의/NOUN 각종/NOUN 의혹을/NOUN 수사하는/VERB 서울중앙지검/NOUN 특수2부(최윤수/NOUN 부장검사)는/NOUN 5일/NOUN 안원구/NOUN 전/NOUN 국세청/NOUN 국장을/NOUN 장시간/NOUN 조사한/VERB 결과/NOUN 한/NOUN 전/NOUN 청장과의/NOUN 대질신문이/NOUN 불가피하다는/VERB 판단을/NOUN 내리고/VERB 양자/NOUN 진술의/NOUN 비교/NOUN 분석/NOUN 작업에/ADV 착수했다/VERB ./PUNCT 
+짬뽕국물/NOUN 육수를/NOUN 민물새우로/ADV 우려서/VERB 정말/ADV 시원해요/ADJ 
+SBS/NOUN 드라마/NOUN '마이더스'에서/ADV 이민정이/NOUN 입체감/NOUN 있는/VERB 얼굴과/NOUN 순백색의/NOUN 웨딩드레스를/NOUN 입은/VERB 모습이/NOUN 방송을/NOUN 탄/VERB 이후/NOUN 예비/NOUN 신부들의/NOUN 문의가/NOUN 폭주하고/VERB 있다/VERB ./PUNCT 
+치타/NOUN ,/PUNCT 퓨마/NOUN ,/PUNCT 재규어/NOUN ,/PUNCT 팬서/NOUN ,/PUNCT 타이거/NOUN 등/NOUN 고양이과/NOUN 동물들의/NOUN 이름으로/ADV 각/DET 버전의/NOUN 코드명을/NOUN 지정하였고/VERB ,/PUNCT 재규어(10.2)/NOUN 이후로는/ADP 코드명을/NOUN 이용하여/VERB 마케팅을/NOUN 펼치고/VERB 있다/VERB ./PUNCT 
+밑부분의/NOUN 잎은/NOUN 비늘/NOUN 같으며/VERB 위로/ADV 올라갈수록/VERB 점차/ADV 커져서/VERB 길이/NOUN 5-15㎝/NOUN ,/PUNCT 너비/NOUN 1-2.5㎝로/ADV 되며/VERB 3맥이/NOUN 있고/VERB 가장자리에/ADV 잔돌기가/NOUN 거의/ADV 없다/ADJ ./PUNCT 
+순간/ADV ,/PUNCT 주민들은/NOUN 술렁거렸다/VERB ./PUNCT 
+리더가/NOUN 최연장자인/VERB 스기조라/VERB 하는/VERB 사람들도/NOUN 있지만/VERB ,/PUNCT 그가/PRON 창설/NOUN 멤버는/NOUN 아니기/NOUN 때문에/ADP 아니라/VERB 보고/VERB 있다/VERB ./PUNCT 
+강남대로/NOUN 막히니/VERB 
+그리고/ADV 그/PRON 외에/ADP 격월로/ADV 공개합평회를/NOUN 열고/VERB 있다/VERB ./PUNCT 
+더불어/ADV 한국유방건강재단에서/ADV 진행하는/VERB '핑크리본사랑마라톤대회'도/NOUN 야외에서/ADV 함께/ADV 열린다/VERB ./PUNCT 
+좋고/VERB 싫은/VERB 느낌이/NOUN 모든/DET 선택에/ADV 영향을/NOUN 주듯이/VERB 옳고/VERB 그름도/NOUN 그렇다/ADJ ./PUNCT 
+서울/NOUN 맥도날드/NOUN 알려줘/VERB 
+스위스에서는/ADV 평탄한/ADJ 지역으로/ADV ,/PUNCT 취리히/NOUN 호에서/ADV 흘러나온/VERB 강이/NOUN 라인/NOUN 강에/ADV 합류한다/VERB ./PUNCT 
+'고사2'는/NOUN 2008년/NOUN 여름/NOUN 개봉해/VERB 180만/NOUN 관객을/NOUN 모으고/VERB 흥행한/VERB '고사'의/NOUN 속편/NOUN ./PUNCT 
+무엇보다/ADV 교통/NOUN 이용에/ADV 있어서/VERB 편리합니다/ADJ ./PUNCT 
+공모전은/NOUN 국립공원과/ADV 어울리는/VERB 아름답고/VERB ,/PUNCT 편리하고/VERB ,/PUNCT 실용적인/ADJ 디자인을/NOUN 주제로/ADV 9월/NOUN 말부터/ADV 한달간/ADV 전/NOUN 국민을/NOUN 대상으로/ADV 실시됐다/VERB ./PUNCT 
+지난해/NOUN 7월7일/NOUN 발생한/VERB 디도스/NOUN 대란이/NOUN 7일로/ADV 1주년을/NOUN 맞이한다/VERB ./PUNCT 
+1분기/NOUN 취업자/NOUN 수도/NOUN 2천303만7천명으로/ADV ,/PUNCT 작년/NOUN 1분기의/NOUN 2천290만4천명/NOUN 이후/ADP 가장/ADV 적었다/VERB ./PUNCT 
+그는/PRON "대기업/NOUN 연구/NOUN ,/PUNCT 개발자들은/NOUN 일찍부터/ADV 관리/NOUN 일을/NOUN 맡아/VERB 하기/NOUN 때문에/ADP 겉은/NOUN 연구•개발자이지만/VERB 속은/NOUN 준/NOUN 관리자라/VERB ,/PUNCT 40대/NOUN 초반에/ADV 퇴직하면/VERB 벤처기업/NOUN ,/PUNCT 중소기업에도/ADV 취직할/VERB 수/NOUN 없는/VERB 경우가/NOUN 많다"고/VERB 말했다/VERB ./PUNCT 
+역할은/NOUN 사채업자들에게/ADV 쫓기는/VERB 고집/NOUN 센/VERB 가수/NOUN 지망생/NOUN '소연'이다./VERB 
+뭄바이/NOUN 테러/NOUN 이후/ADP 일체의/NOUN 접촉을/NOUN 중단했던/VERB 인도와/NOUN 파키스탄이/NOUN 1년여/NOUN 만에/ADP 다시/ADV 회담을/NOUN 재개한다/VERB ./PUNCT 
+또/ADV 설악산/NOUN 입구에/ADV 있어/VERB 관광지랑/ADV 가까워서/VERB 좋네요~/ADJ 
+강남사거리/NOUN 차/NOUN 막혀/VERB 
+그에게/PRON '김현식이/NOUN 왜/ADV 위대한/ADJ 가수인지/VERB '/PUNCT 물었다/VERB ./PUNCT 
+서비스/NOUN 없는/VERB 건/NOUN 참을만한데/VERB 기본적으로/ADV 맛이/NOUN 없어요/ADJ 
+생각보다/ADV 별/NOUN 맛이/NOUN 없고/VERB 국물이/NOUN 뜨겁지/VERB 않아요/ADJ 
+일손은/NOUN 부족하고/VERB 서비스는/NOUN 중간이고/VERB 맛은/NOUN 보통이다/VERB ./PUNCT 
+50미터/NOUN 연습하면/VERB 딱/ADV 맞겟던데요/ADJ ./PUNCT 
+어이가/NOUN 없어/VERB 왜/ADV 앉을/VERB 수/NOUN 없냐고/VERB 묻자/VERB ,/PUNCT 단체/NOUN 손님만/NOUN 앉을/VERB 수/NOUN 있다는/VERB 얘기였다/VERB ./PUNCT 
+고기도/NOUN 좋을/VERB 뿐만/NOUN 아니라/VERB 숙성도/NOUN 잘해서/VERB 삼겹살이/NOUN 정말/ADV 맛있습니다/ADJ ./PUNCT 
+가끔씩/ADV 먹으러/VERB 오기/NOUN 괜찮은/VERB 것/NOUN 같아요/ADJ 
+먹어보니/VERB 진짜/ADV 맛있었구요/ADJ 
+기존의/NOUN NT/NOUN 노벨과는/ADV 달리/VERB ,/PUNCT 이슈/NOUN 만화와/ADV 연동되어/VERB ,/PUNCT 약간은/ADV 다른/VERB 분위기에서/ADV 진행되고/VERB 있다/VERB ./PUNCT 
+24시간/ADV 운영하는데/VERB 기존/NOUN 편의점과는/ADV 달리/VERB 마트/NOUN 가격으로/ADV 저렴하다는/VERB 게/NOUN 아주/ADV 좋네요/ADJ 
+2008-09/NUM 시즌/NOUN 중후반/ADV ,/PUNCT 그는/PRON 다리/NOUN 근육/NOUN 부상을/NOUN 당하였다/VERB ./PUNCT 
+인천공항/NOUN 차/NOUN 타고/VERB 가는데/VERB 얼마/NOUN 걸릴까/VERB 
+우리/PRON 아버지/NOUN 직장까지/ADV 갈/VERB 수/NOUN 잇는/VERB 자전거길/NOUN 보여줘/VERB 
+잠수형/NOUN 카고펌프/NOUN 시스템은/NOUN 석유/NOUN 및/CCONJ 화학제품/NOUN 운반선에/ADV 주로/ADV 탑재되는/VERB 설비로/ADV ,/PUNCT 여러/ADJ 종류의/NOUN 석유제품과/NOUN 화학제품을/NOUN 효율적으로/ADV 싣고/VERB 내릴/VERB 수/NOUN 있게/ADV 하는/VERB 부품이다/VERB ./PUNCT 
+스타벅스까지/ADV 가는/VERB 버스/NOUN ?/PUNCT 
+옛날/NOUN 한강/NOUN 사진/NOUN 보여줘/VERB 
+모토치카는/NOUN 이를/PRON 거절했고/VERB 노부나가와는/ADV 적대/NOUN 관계로/ADV 바뀌었다/VERB ./PUNCT 
+당시에/ADV 현재의/NOUN 메인/NOUN 주에/ADV 살고/VERB 있었던/VERB 아베키/NOUN 부족의/NOUN 일원이었던/VERB 사모셋은/NOUN 대추장에/ADV 종속된/VERB 그의/PRON 부족을/NOUN 다스리는/VERB 소추장이었고/VERB ,/PUNCT 마사소이트/NOUN 대추장을/NOUN 만나기/NOUN 위해/VERB 방문하고/VERB 있었다/VERB ./PUNCT 
+솔직히/ADV 맛이/NOUN 보통/NOUN 카페보다/ADV 맛이/NOUN 없었어요/ADJ 
+페르시아는/NOUN 이/DET 반란을/NOUN 이용하여/VERB 콘스탄티아를/NOUN 다시/ADV 공격하였으나/VERB 곧/ADV 격퇴되었다/VERB ./PUNCT 
+대학교수/NOUN ,/PUNCT 경제부총리/NOUN ,/PUNCT 서울시장/NOUN ,/PUNCT 정당/NOUN 대표를/NOUN 지냈다고는/VERB 믿기지/VERB 않을/VERB 만큼/NOUN '닫힌/VERB 인식'이다./VERB 
+맛/NOUN 또한/ADV 좋으니/VERB 다시/ADV 자주/ADV 들를/VERB 것/NOUN 같습니다/ADJ 
+당황한/ADJ 관리회사/NOUN 직원이/NOUN 부부와/ADV 함께/ADV 아파트/NOUN 안을/ADP 점검했다/VERB ./PUNCT 
+삼겹살도/NOUN 일반/NOUN 삼겹살이/NOUN 아닌/VERB 국내산/NOUN 쑥/NOUN 먹인/VERB 돼지와/NOUN 약돌/NOUN 돼지로/ADV 사용하고/VERB 있어/VERB 그/DET 맛/NOUN 또한/ADV 일품입니다/VERB 
+나중에/ADV 나오는/VERB 누룽지가/NOUN 독특하니/VERB 맛있어요/ADJ 
+사지로/ADV 떠난/VERB 장우의/NOUN 전사통지서를/NOUN 받은/VERB 수연/NOUN 앞에/ADP '태호'(윤계상)가/NOUN 등장한다/VERB ./PUNCT 
+2002년/NOUN 8월/NOUN 6일/NOUN 어촌정주어항으로/ADV 지정하여/VERB 관리하고/VERB 있다/VERB ./PUNCT 
+1950년부터/ADV 1953년까지/ADV 베를린/NOUN 시립음악원의/NOUN 교원을/NOUN 맡는다/VERB ./PUNCT 
+이/DET 학교/ADV 취업/NOUN 잘된다고/VERB 해서/VERB 많이들/ADV 오던데요/VERB 
+항상/ADV 친절하고/VERB 운전자들/NOUN 사이에서/ADP 연비/NOUN 좋기로/VERB 입/NOUN 소문난/VERB 곳이에요/VERB 
+본래의/NOUN 곡은/NOUN 쇼팽의/NOUN '혁명/NOUN 에튀드'에서/ADV 모티브를/NOUN 얻어/VERB 네미시스의/NOUN 멤버/NOUN 하세빈이/NOUN 작곡한/VERB 곡으로/ADV 음악/NOUN 중간/ADP 쇼팽/NOUN 에튀드/NOUN 전주가/NOUN 삽입되어/VERB 있는/VERB 곡이었다/VERB ./PUNCT 
+이것은/PRON 글리산도와/ADV 같이/ADV 두음간의/NOUN 여러/ADJ 음을/NOUN 가능한/VERB 한/ADV 모두/ADV 거치는/VERB 것이/NOUN 아니라/VERB 처음/NOUN 음에서/ADV 나올/VERB 때와/NOUN 다음의/NOUN 음으로/ADV 들어가기/NOUN 전에/ADP 음을/NOUN 미끄러지듯이/ADV 연주하며/VERB ,/PUNCT 될/VERB 수/NOUN 있는/VERB 한/ADV 부드러운/ADJ 인상을/NOUN 주려고/VERB 하는/VERB 것이다/VERB ./PUNCT 
+화장실도/NOUN 작은/ADJ 공간이긴/NOUN 하지만/VERB 깨끗하구요/ADJ 
+금융위원회/NOUN 관계자는/NOUN "자본시장법/NOUN 시행령/NOUN 개정안이/NOUN 내달/NOUN 국무회의를/NOUN 통과하는/VERB 시점에/ADV 프라임브로커/NOUN 지정을/NOUN 위한/VERB 자기자본/NOUN 산정/NOUN 기준과/NOUN 방식에/ADV 대한/VERB 세부/NOUN 내용을/NOUN 고시할/VERB 예정"이라고/VERB 25일/NOUN 밝혔다/VERB ./PUNCT 
+회/NOUN 맛은/NOUN 어디나/ADV 똑같으니까요/ADJ 
+피부/NOUN 표면의/NOUN 불필요한/ADJ 각질을/NOUN 제거하고/VERB 새로운/ADJ 피부/NOUN 재생을/NOUN 도와주는/VERB 홈/NOUN 필링/NOUN 제품으로/ADV ,/PUNCT 마찰력이/NOUN 있는/VERB 스크럽/NOUN 입자나/NOUN 약품을/NOUN 사용하는/VERB 방식이/NOUN 아닌/VERB 피부에/ADV 자극이/NOUN 적은/VERB 생물학적/ADJ 필링/NOUN 방법을/NOUN 적용했다/VERB ./PUNCT 
+이후/ADV 포괄금융/NOUN 부문/NOUN 자문단/NOUN 상임위원회/NOUN 위원과/NOUN 자문/NOUN 실무단/NOUN 단장을/NOUN 역임했으며/VERB 2009년에는/NOUN 포괄금융/NOUN 관련/NOUN 특별/NOUN 고문으로/ADV 위촉되었다/VERB ./PUNCT 
+방망이에/ADV 공이/NOUN 맞는/VERB 순간/NOUN ,/PUNCT 손목/NOUN 뼈가/NOUN 그/DET 충격을/NOUN 이기지/NOUN 못하고/VERB 골절돼/VERB 버린/VERB 것이다/VERB ./PUNCT 
+83세에/ADV 베를린에서/ADV 영면했다/VERB ./PUNCT 
+롯데건설이/NOUN 짓는/VERB 서울/NOUN 송파구/NOUN 잠실동에/ADV 짓는/VERB 123층/NOUN 높이의/NOUN '롯데수퍼타워'/NOUN 이야기다/VERB ./PUNCT 
+당초/NOUN 26일로/ADV 예정됐던/VERB 양제츠/NOUN 중국/NOUN 외교부장의/NOUN 방한을/NOUN 연기하는/VERB 대신/NOUN 한/NUM 단계/NOUN 격을/NOUN 높여/VERB 부총리급/NOUN 거물을/NOUN 보낸/VERB 것이나/VERB ,/PUNCT 중국/NOUN 지도부가/NOUN 특사를/NOUN 급파해/VERB 이/NOUN 대통령에게/NOUN 직접/ADV 입장을/NOUN 전달하고/VERB 이해를/NOUN 구한/VERB 것은/NOUN 다소/ADV 진일보한/ADJ 태도라는/VERB 것이다/VERB ./PUNCT 
+디네일루릭티스(Dinailurictis)는/NOUN 올리고세/NOUN 때/ADP 유럽에/ADV 서식한/VERB 님라비드과의/NOUN 검치호랑이이다/VERB ./PUNCT 
+한국의/NOUN 부락제(部落祭)는/NOUN 그/DET 연원(淵源)이/NOUN 오래되었으며/VERB ,/PUNCT '영고(迎鼓)'/NOUN '무천(舞天)'/NOUN '동맹(東盟)'/NOUN 등과/ADV '팔관회'/NOUN '중동팔관회(仲冬八關會)'/NOUN 등의/NOUN 영향을/NOUN 받아/VERB 이루어진/VERB 것이다/VERB ./PUNCT 
+버스타고/VERB 맥도날드까지/ADV 가려면/VERB 
+서울고법/NOUN 형사1부(조해현/NOUN 부장판사)는/NOUN 20일/NOUN 경남지역/NOUN 건설업자/NOUN 정/NOUN 씨에게/ADV 접대를/NOUN 받는/VERB 등/NOUN '스폰서/NOUN 검사/NOUN '/PUNCT 의혹사건으로/ADV 기소된/VERB 한승철/NOUN 전/NOUN 대검/NOUN 감찰부장에게/NOUN 1심과/NOUN 같이/ADV 무죄를/NOUN 선고했다/VERB ./PUNCT 
+강남사거리/NOUN 지금/ADV 상황이/NOUN 어때/ADJ 
+이에/ADV 팬들은/NOUN 직접/ADV 그린/VERB 백지영의/NOUN 초상화와/NOUN 영양제/NOUN 등/NOUN 정성이/NOUN 가득/ADV 담긴/VERB 선물을/NOUN 준비하며/VERB 그의/PRON 정성에/ADV 답했다/VERB ./PUNCT 
+협상과/NOUN 교섭은/NOUN 100%란/VERB 게/NOUN 없다/ADJ ./PUNCT 
+투자심리가/NOUN 얼어붙으면서/VERB '이번/NOUN 위기는/NOUN 과거와/ADV 다르다'며/VERB 지수가/NOUN 500/NUM 선/NOUN 밑으로/ADP 떨어질/VERB 수도/NOUN 있다는/VERB 불길한/ADJ 전망이/NOUN 쏟아져/VERB 나오기도/VERB 했다/VERB ./PUNCT 
+빙과류/NOUN 장인을/NOUN 지망했다가/VERB 행방불명된/VERB 아버지의/NOUN 라면/NOUN 가게를/NOUN 이어받아서/VERB ,/PUNCT 라면보다/ADV 빙과류를/NOUN 만드는/VERB 일이/NOUN 훨씬/ADV 능숙하다/ADJ ./PUNCT 
+주목할/VERB 사항은/NOUN 분양가가/NOUN 3.3㎡당/ADV 소형면적의/NOUN 경우/NOUN 2100만원부터/ADV 시작한다는/VERB 점이다/VERB ./PUNCT 
+밑반찬도/NOUN 꽤나/ADV 괜찮아요/ADJ 
+짜장면도/NOUN 좀/ADV 싱겁고/VERB 별루예여/ADJ 
+무엇보다/ADV 선생님이/NOUN 아가/NOUN 초음파하면서/VERB 설명도/NOUN 꼼꼼히/ADV 해/VERB 주셔서/VERB 좋았어요~/ADJ 
+하지만/ADV 음식에/ADV 대한/VERB 기대는/NOUN 금물입니다/VERB 
+"유니온프레스"는/NOUN 이번/NOUN 윤리강령을/NOUN 실천함으로써/ADV 질/NOUN 높은/VERB 온라인/NOUN 저널리즘으로/ADV 인터넷/NOUN 신문의/NOUN 사회적/ADJ 신뢰를/NOUN 회복할/VERB 수/NOUN 있기를/NOUN 기대하며/VERB 윤리강령/NOUN 준수에/ADV 최선을/NOUN 다할/VERB 방침이다/VERB ./PUNCT 
+유럽의/NOUN 통합은/NOUN 현재/ADV 네/NUM 개의/NOUN 만들어진/VERB 조약에/ADV 기초를/NOUN 두고/VERB 있다/VERB 
+거대한/ADJ 기름/NOUN 기둥은/NOUN 루이지애나와/NOUN 미시시피주/NOUN 해안을/NOUN 시커멓게/ADV 뒤덮었습니다/VERB ./PUNCT 
+여기서/ADV 대전까지/ADV 막히면/VERB 얼마만에/ADV 갈까/VERB 
+무한도전/NOUN 최신회를/NOUN 원해/VERB 
+지금은/ADV 찾기도/NOUN 힘든/VERB 올드팝과/NOUN 다양한/ADJ 장르의/NOUN LP판들이/NOUN 가득/ADJ !/PUNCT 
+후리이드도/NOUN 양념도/NOUN 맛나다/ADJ 
+FC/NOUN 바르셀로나가/NOUN 28일(현지시각)/NOUN 영국/NOUN 런던의/NOUN 웸블리/NOUN 스타디움에서/ADV 열린/VERB 2010-11/NUM 우럽축구연맹(UEFA)/NOUN 챔피언스리그/NOUN 맨체스터/NOUN 유나이티드와의/NOUN 결승전에서/ADV 3-1로/ADV 승리하며/VERB 통산/NOUN 4번째/NOUN 챔피언스리그/NOUN 우승을/NOUN 달성했다/VERB ./PUNCT 
+그래서/ADV Bilbe을/NOUN 문자적으로/ADV 해석하는/VERB 보수적인/ADJ 신학자들은/NOUN 악마를/NOUN 영적인/ADJ 존재로/ADV 해석한다/VERB ./PUNCT 
+12일/NOUN 금융투자협회와/NOUN 신한금융투자에/ADV 따르면/VERB 지난/VERB 10일/NOUN 기준/ADV 국내/NOUN 주식형펀드(ETF/NOUN 제외)에서/ADV 1735억/NUM 원의/NOUN 자금이/NOUN 유출되며/VERB 7거래일/NOUN 연속/ADV 자금이/NOUN 순유출됐다/VERB ./PUNCT 
+거기/ADV 커피도/NOUN 다른/ADJ 데보다/ADV 맛도/NOUN 좋았어요/ADJ 
+그래서/ADV ,/PUNCT 시간과/NOUN 돈/NOUN ,/PUNCT 노력을/NOUN 절약하는/VERB 수단으로/ADV 통신체가/NOUN 각광받으며/VERB 널리/ADV 퍼졌다/VERB ./PUNCT 
+연비/NOUN 또한/ADV ℓ당/ADV 10.6㎞로/ADV ES350(ℓ당/NOUN 9.6㎞)보다/ADV 연료효율이/NOUN 높다/ADJ ./PUNCT 
+올라가는/VERB 계단에서도/ADV 고급스러움을/NOUN 느꼇습니다/VERB ./PUNCT 
+책/NOUN 읽으며/VERB 함께/ADV 먹을/VERB 수/NOUN 있는/VERB 음료수와/NOUN 빵도/NOUN 가격/NOUN 대비/ADP 맛있어요/ADJ ./PUNCT 
+대전까지/ADV 얼마나/ADV 멀까요/ADJ 
+성남도촌지구는/NOUN 경기도/NOUN 성남시/NOUN 도촌•갈현동/NOUN 일대/ADV 80만여㎡/NOUN 규모로/ADV 조성되며/VERB ,/PUNCT 2006년/NOUN 동지구내/NOUN 휴먼시아/NOUN 3/NUM ,/PUNCT 5단지/NOUN 분양/NOUN 당시/ADP 평균/NOUN 12/NUM 대/NOUN 1의/NUM 청약/NOUN 경쟁률을/NOUN 기록한/VERB 바/NOUN 있어/VERB 입지여건과/NOUN 주거환경면에서/ADV 검증된/VERB 지구라/VERB 할/VERB 수/NOUN 있다/ADJ ./PUNCT 
+일본/NOUN 수도권/NOUN 남동쪽/NOUN 해상으로/ADV 접근하면서/VERB 8월/NOUN 31일/NOUN 오전/NOUN 9시에/NOUN 중심기압/NOUN 975hPa/NOUN ,/PUNCT 최대풍속/NOUN 31m/s/NOUN ,/PUNCT 강풍/NOUN 반경/NOUN 약/NOUN 370km/NOUN ,/PUNCT 강도/NOUN '중/NOUN ',/PUNCT 크기/NOUN '중형'의/NOUN 강한/ADJ 열대폭풍으로/ADV 발달하였다/VERB ./PUNCT 
+젊은/ADJ 부부/NOUN 사장님의/NOUN 친절과/NOUN 배려가/NOUN 최고네요/VERB ./PUNCT 
+아래층에서/ADV 고기/NOUN 주문하면/VERB 위층에서/ADV 자리세(초장값)/NOUN 받는/VERB 방식의/NOUN 횟집/NOUN ./PUNCT 
+그렇게도/ADV 자신이/NOUN 없는가/ADJ ?/PUNCT 
+"잠자는/VERB 대지를/NOUN 깨우지/VERB 말라/VERB ,/PUNCT 중국이/NOUN 잠에서/ADV 깨어나면/VERB 세계가/NOUN 시끄러울/VERB 것이다/VERB ."/PUNCT 
+남의/NOUN 이름/NOUN 베껴서/VERB 사기치는/VERB 나쁜/ADJ 사람들입니다/VERB ./PUNCT 
+버섯/NOUN ,/PUNCT 잣/NOUN 등/NOUN '산림의/NOUN 고장/NOUN '/PUNCT 강원지역에서/ADV 생산되는/VERB 임산물들이/NOUN 올해/NOUN 최악의/NOUN 흉년을/NOUN 맞아/VERB 주민들이/NOUN 울상을/NOUN 짓고/VERB 있다/VERB ./PUNCT 
+이/PRON 때문에/ADP 오/NOUN 시장이/NOUN 주민투표/NOUN 문제를/NOUN 매듭짓고/VERB 대선에/ADV 출마하는/VERB 시나리오를/NOUN 염두에/ADV 두고/VERB 있다는/VERB 분석이/NOUN 여권에서/ADV 나온다/VERB ./PUNCT 
+셀마의/NOUN 병원들은/NOUN 리브의/NOUN 치료를/NOUN 거부했고/VERB ,/PUNCT 결국/ADV 그는/PRON 3월/NOUN 11일에/NOUN 사망했다/VERB ./PUNCT 
+반찬/NOUN 하나는/NUM 잘/ADV 나와요/VERB 
+에펠타워/NOUN 높이는/NOUN ?/PUNCT 
+그럼/ADV 내가/PRON 일부러/ADV 날아다니는/VERB 벌레를/NOUN 내/PRON 입/NOUN 속에/ADP 넣기라도/VERB 했나/VERB ./PUNCT 
+구불구불한/ADJ 처마돌림띠와/NOUN 조각된/VERB 벽감들이/NOUN 있는/VERB 물결치는/VERB 건물의/NOUN 외관(1662-67,/NOUN 오른쪽/NOUN 그림)은/NOUN 훌륭한/ADJ 것이다/VERB ./PUNCT 
+꼭/ADV 먹으러/VERB 오세요/VERB ./PUNCT 
+점주가/NOUN 목표로/ADV 하는/VERB 월/NOUN 800만원/NOUN 정도의/ADP 순이익/NOUN 달성을/NOUN 위해/VERB 메뉴/NOUN 개발/NOUN ,/PUNCT 점포/NOUN 운영/NOUN ,/PUNCT 홍보/NOUN 전략/NOUN 등을/NOUN 단계적으로/ADV 실시할/VERB 예정입니다/VERB ./PUNCT 
+사이폰을/NOUN 맨/ADV 처음/ADV 사용하려면/VERB 아무래도/ADV 깨끗이/ADV 세척해야겠지요/VERB ./PUNCT 
+일각에서는/ADV SK텔레콤이/NOUN 갤럭시탭/NOUN 약정/NOUN 가입자/NOUN 감소와/NOUN 데이터/NOUN 폭증을/NOUN 우려해/VERB USIM칩/NOUN 유통에/ADV 나서지/VERB 않았다는/VERB 주장이/NOUN 제기돼왔다/VERB ./PUNCT 
+칠레정부는/NOUN 콜롬비아정부와/NOUN 두/NUM 국가에서의/NOUN "테러/NOUN 그룹/NOUN "/PUNCT 사이의/ADP 연결을/NOUN 끊겠다고/VERB 합의한/VERB 상태다/VERB ./PUNCT 
+고기/NOUN 맛있고/VERB 된장찌개가/NOUN 그냥/ADV 나오고/VERB 계속/ADV 리필해/VERB 줘요/VERB 
+1930년대/NOUN 나치가/NOUN 정권을/NOUN 잡게/VERB 되자/VERB ,/PUNCT 나치의/NOUN 문화당국자들은/NOUN 프리드리히의/NOUN 작품을/NOUN 북구/NOUN 유럽적/ADJ 특징을/NOUN 구현한/VERB 작품으로/ADV 선전했다/VERB ./PUNCT 
+넘/ADV 맛잇고/VERB 서비스/NOUN 최고/NOUN 
+금산에서/ADV 먹어/VERB 본/VERB 북어찜/NOUN 중/ADP 제일/ADV 맛있는/VERB 집이었어요/VERB ./PUNCT 
+다만/ADV 역사적으로/ADV 기원전/NOUN 2세기경/NOUN 흉노와/NOUN 당시의/NOUN 한나라간에/ADV 교류가/NOUN 있었고/VERB 실제로/ADV 유연이/NOUN 이를/PRON 이용하여/VERB 후한을/NOUN 계승한다는/VERB 명분하에/ADV 한/NOUN 고조/NOUN ,/PUNCT 촉한/NOUN 소열제/NOUN 등을/NOUN 조상으로/ADV 추존한/VERB 일은/NOUN 있다/ADJ ./PUNCT 
+그의/PRON 싱글/NOUN 《글로리/NOUN 오브/NOUN 라이프》(Glory/NOUN Of/NOUN Life)는/NOUN 미국/NOUN 핫댄스클럽플레이/NOUN 차트에서/ADV 1위를/NOUN 차지하였다/VERB ./PUNCT 
+영국의/NOUN 수상을/NOUN 알려줘/VERB ./PUNCT 
+커뮤니티/NOUN 카페에서/ADV 사람들이/NOUN 추천하길래/VERB 비만/NOUN 관리/NOUN 신청했습니다/VERB 
+대전까지/ADV 최대/ADV 얼마/NOUN 걸려/VERB ?/PUNCT 
+지나가다/VERB 우연히/ADV 들렸는데/VERB 반찬/NOUN 가짓수도/NOUN 많고/VERB 가격/NOUN 대비/ADV 훌륭합니다/ADJ ./PUNCT 
+다른/ADJ 이태리/NOUN 레스토랑에서/ADV 맛볼/VERB 수/NOUN 없는/VERB 색다른/ADJ 맛을/NOUN 경험하실/VERB 거에요/VERB 
+또/ADV ,/PUNCT 한국홍가슴개미(Camponotus/NOUN atrox)와/ADV 달리/VERB ,/PUNCT 배/NOUN 첫째/NUM 마디/NOUN 부분까지도/ADV 붉은색이/NOUN 선명하며/VERB 몸길이는/NOUN 일개미/NOUN 7~12mm/NOUN ,/PUNCT 여왕개미/NOUN 대략/ADV 18mm/NOUN 정도로/ADV 한국홍가슴개미와/NOUN 일본왕개미(Camponotus/NOUN japonicus)와/ADV 동일하다/ADJ ./PUNCT 
+마더/NOUN 테레사는/NOUN 자신을/PRON 하나님의/NOUN 손에/ADV 붙잡힌/VERB '몽당연필'이라고/VERB 표현했다/VERB ./PUNCT 
+그러나/ADV 수요를/NOUN 고려하지/VERB 않은/VERB 버스/NOUN 증차는/NOUN 운행손실금을/NOUN 재정으로/ADV 보전해/VERB 주어야/VERB 하는/VERB 부담을/NOUN 않게/VERB 되어/VERB 노선버스를/NOUN 보다/ADV 효율적으로/ADV 운행하기/NOUN 위해/VERB 맞춤버스를/NOUN 운행한다는/VERB 게/NOUN 경기도의/NOUN 설명/NOUN ./PUNCT 
+이런/ADJ 음식점은/NOUN 분당에서/ADV 몰아내야/VERB 합니다/VERB ./PUNCT 
+빠른/ADJ 극/NOUN 전개와/ADV 상황설정으로/ADV 30/NOUN %/PUNCT 후반의/NOUN 높은/ADJ 시청률을/NOUN 기록하고/VERB 있으나/VERB ,/PUNCT 누리꾼들이/NOUN 뽑은/VERB 막장/NOUN 드라마로/ADV 3위에/ADV 선정되기도/VERB 하였다/VERB ./PUNCT 
+또한/ADV SK텔레콤은/NOUN '초소형/NOUN 기지국'으로/ADV 불리는/VERB '데이터/NOUN 펨토셀/NOUN '/PUNCT 개발을/NOUN 완료하고/VERB 11월부터/ADV 구축을/NOUN 시작해/VERB ,/PUNCT 시내/NOUN 구석구석까지/ADV 모바일/NOUN 데이터를/NOUN 쾌적하게/ADV 사용할/VERB 수/NOUN 있는/VERB 환경을/NOUN 조성할/VERB 계획이다/VERB ./PUNCT 
+아트비전과/ADV 같이/VERB 대기업의/NOUN 성우사무소이지만/VERB ,/PUNCT 1990년대/NOUN 후반부터/ADV 일어난/VERB 아트비전/NOUN 소속/NOUN 성우들의/NOUN 대량이탈과/ADV 같이/VERB 2000년대/NOUN 중순부터/ADV 아임/NOUN 엔터프라이즈로부터도/ADV 이탈하는/VERB 성우가/NOUN 많아지고/VERB 있다/VERB ./PUNCT 
+전엔/ADV 안/ADV 그랬는데/VERB 요즘/ADV 너무/ADV 짭니다/ADJ 
+주가지수/NOUN 급락으로/ADV 외환시장에서는/ADV 환율이/NOUN 큰/ADJ 폭으로/ADV 오르고/VERB 있다/VERB ./PUNCT 
+오늘도/ADV 가서/VERB 아메리카노에/NOUN 어니언/NOUN 베이글을/NOUN 먹구/VERB 왔네요/VERB ../PUNCT 
+현재위치에서/ADV 대전역/NOUN 가는/VERB 경로/NOUN 
+아주/ADV 높은/ADJ 질의/NOUN 고기를/NOUN 원하시는/VERB 거/NOUN 아니면/VERB 좋아요/ADJ !/PUNCT 
+이번에/ADV 와이프/NOUN 생일과/NOUN 아이/NOUN 돌이어서/VERB 큰/ADJ 맘/NOUN 먹고/VERB 다이아/NOUN 업그레이드를/NOUN 해/VERB 줄려고/VERB 찾아갔지요/VERB ./PUNCT 
+계약금/NOUN 2000만원을/NOUN 2회/NOUN 분납하며/VERB ,/PUNCT 중도금(60%)에/ADV 대해/VERB 30%는/NOUN 무이자융자를/NOUN ,/PUNCT 나머지/NOUN 30%는/NOUN 이자후불제/NOUN 혜택을/NOUN 주고/VERB 있다/VERB ./PUNCT 
+그래서/ADV 그는/PRON 중국을/NOUN "우리/PRON 농산물/NOUN 수출을/NOUN 받쳐/ADV 주는/VERB 효자/NOUN 국가"로/ADV 부른다/VERB ./PUNCT 
+이미/ADV 여러/ADJ 조사에서/ADV RIM의/NOUN 점유율이/NOUN 하락하고/VERB 있는/VERB 것으로/ADV 확인되었는데/VERB ,/PUNCT 최근들어/VERB 기업용/NOUN 시장에서/ADV 위기의/NOUN 징조들이/NOUN 두드러지고/VERB 있다/VERB ./PUNCT 
+대개/ADV 어택을/NOUN 조절하는/VERB 시간단위는/NOUN milliseconds이고/VERB 릴리즈의/NOUN 시간단위는/NOUN 주로/ADV seconds이다/VERB ./PUNCT 
+이/DET 회사에서는/ADV 십대/NOUN 소녀들을/NOUN 대상으로/ADV 한/VERB 여러/ADJ 컴퓨터/NOUN 미디어와/NOUN 소프트웨어를/NOUN 개발하였다/VERB ./PUNCT 
+오일/NOUN 교환이/NOUN 저렴하고/VERB 좋아요/ADJ 
+대륙과의/ADV 왕래가/NOUN 불가능하게/VERB 된/VERB 것이다/VERB ./PUNCT 
+강유미는/NOUN 다가올/VERB 새해/NOUN 어학공부와/NOUN 함께/ADV 그/DET 동안/ADV 못한/VERB 여행을/NOUN 하며/VERB 차분히/ADV 유학/NOUN 준비를/NOUN 마무리/NOUN 지을/VERB 것으로/ADV 알려지고/VERB 있다/VERB ./PUNCT 
+시설도/NOUN 괜찮고/VERB 진료/NOUN 후/ADP 설명도/NOUN 충분히/ADV 해주셔서/VERB 좋으네요/ADJ 
+가장/ADV 먼저/ADV 할/VERB 일은/NOUN 자녀/NOUN 이름으로/ADV 계좌를/NOUN 개설하는/VERB 것이다/VERB ./PUNCT 
+망월사역에서/ADV 내려/VERB 포대능선으로/ADV 가기/NOUN 위해서는/VERB 엄홍길기념관/NOUN 앞을/ADP 지나야/VERB 한다/VERB ./PUNCT 
+이어/ADV 그는/PRON "빈곤/NOUN 국가에/ADV 있는/VERB 여성과/NOUN 여자아이들은/NOUN 선진국과/ADV 다르게/ADV 보통/ADV 자궁경부암을/NOUN 예방하기/NOUN 위한/VERB 검사와/NOUN 치료에/ADV 접근할/VERB 수/NOUN 없어서/VERB 인체유두종바이러스/NOUN 백신이/NOUN 중요하다"며/VERB "우리는/PRON 이/DET 불공평을/NOUN 바로잡기/NOUN 위해/VERB 신중한/ADJ 조치를/NOUN 취해왔다"고/VERB 덧붙였다/VERB ./PUNCT 
+한국철도공사가/NOUN 운영하고/VERB 있는/VERB 분당선의/NOUN 혼잡도/NOUN 완화와/NOUN 표정/NOUN 속도/NOUN 증가를/NOUN 목적으로/ADV 건설하고/VERB 있는/VERB 노선이다/VERB ./PUNCT 
+정부는/NOUN 2일/NOUN 오전/NOUN 김황식/NOUN 국무총리/NOUN 주재로/ADV 교육과학기술부/NOUN ,/PUNCT 보건복지부/NOUN ,/PUNCT 기획재정부/NOUN 장ㆍ차관이/NOUN 참석한/VERB 가운데/NOUN 이/PRON 같은/VERB 내용의/NOUN 취학/NOUN 전/ADP 만/NOUN 5세에/ADV 대한/VERB `사실상/NOUN 의무교육/NOUN 시행계획`을/NOUN 발표했다/VERB ./PUNCT 
+걸복건귀는/NOUN 이를/PRON 격파하여/VERB 전진을/NOUN 멸망시켰으며/VERB 농서/NOUN 일대를/NOUN 장악하였다/VERB ./PUNCT 
+그런데/ADV 이번/NOUN 과정을/NOUN 보면/VERB 사장의/NOUN 말/NOUN 한마디에/ADV 기획이/NOUN 오락가락한/VERB 흔적이/NOUN 뚜렷하다/ADJ ./PUNCT 
+총판이라서/VERB 그런가/VERB 저렴합니다/ADJ 
+실제로/ADV 금잔디는/NOUN 뛰어난/ADJ 가창력으로/ADV 학창시절/NOUN 때부터/ADP 큰/ADJ 주목을/NOUN 받았던/VERB 인물/NOUN ./PUNCT 
+허류(虛留)는/NOUN 조선/NOUN 말/ADV 환곡의/NOUN 폐단/NOUN 가운데/ADP 하나이다/VERB ./PUNCT 
+남들이/NOUN 골프/NOUN 하는/VERB 것을/NOUN 보면서/VERB 위험한/ADJ 운동이라고/VERB 생각했다/VERB ./PUNCT 
+응용/NOUN 면에/ADV 걸쳐/VERB 유기적인/ADJ 연관성을/NOUN 가지고/VERB 있다/VERB ./PUNCT 
+신임/NOUN 고/NOUN 상임의장은/NOUN 금산참여연대/NOUN 집행위원으로/ADV 활동해/VERB 왔으며/VERB 상임/NOUN 의장의/NOUN 임기는/NOUN 2년이다/VERB ./PUNCT 
+맛은/NOUN 물론이며/VERB 구수한/ADJ 사장님의/NOUN 마음과/NOUN 미묘한/ADJ 손맛/NOUN 
+모음은/NOUN a/NOUN ,/PUNCT a/NOUN ,/PUNCT e/NOUN ,/PUNCT i/NOUN ,/PUNCT i/NOUN ,/PUNCT o/NOUN ,/PUNCT u의/NOUN 7개이다/VERB ./PUNCT 
+오후/NOUN 10시까지만/ADV 영업을/NOUN 하기/NOUN 때문에/ADP 일찍/ADV 가야합니다/VERB 
+이번/NOUN 비로/ADV 도내에는/ADV 모두/ADV 11명이/NOUN 사망하거나/VERB 실종되는/VERB 등/NOUN 인명피해도/NOUN 이어졌습니다/VERB ./PUNCT 
+왠만한/ADJ 거/NOUN 다/ADV 잘/ADV 먹는데/VERB 정말/ADV 속상했어요/VERB 
+숯으로/ADV 구워서/VERB 그런지/VERB 깊은/ADJ 맛이/NOUN 납니다/VERB 
+현대에는/ADV 휴대/NOUN 정보/NOUN 단말기등의/NOUN 터치스크린을/NOUN 조작하는/VERB 볼펜/NOUN 모양의/NOUN 입력/NOUN 도구를/NOUN 가리킨다/VERB ./PUNCT 
+심해잠수장비에는/ADV 심해와/ADV 같은/VERB 압력/NOUN 환경을/NOUN 만들어주는/VERB 갑판/NOUN 감압실(DDC)과/NOUN 잠수부를/NOUN 안전하게/ADV 작전/NOUN 깊이까지/ADV 수송하는/VERB 인원/NOUN 수송/NOUN 캡슐(PTC)/NOUN 등으로/ADV 구성되어/VERB 있다/VERB ./PUNCT 
+따라서/ADV 개개인의/NOUN 무용이나/NOUN 현재와/ADV 같은/VERB 전술적/ADJ 움직임/NOUN 대신/ADV ,/PUNCT 시민단/NOUN 전체의/NOUN 유기적인/ADJ 연결에/ADV 집중하게/VERB 된다/VERB ./PUNCT 
+중앙/NOUN 크로아티아/NOUN ()/PUNCT 또는/CCONJ 크로아티아/NOUN 본토는/NOUN 현재의/NOUN 크로아티아/NOUN 영토에/ADV 있는/VERB 지역을/NOUN 가리키는/VERB 용어로/ADV ,/PUNCT 합스부르크/NOUN 군주국의/NOUN 지배하에/ADV 있던/VERB 크로아티아/NOUN 왕국의/NOUN 지역/NOUN 가운데/ADP 이스트리아/NOUN ,/PUNCT 슬라보니아/NOUN ,/PUNCT 달마티아를/NOUN 제외한/VERB 지역을/NOUN 가리키며/VERB 크로아티아의/NOUN 연안/NOUN 지역과/NOUN 디나르알프스/NOUN 산맥(코르둔(Kordun),/NOUN 리카(Lika/NOUN ),/PUNCT 고르스키코타르(Gorski/NOUN kotar/NOUN )),/PUNCT 메지무례/NOUN 주를/NOUN 포함한다/VERB ./PUNCT 
+소녀시대의/NOUN Gee(지)/NOUN 노래의/NOUN 뮤직비디오를/NOUN 찾아라/VERB ./PUNCT 
+맛은/NOUN 괜찮은데/VERB 다른/ADJ 700비어에/ADV 비해/VERB 안주가/NOUN 너무/ADV 작게/ADV 나와요/VERB 
+이러한/ADJ 튀르고의/NOUN 정책은/NOUN 적자/NOUN 폭을/NOUN 감소시키는/VERB 데에는/ADV 성공하였고/VERB ,/PUNCT 국가신용도를/NOUN 향상시켜/VERB 그의/PRON 퇴임/NOUN 직전에는/ADP 네덜란드의/NOUN 은행가들로부터/ADV 4%의/NOUN 이자로/ADV 대출이/NOUN 가능해질/VERB 정도로/ADV 만들었다/VERB ./PUNCT 
+현재/ADV 불법/NOUN 스포츠/NOUN 도박사이트는/NOUN 5-6백/NOUN 개로/ADV 거래금액은/NOUN 연간/NOUN 3조/NOUN 4천억/NOUN 원/NOUN 선/NOUN ./PUNCT 
+매실냉면도/NOUN 맛나고/VERB 김치/NOUN 넣고/VERB 계란/NOUN 넣은/VERB 볶음밥도/NOUN 맛나요~/ADJ 
+대전/NOUN 신세계/NOUN 백화점/NOUN 가는/VERB 길/NOUN 좀/ADV 
+현재/ADV 서울에서/ADV 식당을/NOUN 운영하고/VERB 있다/VERB ./PUNCT 
+하지만/ADV 사라/NOUN 로렌스/NOUN 대학교에서/ADV 교편을/NOUN 잡았고/VERB ,/PUNCT 콜럼비아/NOUN 대학교에서는/ADV 연구직을/NOUN 맡았으며/VERB ,/PUNCT 로스앨러모스/NOUN 연구소에서도/ADV 잠시/ADV 일했다/VERB ./PUNCT 
+한껏/ADV 옷맵시를/NOUN 뽐내는/VERB 허수아비/NOUN 옆에/ADP 선/VERB 언니와/NOUN 동생에/ADV 얼굴에서는/ADV 즐거움이/NOUN 묻어납니다/VERB ./PUNCT 
+18년/NOUN 전/ADP 창동/NOUN 조그만한/ADJ 건물/NOUN 2층에/ADV 할/VERB 때부터/ADV 다녔으니까/VERB 참/ADV 오래됐네요/ADJ 
+가까운/ADJ 병원/NOUN 거리는/NOUN 
+그러나/ADV ,/PUNCT 20세기/NOUN 중엽/NOUN 동안에/ADP ,/PUNCT 새로운/ADJ 수사들의/NOUN 유입이/NOUN 대거/ADV 감소함으로/ADV 인하여/VERB 수사단의/NOUN 인원도/NOUN 매우/ADV 적었다/ADJ ./PUNCT 
+그래서/ADV 그/DET 어렵다는/VERB 결혼/NOUN 준비/NOUN 쉽고/VERB 편하고/VERB 재밋게/ADV 하고/VERB 있습니다/VERB 
+시는/NOUN 붉은대게/NOUN 클러스터/NOUN 조성사업을/NOUN 속초시의/NOUN 해양BIO산업/NOUN 클러스터의/NOUN 한/NUM 축으로/ADV 동해안/NOUN 젓갈클러스터/NOUN ,/PUNCT 해양심층수/NOUN 클러스터/NOUN 조성사업과/ADV 함께/ADV 연계해/VERB 역점사업으로/ADV 추진하고/VERB 있다/VERB ./PUNCT 
+주방에서/ADV 음식/NOUN 나올/VERB 때/NOUN 보니/VERB 아저씨가/NOUN 고무장갑/NOUN 낀/VERB 손으로/ADV 떨어졌던/VERB 야채/NOUN 냄비에/ADV 막/ADV 담더군요/VERB 
+그래서/ADV 자원은/NOUN 여러/ADJ 가지로/ADV 분류가/NOUN 된다/VERB ./PUNCT 
+한국이소룡기념사업회는/NOUN 홍콩의/NOUN 배우/NOUN 브루스/NOUN 리(이소룡,/NOUN 李小龍)를/NOUN 추모하고/VERB 한국/NOUN 무술/NOUN 영화의/NOUN 역사를/NOUN 널리/ADV 알리기/NOUN 위해/VERB 2010년/NOUN 출범한/VERB 사단법인/NOUN 단체이다/VERB ./PUNCT 
+유기화학/NOUN ,/PUNCT 생화학에서/ADV 특히/ADV 많이/ADV 사용된다/VERB ./PUNCT 
+다음에/ADV 다시/ADV 가봐야지/VERB ./PUNCT 
+최씨에게는/NOUN 2008년/NOUN 미국산/NOUN 쇠고기/NOUN 수입/NOUN 반대/NOUN 집회에/ADV 참여해/VERB 도로를/NOUN 점거한/VERB 혐의(일반교통방해)와/NOUN 2009년/NOUN 7월/NOUN 동원훈련/NOUN 연기용으로/ADV 진단서를/NOUN 위조한/VERB 혐의(위계공무집행방해)도/NOUN 적용됐다/VERB ./PUNCT 
+20세기/NOUN 초에는/ADP 중공업생산에서/ADV 세계/NOUN 제2위의/NOUN 급속한/ADJ 경제발전을/NOUN 배경으로/ADV 해외/NOUN 팽창/NOUN 정책을/NOUN 추진하였다/VERB ./PUNCT 
+70번/NOUN 도로는/NOUN 미사일/NOUN 기지/NOUN 지역을/NOUN 지나간다/VERB ./PUNCT 
+자가용/NOUN ,/PUNCT 시외직행/일반형/NOUN ,/PUNCT 시내좌석형이/NOUN 520에/ADV 해당된다/VERB ./PUNCT 
+아침/NOUN 최저기온은/NOUN 10도에서/ADV 19도/VERB ,/PUNCT 낮/NOUN 최고기온은/NOUN 18도에서/ADV 24도가/NOUN 되겠다/VERB ./PUNCT 
+이/DET 사고로/ADV 갓길에서/ADV 사진을/NOUN 찍고/VERB 있던/VERB 사진/NOUN 동호회/NOUN 회원/NOUN 54살/NOUN 이/NOUN 모/NOUN 씨/NOUN 등/NOUN 3명이/NOUN 숨지고/VERB ,/PUNCT 1명이/NOUN 다쳤습니다/VERB ./PUNCT 
+주인장/NOUN 고향이/NOUN 시골이라/VERB 야채/NOUN 꺼리도/NOUN 싱싱해서/VERB 가끔/ADV 삼겹살이/NOUN 먹고/VERB 싶을/VERB 때/NOUN 가는/VERB 곳이다/VERB 
+대전역에/ADV 기차로/ADV 갈려는데/VERB 길/NOUN 좀/ADV 알려줘/VERB 
+한편/ADV ,/PUNCT 이번/NOUN 중동사태로/ADV 인한/VERB 우리/PRON 건설업체의/NOUN 피해현황/NOUN 및/CCONJ 애로사항을/NOUN 지속적으로/ADV 파악하고/VERB 사태/NOUN 안정시/ADV 범정부차원에서/ADV 우리/PRON 건설/NOUN 업체와/NOUN 발주처간의/NOUN 원활한/ADJ 피해보상/NOUN 협의를/NOUN 지원할/VERB 계획인/VERB 가운데/NOUN 해외건설협회에/ADV '중동사태/NOUN 법률지원단'을/NOUN 설치(2.28/NOUN ),/PUNCT 향후/NOUN 공사/NOUN 재개시/ADV 필요한/VERB 클레임/NOUN 절차/NOUN 등에/ADV 대한/VERB 컨설팅을/NOUN 제공했다/VERB ./PUNCT 
+구룡령/NOUN 넘어/VERB 갈천리의/NOUN 경우/ADV 성수기에만/ADV 문을/NOUN 여는/VERB 식당이/NOUN 많다/ADJ ./PUNCT 
+때마침/ADV 병이/NOUN 깊어진/VERB 주유가/NOUN 병사하는/VERB 상황이/NOUN 만들어지고/VERB 말았다/VERB ./PUNCT 
+아기자기하게/ADV 작은/ADJ 공간을/NOUN 잘/ADV 꾸며/VERB 놓았어요/VERB ./PUNCT 
+깔끔하고/VERB 맛나서/VERB 자주/ADV 가고/VERB 자주/ADV 포장도/NOUN 해/VERB 오네요/VERB ./PUNCT 
+그/DET 결과/ADV 한국은/NOUN 여성/NOUN 외모/NOUN 2위/NOUN ,/PUNCT 남성/NOUN 외모/NOUN 7위를/NOUN 기록하며/VERB 남녀/NOUN 모두/NOUN 10위권/NOUN 안에/ADP 입성했다/VERB ./PUNCT 
+1999년/NOUN 7월/NOUN 1일/NOUN 글리제/NOUN 777로/ADV METI/NOUN 전파가/NOUN 발사되었다/VERB ./PUNCT 
+중국/NOUN 통샹(栋鄕)시/NOUN 부시장을/NOUN 단장으로/ADV 하는/VERB 시정부투자유치단이/NOUN 15일/NOUN 내인/NOUN ,/PUNCT 투자유치설명회/NOUN 공식/NOUN 일정에/ADV 앞서/VERB 인천일보사를/NOUN 방문했다/VERB ./PUNCT 
+남녀/NOUN 모두/ADV 손끝의/NOUN 운동은/NOUN 더/ADV 뒤에까지/ADV 발달하나/VERB ,/PUNCT 환경요인과/NOUN 직접적으로/ADV 경험에/ADV 의해서/VERB 강하게/ADV 영향을/NOUN 받는다/VERB ./PUNCT 
+주도는/NOUN 페루자이며/VERB ,/PUNCT 테르니/NOUN ,/PUNCT 페루자의/NOUN 두/NUM 현으로/ADV 구성되어/VERB 있다/VERB ./PUNCT 
+메신저는/NOUN 악천후로/ADV 인하여/VERB 이틀/ADV 연기된/VERB 2004년/NOUN 8월/NOUN 3일/NOUN ,/PUNCT 케이프/NOUN 커내배럴/NOUN 공군기지에서/ADV 발사되었다/VERB ./PUNCT 
+배우/NOUN 장동건의/NOUN 이미지를/NOUN 보고싶다/VERB ./PUNCT 
+해물과/NOUN 등뼈찜/NOUN 감칠맛/NOUN 납니다/VERB 
+정직하게/ADV 운영하시는/VERB 것/NOUN 같아/VERB 좋습니다/ADJ 
+만리장성을/NOUN 만든/VERB 사람은/NOUN ?/PUNCT 
+그랬는데/VERB 최근에/ADV 또/ADV 홀리를/NOUN 찾아가/VERB 한국에서/ADV 제기된/VERB 등정/NOUN 의혹을/NOUN 브리핑했다는/VERB 이야기를/NOUN 전해들었다/VERB ./PUNCT 
+손님을/NOUN 배려하는/VERB 마음이/NOUN 조금/ADV 부족한/ADJ 것/NOUN 같군요/ADJ ./PUNCT 
+항공기상청/NOUN 관측자료에/ADV 따르면/VERB 사고/NOUN 직전인/VERB 낮/NOUN 12시께/ADV 강릉/NOUN 날씨는/NOUN 초속/NOUN 5.5m의/NOUN 바람이/NOUN 불고/VERB 있었고/VERB 사람이/NOUN 육안으로/ADV 볼/VERB 수/NOUN 있는/VERB 시정/NOUN 거리는/NOUN 10㎞/NOUN ,/PUNCT 구름은/NOUN 관측지점에서/ADV 1천200m/NOUN 상공에/ADV 옅게/ADV 깔려/VERB 대체로/ADV 양호한/VERB 기상상태였던/VERB 것으로/ADV 나타났다/VERB ./PUNCT 
+총/NOUN 11곡의/NOUN 트랙으로/ADV 구성되어/VERB 있고/VERB ,/PUNCT 전체/NOUN 러닝타임은/NOUN 42분/NOUN 10초다/VERB ./PUNCT 
+이러한/DET 사실은/NOUN 후량/NOUN 멸망/NOUN 후에도/ADP 소씨가/NOUN 높은/ADJ 명망을/NOUN 지카고/VERB 있었다는/VERB 것을/NOUN 간접으로/ADV 표현한/VERB 것이라/VERB 볼/VERB 수/NOUN 있었다/ADJ ./PUNCT 
+주일/NOUN 미군의/NOUN 시설이나/NOUN 나하/NOUN 항의/NOUN 항만/NOUN 시설까지/ADV 포함하면/VERB 민간의/NOUN 도시/NOUN 이용/NOUN 면적은/NOUN 훨씬/ADV 좁아진다/VERB ./PUNCT 
+칼국수/NOUN 밀가루/NOUN 냄새/NOUN 대박이고/VERB 국물도/NOUN 적고/VERB 애들/NOUN 땜에/ADP 시끄러워서/VERB 집에/ADV 와/VERB 급체해서/VERB 죽을/VERB 뻔/ADV 했어요/VERB ㅜㅜ/X 
+셜록홈즈가/NOUN 뭐하는/VERB 사람이야/VERB 
+오는/VERB 8일/NOUN 개막하는/VERB 시즌/NOUN 첫/NUM 메이저대회/NOUN 마스터스를/NOUN 통해/VERB 골프/NOUN 복귀를/NOUN 준비하고/VERB 있는/VERB 타이거/NOUN 우즈(미국)에게/NOUN 또/ADV 악재가/NOUN 터졌다/VERB ./PUNCT 
+LH에/ADV 따르면/VERB 대상/NOUN 토지는/NOUN 산업시설용지(공장•연구시설)/NOUN 38필지(24만5096㎡)와/NOUN 물류유통시설용지가/NOUN 1필지(9012㎡)다./VERB 
+라자/NOUN 장관의/NOUN 방한에는/ADV 재정부(Ministry/NOUN of/NOUN Finance/NOUN )/PUNCT 차관/NOUN ,/PUNCT 쿠알라룸푸르/NOUN 부시장/NOUN ,/PUNCT 푸트라자야(신행정수도)/NOUN 시장/NOUN ,/PUNCT 경제인연합회/NOUN 감사/NOUN ,/PUNCT 각종/NOUN 정부기금/NOUN 담당자/NOUN 등이/NOUN 수행하고/VERB 있어/VERB 향후/ADV 말레이시아에/ADV 온라인전기차를/NOUN 보급하고/VERB 녹색기술에/ADV 투자하는/VERB 종합적인/ADJ 국가/NOUN 전략/NOUN 수립을/NOUN 위한/VERB 현장/NOUN 방문/NOUN 성격을/NOUN 겸하고/VERB 있다/VERB ./PUNCT 
+또/ADV 일부/NOUN 소매체인점의/NOUN 스토어/NOUN 크레딧카드는/NOUN 자사/NOUN 매장에서만/ADV 사용할/VERB 수/NOUN 있는/VERB 것도/NOUN 있다/VERB ./PUNCT 
+가장/ADV 먼저/ADV 온톨로지/NOUN 개념을/NOUN 적용한/VERB 컴퓨터/NOUN 분야는/NOUN 역시/ADV 지식표현과/NOUN 활용을/NOUN 연구하는/VERB 인공지능/NOUN 분야다/VERB ./PUNCT 
+또/ADV 2.26사건을/NOUN 일으킨/VERB 청년장교와도/ADV 각별한/ADJ 사이로/ADV 무력에/ADV 의한/VERB 실력행사를/NOUN 조장하였다고/VERB 한다/VERB ./PUNCT 
+미국에서/ADV 2011년/NOUN 6월까지/ADV 이/DET 앨범은/NOUN 250만/NUM 장의/NOUN 판매고와/NOUN 992,000만의/NUM 디지털/NOUN 판매를/NOUN 해/VERB 2011년/NOUN 상반기/NOUN 가장/ADV 많은/ADJ 판매고를/NOUN 올린/VERB 앨범이/NOUN 되었다/VERB ./PUNCT 
+강아지/NOUN 이미지를/NOUN 찾으시오/VERB 
+원장님이/NOUN 너무/ADV 친절하시고/VERB 센스/NOUN 만점이에요/VERB ./PUNCT 
+게다가/ADV 프랑스/NOUN 왕으로/ADV 즉위한/VERB 루이/NOUN 18세의/NOUN 시대착오적인/ADJ 통치에/ADV 대해/VERB 민중은/NOUN 점차/ADV 불만을/NOUN 품기/NOUN 시작했다/VERB ./PUNCT 
+대학에서/ADV 항공/NOUN 기관학을/NOUN 전공한/VERB 후/NOUN 해군/NOUN 항공대의/NOUN 비행사가/NOUN 되었다/VERB ./PUNCT 
+맛/NOUN 때문에/ADP 불친절해도/VERB 가끔/ADV 갑니다/VERB ./PUNCT 
+맛있다는/VERB 댓글/NOUN 보고/VERB 주문했는데요/VERB 
+용문산에는/ADV 보물로/ADV 지정된/VERB 대장전을/NOUN 비롯하여/VERB ,/PUNCT 보광명전(普光明殿)/NOUN 등/NOUN 20여/NOUN 동의/NOUN 건물이/NOUN 있는/VERB 대찰/NOUN 용문사가/NOUN 있다/ADJ ./PUNCT 
+명종/NOUN 8년(1553년)/NOUN 9월에는/NOUN 실화로/ADV 강녕전에/ADV 큰/ADJ 불이/NOUN 나서/VERB 사정전/NOUN ,/PUNCT 근정전/NOUN ,/PUNCT 경회루/NOUN ,/PUNCT 함원전/NOUN ,/PUNCT 청연루만을/NOUN 남긴/VERB 채/NOUN 편전과/NOUN 침전/NOUN 구역의/NOUN 건물이/NOUN 모두/ADV 소실되었으며/VERB ,/PUNCT 역대로/ADV 내려오던/VERB 진귀한/ADJ 보배와/NOUN 서적/NOUN ,/PUNCT 왕과/NOUN 왕비의/NOUN 고명/NOUN ,/PUNCT 의복/NOUN ,/PUNCT 거마/NOUN 등이/NOUN 불타버렸다/VERB ./PUNCT 
+여기서/ADV 인천공항까지/ADV 거리가/NOUN 어떻게/ADV 돼/VERB 
+6세/NOUN 아이/NOUN 유치/NOUN 한/NUM 개가/NOUN 흔들려서/VERB 방문을/NOUN 하게/VERB 되었는데/VERB 치료/NOUN 기구/NOUN 하나/NUM 하나/NOUN 설명해주면서/VERB 무서운/ADJ 게/NOUN 아니라고/VERB 아이를/NOUN 안심/NOUN 시켜주더군요/VERB ./PUNCT 
+회사까지/ADV 가는/VERB 길/NOUN 좀/ADV 보여줘/VERB 
+광고글이나/NOUN 도배글/NOUN 써서/ADV BLOCK/NOUN 된/VERB ID는/NOUN 풀어드리지/VERB 않습니다/VERB ./PUNCT 
+암튼/ADV 이쁘게/ADV 꾸며진/VERB 가게/NOUN !/PUNCT 
+또/ADV 로봇청소기에/ADV 달린/VERB 방범용/NOUN 카메라를/NOUN 이용해/VERB 외부의/NOUN 침입을/NOUN 감시하거나/VERB 집안/NOUN 내부의/NOUN 상태를/NOUN 확인할/VERB 수도/NOUN 있다/ADJ ./PUNCT 
+가좌동/NOUN 목재단지/NOUN 쪽에/ADV 새로/ADV 생긴/VERB 건물입니다/VERB ./PUNCT 
+도대체/ADV 왜/ADV 그러나/VERB 유심히/ADV 봤더니/VERB 휴대폰으로/ADV 고스톱/NOUN 게임을/NOUN 하고/VERB 있더군요/VERB ./PUNCT 
+바로크/NOUN 시대의/NOUN 협주곡들은/NOUN 대부분/ADV 쳄발로와/NOUN 오르간을/NOUN 위해/VERB 쓰인/VERB 협주곡이/NOUN 많고/VERB ,/PUNCT 바이올린이나/NOUN 첼로의/NOUN 협주곡에도/ADV 오르간이나/NOUN 쳄발로가/NOUN 쓰일/VERB 정도로/ADV 이/DET 두/NUM 악기의/NOUN 영향력은/NOUN 막강했다/ADJ ./PUNCT 
+몇/DET mile/NOUN 가야/VERB 대전이야/VERB 
+이에/ADV 그는/PRON 이탈리아로/ADV 진군하다가/VERB 자식들과/ADV 함께/ADV 부하들에게/ADV 피살되었다/VERB ./PUNCT 
+접속/NOUN 빈도가/NOUN 가장/ADV 높은/VERB 모바일SNS/NOUN 사용자들은/NOUN 시사현안과/NOUN 트렌트/NOUN 파악에/ADV 민감하게/ADV 반응하고/VERB ,/PUNCT 각/DET 분야/NOUN 전문가에/ADV 대한/VERB 높은/ADJ 관심을/NOUN 가지는/VERB 것으로/ADV 분석됐다/VERB ./PUNCT 
+민주당에선/ADV 또/ADV 유필우/NOUN 전/NOUN 의원이/NOUN 25일/NOUN 인천시장/NOUN ,/PUNCT 안희정/NOUN 최고위원이/NOUN 27일/NOUN 충남지사/NOUN 도전을/NOUN 선언할/VERB 예정이어서/VERB 분위기는/NOUN 점점/ADV 고조되고/VERB 있다/VERB ./PUNCT 
+일본인들은/NOUN 막걸리를/NOUN 김치나/NOUN 찌개/NOUN 같은/VERB 매운/ADJ 음식과/ADV 궁합이/NOUN 맞다/VERB 생각하고/VERB 즐겨/VERB 마신다/VERB ./PUNCT 
+친절하시고/VERB 리필도/NOUN 잘/ADV 해/VERB 주시고/VERB 회도/NOUN 싱싱하네요/ADJ !/PUNCT 
+정말/ADV 동구의/NOUN 맛집으로/ADV 강추합니다/VERB .../PUNCT 
+다른/ADJ 다크파이브와는/ADV 다르게/ADV 다른/ADJ 생물들을/NOUN 흡수해/VERB 변신을/NOUN 하거나/VERB 자신의/PRON 힘만으로/ADV 싸우는/VERB 게/NOUN 전부이다/VERB ./PUNCT 
+아이/NOUN 엄마들하고/ADV 갔다가/VERB 엄청/ADV 후회/NOUN !/PUNCT 
+당시/ADV 벨렌코/NOUN 중위는/NOUN 착륙지점을/NOUN 잘못/ADV 판단해/VERB 활주로/NOUN 중간/NOUN 지점에서/ADV 착륙해서/VERB 250m나/NOUN 오버런(Over/NOUN run)하면서/VERB 활주로/NOUN 끝의/NOUN 철조망을/NOUN 돌파/VERB ,/PUNCT 논바닥에서/ADV 겨우/ADV 멈추었다/VERB ./PUNCT 
+주변의/NOUN 왠만한/ADJ 치과보다는/ADV 강추입니다/VERB 
+2007년/NOUN 12월/NOUN 10일에/NOUN 베이징/NOUN 지구에서/ADV ,/PUNCT 12월/NOUN 16일에/NOUN 톈진/NOUN 지구까지/ADV 완공하였다/VERB ./PUNCT 
+캐나다/NOUN 수도/NOUN 좀/ADV 알려줘/VERB 
+할리우드를/NOUN 대표하는/VERB 수퍼히어로/NOUN 코믹스의/NOUN 대표주자/NOUN DC코믹스의/NOUN 수퍼/NOUN 히어로/NOUN 캐릭터/NOUN 중에서도/ADP 가장/ADV 많은/ADJ 인기를/NOUN 얻고/VERB 있는/VERB 최고/NOUN 캐릭터로/ADV 실사로는/ADV 최초로/ADV 영화화되는/VERB 것이다/VERB ./PUNCT 
+장난감들은/NOUN 주로/ADV 어린/ADJ 아이들과/NOUN 가정동물에/ADV 관련된/VERB 물건으로/ADV 여겨지지만/VERB 어른들과/NOUN 야생/NOUN 동물들도/NOUN 장난감과/ADV 놀기도/VERB 한다/VERB ./PUNCT 
+1시간이/NOUN 지나도/VERB 의사는/NOUN 보이질/VERB 않고/VERB 간호사는/NOUN 이렇다/VERB 할/VERB 이유나/NOUN 말도/NOUN 없고/ADJ 
+박지성/NOUN 최근/NOUN 뉴스/NOUN 
+남해/ADV 와서/VERB 물회/NOUN 안/ADV 먹고/VERB 가면/VERB 후회합니다/VERB 
+노사/NOUN 양측은/NOUN 18일/NOUN 파업/NOUN 개시/NOUN 이후/ADP 본교섭과/NOUN 실무교섭을/NOUN 진행하고/VERB 있지만/VERB 비방전을/NOUN 계속/ADV 하며/VERB 합의에/ADV 이르지/VERB 못하고/VERB 있는/VERB 상황이다/VERB ./PUNCT 
+내부적/ADJ 구성/NOUN 요소는/NOUN 다음과/ADV 같은/VERB 것들이/NOUN 있다/ADJ ./PUNCT 
+가시광선을/NOUN 구성하는/VERB 색/NOUN 중에서/ADP 파장이/NOUN 가장/ADV 길다/ADJ ./PUNCT 
+한편/ADV ,/PUNCT 중국/NOUN 서안시에서도/ADV 호혜평등의/NOUN 원칙하에/ADV 오는/VERB 2012년까지/ADV 2013순천만국제정원박람회장에/ADV 중국/NOUN 전통정원을/NOUN 조성키로/VERB 헸다/VERB ./PUNCT 
+따스하면서도/VERB 격조/NOUN 있고/VERB 편안한/ADJ 분위기네요/VERB 
+로댕과/NOUN 부르델이/NOUN 죽은/VERB 뒤/NOUN ,/PUNCT 데스피오와/ADV 함께/ADV 프랑스/NOUN 조각계를/NOUN 대표하였던/VERB 조각가이다/VERB ./PUNCT 
+거기에/ADV 김치랑/ADV 같이/ADV 먹으니/VERB 정말/ADV 환상적인/ADJ 맛입니다/VERB 
+이/DET 곡도/NOUN 다른/ADJ 쇼팽의/NOUN 연습곡처럼/ADV A-B-A의/NOUN 세도막/NOUN 형식을/NOUN 띤다/VERB ./PUNCT 
+은행법에는/ADV 6개월에/NOUN 한/NUM 번씩/ADP 비금융주력자/NOUN 여부를/NOUN 심사할/VERB 의무가/NOUN 금융위에/ADV 있다/ADJ ./PUNCT 
+우리/PRON 아빠/NOUN 직장이/NOUN 어디더라/VERB ?/PUNCT 
+1753년(영조/NOUN 29/NUM )/PUNCT 3월/NOUN 26일/NOUN 홍천현감(洪川縣監)을/NOUN 지내고/VERB ,/PUNCT 1755년(영조/NOUN 31/NUM )/PUNCT 5월/NOUN 7일/NOUN 향년/NOUN 54세로/ADV 별세하였다/VERB ./PUNCT 
+세계/NOUN 성별차/NOUN 보고서(The/NOUN Global/NOUN Gender/NOUN Gap/NOUN Report)는/NOUN 2005년/NOUN 세계경제포럼에/ADV 의해/VERB 처음/ADV 발간된/VERB 보고서이다/VERB ./PUNCT 
+예비/NOUN 부부님들은/NOUN 웨딩/NOUN 플래너한테/NOUN 얘기하지/NOUN 마시고/VERB 직접/ADV 가서/VERB 상담해보세요/VERB ../PUNCT 
+구글/NOUN CEO/NOUN 누구/PRON 
+이/DET 소설은/NOUN 1965년에/NOUN 발표되어/VERB 많은/ADJ 화제를/NOUN 낳았다/VERB ./PUNCT 
+구글/NOUN CEO에/ADV 대해/VERB 아는/VERB 걸/NOUN 전부/ADV 말해줘/VERB 
+이/DET 값들을/NOUN 통해/VERB 용자리/NOUN 시그마는/NOUN 우리/PRON 은하/NOUN 내를/ADP 매우/ADV 이심률이/NOUN 큰(0.3,/VERB 태양은/NOUN 0.06이다)/VERB 궤도를/NOUN 그리며/VERB 움직이고/VERB 있음을/NOUN 알/VERB 수/NOUN 있다/ADJ ./PUNCT 
+옥스퍼드/NOUN 애널리티카는/NOUN "김정은/NOUN 체제의/NOUN 건재함을/NOUN 과시하기/NOUN 위해/VERB 국지적/ADJ 무력도발이/NOUN 일어날/VERB 가능성이/NOUN 있고/VERB 김일성/NOUN 탄생/NOUN 100주년/NOUN 기념행사가/NOUN (군사적/ADJ 긴장의/NOUN )/PUNCT 서막이/NOUN 될/VERB 것이다"고/VERB 예상했다/VERB ./PUNCT 
+이를/PRON 통해/VERB 서민/NOUN 체감/NOUN 물가/NOUN 관리에/ADV 각별히/ADV 신경을/NOUN 쓰겠습니다/VERB ./PUNCT 
+약국/NOUN 문/NOUN 연/VERB 곳/NOUN 알려줘/VERB 
+맛도/NOUN 좋고/VERB 양도/NOUN 많아/VERB 타/ADJ 지역에서도/ADV 많이/ADV 온다/VERB 
+1인당/NOUN 비용은/NOUN 시푸드/NOUN 레스토랑과/ADV 차이가/NOUN 없음/NOUN ./PUNCT 
+모든/DET 해장국/NOUN 국물/NOUN 맛/NOUN 좋습니다/ADJ ./PUNCT 
+번화가/NOUN 상권/NOUN 이마트/NOUN 옆이라/VERB 만취자들이/NOUN 눈에/ADV 자주/ADV 띈다/VERB 
+게가/NOUN 좋아서/VERB 그런지/VERB 살이/NOUN 아주/ADV 많고/VERB 맛이/NOUN 좋았답니다/ADJ ./PUNCT 
+배달/NOUN 알바/NOUN 고딩들/NOUN 같은데/VERB 담배/NOUN 피고/VERB 있어도/VERB 사장이/NOUN 뭐라/VERB 안/ADV 함/NOUN ./PUNCT 
+주차장/NOUN 찾아/VERB 줘/VERB 
+한우/NOUN 값도/NOUN 내렸다는대/VERB 갈비/NOUN 값은/NOUN 안/ADV 내리나요/VERB ?/PUNCT 
+세계적으로/ADV 주목받고/VERB 있는/VERB 모바일IPTV/NOUN ,/PUNCT 클라우드/NOUN 컴퓨팅/NOUN 등/NOUN 미래/NOUN 융합서비스/NOUN 부문에서/ADV 국내/NOUN 연구진들이/NOUN 두각을/NOUN 나타내고/VERB 있다/VERB ./PUNCT 
+올해로/ADV 37회를/NOUN 맞는/VERB 소방안전봉사상은/NOUN 지난/VERB 1974년부터/ADV 화재/NOUN 등/NOUN 각종/NOUN 재난현장의/NOUN 일선에서/ADV 봉사하고/VERB 있는/VERB 모범/NOUN 소방공무원들을/NOUN 선발•표창하는/VERB 행사로서/ADV ,/PUNCT 올해까지/ADV 수상자는/NOUN 모두/ADV 513명에/ADV 이른다/VERB ./PUNCT 
+전동기의/NOUN 출력이/NOUN ,/PUNCT 한국철도공사/NOUN 3000호대/NOUN 전동차에/ADV 비해서는/VERB 약간/ADV 증대된/VERB 국산/NOUN 210Kw의/NOUN 모델을/NOUN 사용하였으며/VERB ,/PUNCT 보조전원장치(SIV)는/NOUN 현대로템의/NOUN 180kVA/NOUN IGBT/NOUN SIV를/NOUN 사용하였다/VERB ./PUNCT 
+서울에서/ADV 찾아봐/VERB 
+내려다/VERB 보는/VERB 경치가/NOUN 정말/ADV 좋습니다/ADJ 
+한강/NOUN 노들섬/NOUN 5만3000㎡에/ADV 복합문화예술시설을/NOUN 만드는/VERB 한강예술섬/NOUN 사업도/NOUN 마찬가지다/VERB ./PUNCT 
+강아지/NOUN 사진/NOUN 좀/ADV 보여줘/VERB 
+생고기의/NOUN 질이/NOUN 넘/ADV 좋아여/ADJ ./PUNCT 
+불은/NOUN 이웃/NOUN 주민의/NOUN 신고로/ADV 출동한/VERB 소방차가/NOUN 도착하기/NOUN 전/ADP 10여/NOUN 분/NOUN 만에/ADP 이미/ADV 꺼졌지만/VERB 집주인/NOUN 80살/NOUN 한/NOUN 모씨가/NOUN 숨진/VERB 채/ADV 발견됐습니다/VERB ./PUNCT 
+전시/NOUN 시설이/NOUN 많진/VERB 않아도/VERB 아기자기한/ADJ 야외/NOUN 공원이/NOUN 좋아요/ADJ 
+소설에는/ADV 살인까지/ADV 불사하는/VERB 강압적/ADJ 절식(节食)/NOUN 정책을/NOUN 펼치는/VERB 대통령/NOUN 미키/NOUN ,/PUNCT 미키와의/NOUN 친분을/NOUN 이용해/VERB 고지방/NOUN 튀김/NOUN 음식으로/ADV 덕/NOUN 시티의/NOUN 식품시장을/NOUN 독점하는/VERB 대기업/NOUN 회장/NOUN 존/NOUN ,/PUNCT 정부/NOUN 시책을/NOUN 두려워하면서도/VERB 고지방/NOUN 음식에/ADV 길든/VERB 식욕을/NOUN 버리지/VERB 못하는/VERB 존의/NOUN 조카/NOUN 도널드/NOUN 등/NOUN 디즈니/NOUN 만화영화/NOUN '도널드/NOUN 덕'에/ADV 나오는/VERB 캐릭터들이/NOUN 그대로/ADV 등장한다/VERB ./PUNCT 
+장다리/NOUN 식당의/NOUN 발전은/NOUN 물론/VERB 이/DET 사이트를/NOUN 찾아/VERB 정보를/NOUN 얻어/VERB 가시는/VERB 분들에게도/NOUN 발전이/NOUN 있길/NOUN 바랍니다/VERB ./PUNCT 
+메이지/NOUN 유신/NOUN 후/ADP ,/PUNCT 오코치/NOUN 계/NOUN 나가사와/NOUN 마쓰다이라/NOUN 가는/NOUN 모든/DET 가문이/NOUN 오코치/NOUN 성(姓)으로/ADV 돌아갔다/VERB ./PUNCT 
+월마트가/NOUN 1위를/NOUN 되찾기는/NOUN 2008년/NOUN 이후/ADP 2년만이다/VERB ./PUNCT 
+맥도날드/NOUN 직원/NOUN 교육/NOUN 좀/ADV 언제/ADV 제데로/ADV 시키실래요/VERB ?/PUNCT 
+〈주간/NOUN 소년/NOUN 점프〉의/NOUN 편집장으로/ADV ,/PUNCT 최초/NOUN 등장시의/NOUN 나이는/NOUN 46살/NOUN ./PUNCT 
+솔직히/ADV 강된장밥은/NOUN 짠대/VERB 계속/ADV 먹게/VERB 됨/NOUN ./PUNCT 
+브라질/NOUN 정부는/NOUN 월소득/NOUN 70헤알(약/NOUN 4만7천원/NOUN )/PUNCT 미만을/NOUN 극빈곤층으로/ADV 분류하고/VERB 있다/VERB ./PUNCT 
+고기가/NOUN 얇아서/VERB 애들도/NOUN 넘/ADV 잘/ADV 먹고/VERB 안주로도/ADV 끝내줘요/VERB 
+해/NOUN 뜨는/VERB 거도/NOUN 잘/ADV 보였구요/VERB 
+짜장면이/NOUN 땡기는/VERB 날/NOUN 시켜보세요/VERB 
+가까운/ADJ 학교와/NOUN 잘/ADV 조성된/VERB 공원/NOUN 때문에/ADP 이/DET 곳으로/ADV 이사하게/VERB 되었습니다/VERB ./PUNCT 
+파전은/NOUN 부드러워서/VERB 좋은데/VERB 해물/NOUN 토핑이/NOUN 넘/ADV 적고/VERB 기름기가/NOUN 넘/ADV 많아서/VERB 아쉬워요/ADJ 
+기름/NOUN 좀/ADV 적게/ADV 넣으시면/VERB 괜찮을/VERB 듯하네요/ADJ 
+가격이/NOUN 좀/ADV 많이/ADV 올라/VERB 예전처럼/ADV 자주는/ADV 먹으러/VERB 안/ADV 가는/VERB 곳/NOUN ./PUNCT 
+비판이/NOUN 거세지자/VERB 스키경기가/NOUN 열리는/VERB 휘슬러/NOUN 시당국은/NOUN 입장권/NOUN 구입에/ADV 들인/VERB 예산이/NOUN 주민들의/NOUN 재산세가/NOUN 아니라/VERB ,/PUNCT 지역/NOUN 내/NOUN 호텔의/NOUN 법인세에서/ADV 충당됐다고/VERB 해명하고/VERB 나섰다/VERB ./PUNCT 
+사람들도/NOUN 친절하고/VERB 맛도/NOUN 짱이고/VERB !/PUNCT 
+맛있는/ADJ 거/NOUN 먹을려면/VERB 이/PRON 정도/ADP 기다림은/NOUN 감수할/VERB 수/NOUN 있는/VERB 거죠/VERB !/PUNCT 
+1949년/NOUN 반민족행위특별조사위원회가/NOUN 구성되어/VERB 활동을/NOUN 시작하면서/VERB ,/PUNCT 영남/NOUN 지역을/NOUN 비롯한/VERB 전국/NOUN 신문에서/ADV 끈덕지게/ADV 독립/NOUN 운동가들을/NOUN 괴롭혔으며/VERB 성고문도/NOUN 불사한/VERB '독립/NOUN 투사의/NOUN 흡혈귀/NOUN '/PUNCT 최석현에/ADV 대한/VERB 대서특필이/NOUN 시작되었다/VERB ./PUNCT 
+또한/ADV 1980년/NOUN 광주항쟁/NOUN 당시에는/ADV ``광주/NOUN 사람들/NOUN 다/ADV 때려/VERB 죽여야/VERB 한다''고/VERB 말했다고/VERB 한다/VERB ./PUNCT 
+좋은/ADJ 여행이/NOUN 되었지요/VERB 
+근데/ADV 진짜/ADV 이/DET 초등학교로/ADV 얘들/NOUN 보내지/VERB 마세요/VERB 
+두고/VERB 두고/VERB 잊을/VERB 수가/NOUN 없다/ADJ ./PUNCT 
+일본/NOUN 인구/NOUN 
+가격도/NOUN 저렴해서/VERB 부담/NOUN 없이/VERB 먹을/VERB 수/NOUN 있어요/ADJ 
+한국/NOUN 우편/NOUN ,/PUNCT 우표/NOUN 제도의/NOUN 선각자이기도/VERB 하다/VERB ./PUNCT 
+한/NUM 마디로/ADV 모공이/NOUN 넓어지면/VERB 각/DET 종/NOUN 피부트러블이/NOUN 생기기/NOUN 때문에/ADP 조기에/ADV 모공/NOUN 관리를/NOUN 하는/VERB 것이/NOUN 좋으며/VERB ,/PUNCT 이미/ADV 모공이/NOUN 넓어져/VERB 고민이라면/VERB 전문적인/ADJ 치료/NOUN 방법을/NOUN 통해/VERB 세심한/ADJ 관리를/NOUN 하는/VERB 것이/NOUN 좋다는/VERB 결론이다/VERB ./PUNCT 
+향어회/NOUN 저렴하고/VERB 풍족하게/ADV 먹을/VERB 수/NOUN 있어요/ADJ ./PUNCT 
+갤럭시/NOUN s3를/NOUN 보여줘/VERB 
+윤흔의/NOUN 동생이며/VERB 윤훤의/NOUN 형이다/VERB ./PUNCT 
+석양/NOUN 이미지를/NOUN 보여주시오/VERB 
+미국/NOUN 사용자들이/NOUN 가장/ADV 많네요/ADJ ./PUNCT 
+회사까지/ADV 어떻게/ADV 가지/VERB 
+여기서/ADV 공항까지/ADV 몇/DET 마일이야/VERB 
+그는/PRON 맨유에/ADV 입단한/VERB 이후/NOUN 놀라울/VERB 정도로/ADV 발전하고/VERB 있다/VERB ./PUNCT 
+맛도/NOUN 좋고/VERB 깨끗하고/VERB 조미료도/NOUN 많이/ADV 안/ADV 쓰시는/VERB 것/NOUN 같아요/ADJ ./PUNCT 
+13일부터/ADV 16일까지는/ADV 3박/NOUN 4일의/NOUN 일정으로/ADV 홈스테이가/NOUN 진행된다/VERB ./PUNCT 
+전화/NOUN 받으시는/VERB 분/NOUN ,/PUNCT 배달하시는/VERB 분들도/NOUN 친절하시고/ADJ ./PUNCT 
+실력이/NOUN 좋으신/VERB 남자분인데/VERB 가끔/ADV 별로일/VERB 때도/NOUN 있어요/ADJ 
+또한/ADV 대회에/ADV 스폰서십을/NOUN 도입하여/VERB 코카콜라가/NOUN 후원함으로써/ADV 대회가/NOUN 활성화되었다/VERB ./PUNCT 
+그/DET 수치는/NOUN Journal/NOUN Citation/NOUN Reports(JCR)의/NOUN 데이터의/NOUN 하나로서/ADV 수록된다/VERB ./PUNCT 
+&lt;슈퍼스타/NOUN K/NOUN 움직이는/VERB 심리는/NOUN 바로/ADV 강자를/NOUN 이기는/VERB 자신들의/PRON 대표자/NOUN '약자의/NOUN 영웅'을/NOUN 기다리는/VERB 마음이다/VERB ./PUNCT 
+넘/ADV 친절하시구/VERB 가격/NOUN 대비/NOUN 재료두/NOUN 아낌/NOUN 없이/ADV 넣으시는/VERB 것/NOUN 같아요/ADJ 
+가까운/ADJ 이웃/NOUN ,/PUNCT 친구들과/ADV 사랑과/NOUN 우정을/NOUN 나누기에/ADV 너무나/ADV 좋은/VERB 곳입니다/VERB ./PUNCT 
+사모님도/NOUN 미인이시고/VERB 친절하세요/ADJ 
+검도부원이자/VERB 선배인/VERB 사야코와는/ADV 방과후의/NOUN 화장실에서/ADV 담배를/NOUN 피던중/VERB ,/PUNCT 현장을/NOUN 목격당한/ADJ 것으로/ADV 악연을/NOUN 맺었으나/VERB ,/PUNCT 코지로의/NOUN 설득으로/ADV 사과를/NOUN 하는/VERB 것으로/ADV 일단락/NOUN 맺었다/VERB ./PUNCT 
+단/ADV ,/PUNCT 그랜드/NOUN 카니발R은/NOUN 1종/NOUN 보통면허/NOUN 소지자만/NOUN 신청이/NOUN 가능하다/ADJ ./PUNCT 
+이들이/PRON 조만간/ADV 베이징을/NOUN 점령할/VERB 것이/NOUN 분명해진/VERB 것이었다/VERB ./PUNCT 
+출연금도/NOUN 경영능력을/NOUN 감안해/VERB 배려해야/VERB 한다/VERB ./PUNCT 
+텃밭이나/NOUN 화단에도/ADV 많이/ADV 나타나는/VERB 종으로/ADV 북아메리카/NOUN 식민시대일/VERB 때에도/ADV 아주/ADV 흔한/ADJ 일이었다/VERB ./PUNCT 
+대한민국에는/ADV 2012년/NOUN 4월/NOUN 28일/NOUN 정식/NOUN 발매했으며/VERB 가격은/NOUN 22만원이다/VERB ./PUNCT 
+지역별로는/ADV 강원도가/NOUN 16.2%/NOUN 투표율로/ADV 가장/ADV 높았고/VERB ,/PUNCT 뒤를/NOUN 이어/VERB 전남/NOUN 16.2/NOUN %,/PUNCT 제주/NOUN 15.8/NOUN %,/PUNCT 충북/NOUN 15.0%/NOUN 등의/NOUN 순이었다/VERB ./PUNCT 
+에디슨이/NOUN 누구야/VERB 
+강남역/NOUN 부근/NOUN ATM은/NOUN 
+특히/ADV 미단외국인학교의/NOUN 사업이/NOUN 진행되면서/VERB 재미동포타운/NOUN 조성/NOUN 등/NOUN 사업추진이/NOUN 더욱/ADV 활발하게/ADV 이뤄질/VERB 것으로/ADV 기대되며/VERB 경제자유구역/NOUN 개발에/ADV 속도를/NOUN 더할/VERB 것으로/ADV 기대된다/VERB ./PUNCT 
+현재위치에서/ADV 가까운/ADJ 병원까지의/ADV 거리를/NOUN 마일로/ADV 알려주세요/VERB 
+친근하게/ADV 하시고/VERB 깔끔하게/ADV 컷/NOUN 해주시니/VERB 맘에/ADV 드네요/VERB 
+주차장/NOUN 찾아/VERB 줘/VERB 
+경주용과/NOUN 상업용/NOUN 모터사이클/NOUN 모두를/NOUN 제작하며/VERB 2012년/NOUN 4월/NOUN 폭스바겐/NOUN 그룹의/NOUN 자회사/NOUN 아우디에/ADV 의해/VERB 합병되었다/VERB ./PUNCT 
+머릿결도/NOUN 많이/ADV 상하지/VERB 않아요/VERB 
+2009년에는/NOUN 10주년을/NOUN 맞이했다/VERB ./PUNCT 
+암스테르담에서/ADV 그는/PRON 퍼시/NOUN 윌리엄스가/NOUN 200m에서/ADV 자신의/PRON 뒤를/NOUN 잇는/VERB 것을/NOUN 보았다/VERB ./PUNCT 
+입구는/NOUN 허름해두/VERB 음식이/NOUN 일반/NOUN 횟집이랑/ADV 엄청/ADV 차이가/NOUN 납니다/VERB 
+대전/NOUN 신세계/NOUN 가는/VERB 길/NOUN 
+가까운/ADJ 약국/NOUN 
+배달도/NOUN 가능하고/VERB 홀에서도/ADV 먹을/VERB 수/NOUN 있어요/ADJ 
+야채도/NOUN 푸짐하게/ADV 주거든요/VERB ./PUNCT 
+이날/NOUN 배수정의/NOUN 컨디션은/NOUN 최악이었다/VERB ./PUNCT 
+대한의원은/NOUN 1910년/NOUN 일제강점/NOUN 후/ADP 총독부의원으로/ADV 되었다가/VERB ,/PUNCT 1926년/NOUN 그/DET 부속기관이던/VERB 의학강습소가/NOUN 경성제대에/ADV 편입되면서/VERB 대학병원으로/ADV 개편되었으며/VERB ,/PUNCT 1945년/NOUN 광복/NOUN 이후에는/ADP 서울대학교/NOUN 부속병원이/NOUN 되었다/VERB ./PUNCT 
+박미정/NOUN 질병관리본부/NOUN 전염병관리부/NOUN 연구원은/NOUN "여름철/NOUN 실내/NOUN 습도가/NOUN 높게/ADV 유지되면/VERB 신체/NOUN 균형이/NOUN 깨지고/VERB 작은/ADJ 일에도/ADV 쉽게/ADV 짜증을/NOUN 내기/NOUN 쉬우며/VERB 갖가지/NOUN 질환이/NOUN 유발될/VERB 수/NOUN 있다"면서/VERB "공기청정기나/NOUN 에어컨/NOUN 등을/NOUN 사용해/VERB 실내/NOUN 습도를/NOUN 50~60/NOUN %/PUNCT 이하로/ADP 유지할/VERB 필요가/NOUN 있다"고/VERB 설명했다/VERB ./PUNCT 
+이러한/ADJ 마니의/NOUN 가르침은/NOUN 샤푸르/NOUN 1세의/NOUN 지원을/NOUN 받아/VERB 이란과/NOUN 외부지역까지/ADV 널리/ADV 전파되었으나/VERB 그의/PRON 아들/NOUN 바흐람/NOUN 1세의/NOUN 탄압정책으로/ADV 마니는/NOUN 처형되었고/VERB 신자들은/NOUN 박해를/NOUN 받았다/VERB ./PUNCT 
+말/NOUN 누린내가/NOUN 너무/ADV 심해서/VERB 한/NUM 숟갈도/NOUN 못/ADV 뜨고/VERB 다/ADV 버렸어요/VERB 
+정말/ADV 황당하였습니다/ADJ 
+정부가/NOUN 10일/NOUN 내년도/NOUN 이산화탄소/NOUN 배출량을/NOUN 줄이라며/VERB 세부목표치를/NOUN 제시하고/VERB 나섰기/NOUN 때문이다/VERB ./PUNCT 
+고대/NOUN 중국의/NOUN 우주관은/NOUN 여러/ADJ 가지가/NOUN 있는데/VERB ,/PUNCT 이/PRON 중/ADP 유명한/VERB 것은/NOUN 아래와/ADV 같은/VERB 세가지가/NOUN 있다/ADJ ./PUNCT 
+바실의/NOUN 자택에서/ADV 바실이/NOUN 도슨의/NOUN 군복무/NOUN 경력을/NOUN 파악하는/VERB 장면에서/ADV ,/PUNCT 원어판에서는/ADV 도슨은/NOUN 자신의/PRON 계급을/NOUN 소령(Major)이라고/VERB 밝혔지만/VERB 한국어/NOUN 더빙판에서는/ADV 대령(Colonel)이라고/VERB 오역이/NOUN 되었다/VERB ./PUNCT 
+'남자의/NOUN 자격'에/ADV 출연/NOUN 중인/VERB 뮤지컬/NOUN 음악감독/NOUN 박칼린이/NOUN TV를/NOUN 보다가/VERB 펑펑/ADV 울었다고/VERB 고백해/VERB 눈길을/NOUN 끌고/VERB 있다/VERB ./PUNCT 
+현대카드ZERO는/NOUN 전월/NOUN 이용실적/NOUN ,/PUNCT 할인/NOUN 한도/NOUN ,/PUNCT 할인/NOUN 횟수/NOUN ,/PUNCT 가맹점/ADV 등에/ADV 상관없이/ADV 기본/NOUN 할인율로는/ADV 업계/NOUN 최고/NOUN 수준인/VERB 0.7%의/NOUN 할인/NOUN 혜택을/NOUN 제공한다/VERB ./PUNCT 
+이날/NOUN 완타치/NOUN 콘서트/NOUN 무대에/ADV 게스트로/ADV 참석한/VERB 소녀시대가/NOUN 멋진/ADJ 무대를/NOUN 펼치고/VERB 있다/VERB ./PUNCT 
+하지만/ADV 생태탕/NOUN 진짜/ADV 시원하고/VERB 좋습니다/ADJ 
+점심/NOUN 때/ADP 갈/VERB 거면/VERB 1층에서/ADV 보쌈정식/NOUN 먹는/VERB 게/NOUN 좋겠음/NOUN ./PUNCT 
+음식도/NOUN 다양하게/ADV 나왔다/VERB ./PUNCT 
+정말/ADV 불친절하고/VERB 머리카락도/NOUN 나왔어요/VERB 
+흥분이/NOUN 가라앉지/VERB 않은/VERB 말은/NOUN 한동안/ADV 행사장을/NOUN 휘집고/VERB 뛰어다녀/VERB 관객들이/NOUN 놀라/VERB 소리를/NOUN 지르거나/VERB 피하다/ADV 넘어지기도/VERB 해/VERB 하마터면/ADV 큰/ADJ 불상사가/NOUN 발생할/VERB 뻔/ADV 했다/VERB ./PUNCT 
+반값/NOUN 등록금에/ADV 관해서/VERB 2006년/NOUN 한나라당/NOUN 이주호/NOUN 의원은/NOUN 그/DET 해/NOUN 5.31/NUM 지방선거를/NOUN 앞두고/VERB "대학/NOUN 등록금을/NOUN 절반으로/ADV 줄이겠다"며,/VERB 3조원/NOUN 규모의/NOUN 국가장학기금/NOUN 설립/NOUN 등/NOUN 구체적인/ADJ 실현/NOUN 방안을/NOUN 포함한/VERB 정책을/NOUN 제시했다/VERB ./PUNCT 
+경북도/NOUN 관계자는/NOUN "현장/NOUN 조사를/NOUN 시작하기/NOUN 전부터/ADP 헬기장/NOUN 주변이/NOUN 유력하다는/VERB 얘기를/NOUN 들었다"며/VERB "앞으로/ADV 어떻게/ADV 이/DET 지역을/NOUN 조사할지/VERB 논의/NOUN 중"이라고/VERB 설명했다/VERB ./PUNCT 
+협의회는/NOUN 성명서를/NOUN 통해/VERB 청소년의/NOUN 인터넷게임/NOUN 중독/NOUN 피해가/NOUN 날로/ADV 확산되어/VERB 가는/VERB 현실에서/ADV ,/PUNCT 양/DET 부처와/NOUN 게임산업계의/NOUN 계속되는/VERB 입장차로/ADV 인해/VERB 법안이/NOUN 아직까지/ADV 통과되지/VERB 못한다는/VERB 것은/NOUN 너무도/ADV 안타까운/ADJ 현실이라며/VERB 강한/ADJ 유감을/NOUN 나타냈다/VERB ./PUNCT 
+아담하고/VERB 조용해/ADV 보이는/VERB 내부가/NOUN 눈길을/NOUN 끈다/VERB ./PUNCT 
+막히는/VERB 곳을/NOUN 알려줘/VERB ./PUNCT 
+본/VERB 항의/NOUN 어항구역은/NOUN 다음과/ADV 같다/ADJ ./PUNCT 
+자연산/NOUN 회를/NOUN 먹은/VERB 뒤/NOUN 매운탕이/NOUN 정말/ADV 끝내줘요/VERB ./PUNCT 
+이/PRON 때문에/ADP 서울시는/NOUN 시내버스의/NOUN 재생타이어/NOUN 관리에/ADV 온/ADJ 힘을/NOUN 쏟고/VERB 있지만/VERB 관련법이/NOUN 없고/VERB 막대한/ADJ 비용/NOUN 때문에/ADP 적극적으로/ADV 나서기에/ADV 힘든/VERB 상황이다/VERB ./PUNCT 
+투어가/NOUN 오스트리아에서/ADV 있었다/ADJ ./PUNCT 
+그런데/ADV 어떻게/ADV 이런/ADJ 어처구니없는/VERB 부품결함이/NOUN 일어날/VERB 수/NOUN 있을까요/ADJ ?/PUNCT 
+지금/ADV 강남대로/NOUN 어때/ADJ 
+윤석민이/NOUN 호투한/VERB 웨스턴리그는/NOUN 이날/NOUN 이스턴리그를/NOUN 연장전/NOUN 끝에/ADP 5-4로/ADV 이겼다/VERB ./PUNCT 
+이렇듯/ADV 도쿄대/NOUN 투쟁에서/ADV '대학해체/NOUN ',/PUNCT '자기부정'이라는/VERB 슬로건이/NOUN 등장하였고/VERB ,/PUNCT 대학내/NOUN 문제의/NOUN 테두리를/NOUN 넘어/VERB '학생과/NOUN 국가권력/NOUN 사이의/ADP 싸움'이라는/VERB 형태가/NOUN 만들어졌다/VERB ./PUNCT 
+따라서/ADV 현재는/ADV 경전철로/ADV 차량/NOUN 시스템이/NOUN 다른/ADJ 3호선과는/ADV 분리되어/VERB 독립된/VERB 노선이다/VERB ./PUNCT 
+모든/DET 전투병력을/NOUN 철수시키기/NOUN 시작/NOUN ,/PUNCT 2011년/NOUN 12월/NOUN 15일/NOUN 미국에서/ADV 공식으로/ADV 종전을/NOUN 선언하였으며/VERB 같은/ADJ 해/NOUN 12월/NOUN 18일/NOUN 미군은/NOUN 이라크에서/ADV 완전히/ADV 철수하였다/VERB ./PUNCT 
+의자가/NOUN 소파여서/VERB 편안한/ADJ 느낌에/ADV 맛도/NOUN 가격도/NOUN 좋은/VERB 편/NOUN ㅎ/X 
+검찰이/NOUN 오늘/NOUN 타블로/NOUN 학력/NOUN 위조/NOUN 의혹/NOUN 사건에/ADV 대한/VERB 수사/NOUN 결과를/NOUN 발표했는데요/VERB ./PUNCT 
+이/DET 시절/NOUN 시리아코/NOUN 에라스티/NOUN ,/PUNCT 하신토/NOUN 킨코세스/NOUN ,/PUNCT 루이스/NOUN 레게이로/NOUN ,/PUNCT 일라리오/NOUN ,/PUNCT 마누엘/NOUN 올리바레스/NOUN 라페냐/NOUN 등을/NOUN 영입하면서/VERB 1931-32/NUM 시즌에/ADV 마드리드는/NOUN 무패로/ADV 첫/NUM 리그/NOUN 우승을/NOUN 차지하였고/VERB 1932-33/NUM 시즌에도/ADV 왕좌에/ADV 올랐다/VERB ./PUNCT 
+이/DET 가게의/NOUN 오리/NOUN 불고기는/NOUN 정말/ADV 최고임/NOUN !/PUNCT 
+해물이/NOUN 가득한/VERB 짬뽕/NOUN 국물이/NOUN 아주/ADV 끝내줘요~/VERB 
+서울서/ADV 왔는데/VERB 대만족해요/VERB ./PUNCT 
+근처/NOUN 병원까지/ADV 차로/ADV 얼마나/ADV 걸릴까/VERB 
+여기/PRON 커피는/NOUN 원조의/NOUN 맛을/NOUN 낼/VERB 줄/NOUN 아는/VERB 곳이다/VERB 
+하지만/ADV 여자의/NOUN 출현으로/ADV 새로운/ADJ 내용을/NOUN 알/VERB 수/NOUN 있었다/ADJ ./PUNCT 
+명령어가/NOUN 뒤죽박죽/ADV 완료된다면/VERB 프로그래머가/NOUN 작업하기에/ADV 매우/ADV 어려울/VERB 것이다/VERB ./PUNCT 
+정말/ADV 깔끔하게/ADV 맵고/VERB 맛있어요/ADJ 
+드라마/NOUN 부문/NOUN 여우주연상은/NOUN '더/NOUN 클로저'의/NOUN 카이라/NOUN 세드윅에게/ADV 돌아갔다/VERB ./PUNCT 
+일본에/ADV 와/ADV 100/NOUN %/PUNCT 전력피칭을/NOUN 하면서/VERB 페이스를/NOUN 끌어올리고/VERB 있어도/NOUN 아무런/ADJ 문제가/NOUN 없다"고/VERB 자신감을/NOUN 보였다/VERB ./PUNCT 
+'인간이/NOUN 진화의/NOUN 마지막/NOUN 단계'라는/VERB 주장에/ADV 토를/NOUN 다는듯/ADV 인간의/NOUN 삶의/NOUN 방식과/NOUN 태도에/ADV 비판을/NOUN 가한다/VERB ./PUNCT 
+"경기가/NOUN 좀더/ADV 좋아지면서/VERB 자신감을/NOUN 갖고/VERB 또/CCONJ 기업실적의/NOUN 회복속도가/NOUN 빨라진다라는/VERB 부분이/NOUN 직접적으로/ADV 눈으로/ADV 확인이/NOUN 되면/VERB 오히려/ADV 초기/NOUN 긴축에/ADV 대한/VERB 부정적인/ADJ 영향을/NOUN 압도할/VERB 수/NOUN 있기/NOUN 때문에/VERB ..."/PUNCT 
+서울/NOUN 시내/NOUN 길/NOUN 막히는지/VERB 좀/ADV 봐줘/VERB 
+따라서/ADV 안산시는/NOUN 온난습윤기후구로부터/ADV 한랭동게소우기후구로/ADV 옮아가는/VERB 점이/NOUN 지대로서/ADV 한국의/NOUN 소기후/NOUN 구분상/ADV 중부서안형(DMW)에/ADV 속해/VERB 있다/VERB ./PUNCT 
+집권/NOUN 초기에는/ADV 한나라당이/NOUN 만들어/VERB 놓은/VERB 대통령의/NOUN 성공을/NOUN 위해/VERB 많이/ADV 도와드렸다/VERB ./PUNCT 
+누구보다/ADV 고객을/NOUN 연구하고/VERB 고객에게/ADV 관심을/NOUN 기울여야만/VERB 할/VERB 수/NOUN 있는/VERB 일이고/VERB 홀과/NOUN 주방/NOUN 직원간의/NOUN 호흡/NOUN 역시/ADV 매우/ADV 중요한/ADJ 일이다/VERB ./PUNCT 
+애플/NOUN CEO는/NOUN 누구/PRON 
+감사드리고/VERB 다음에/ADV 또/ADV 갈/VERB 기회가/NOUN 있으면/VERB 꼭/ADV 다시/ADV 연락/NOUN 드릴게요/VERB 
+주요/NOUN 성적은/NOUN 1972년/NOUN 프랑스/NOUN 오픈/NOUN 우승이다/VERB ./PUNCT 
+어쨌든/ADV '멀티/NOUN 타겟팅/NOUN '/PUNCT 액션의/NOUN 가장/ADV 큰/ADJ 장점은/NOUN 바로/ADV 손맛에/ADV 있다/ADJ ./PUNCT 
+행동/NOUN 자체는/NOUN 대담해/VERB 보이지만/VERB 자신의/PRON 감정에/ADV 솔직하게/ADV 따르고/VERB 있는/VERB 것/NOUN 뿐이며/VERB ,/PUNCT 사실은/ADV 순진하고/VERB 마나카만/NOUN 일직선으로/ADV 바라보는/NOUN 일편단심인/VERB 면이/NOUN 있다/ADJ ./PUNCT 
+앞이/NOUN 보이지/VERB 않을/VERB 정도로/ADV 물폭탄이/NOUN 쏟아진/VERB 이날도/ADV 아찔한/ADJ 장면이/NOUN 연출됐다/VERB ./PUNCT 
+제대로/ADV 된/VERB 북카페/NOUN 
+나름/ADV 왕갈비도/NOUN 맛있고/VERB 무엇보다/ADV 내장/NOUN 육수가/NOUN 얼큰시원한/VERB 게/NOUN 조았어요/ADJ 
+갈/VERB 때마다/ADV 분위기가/NOUN 다르고/VERB 계곡도/NOUN 있어서/VERB 아이들/NOUN 물놀이에/ADV 좋아요/ADJ 
+춤추는/VERB 동영상을/NOUN 보고싶습니다/VERB 
+관장님의/NOUN 열정이/NOUN 대단하신/VERB 거/NOUN 같아요/ADJ 
+각/DET 선수는/NOUN 각자의/NOUN 사각형/NOUN 안이나/NOUN 바깥/NOUN 어디로든/ADV 자유롭게/ADV 움직일/VERB 수/NOUN 있다/ADJ ./PUNCT 
+커피/NOUN 한/NUM 잔의/NOUN 여유/NOUN 느껴보세요/VERB 
+전복이/NOUN 주/ADJ 메뉴로/ADV 회/NOUN ,/PUNCT 구이/NOUN ,/PUNCT 찜들이/NOUN 있는데/VERB 어려운/ADJ 손님/NOUN 모시기에/ADV 제격입니다/VERB ./PUNCT 
+고기/NOUN 맛을/NOUN 아는/VERB 사람은/NOUN 이/DET 집/NOUN 다/ADV 알죠~/VERB 
+또/ADV 무선NATE의/NOUN 인기/NOUN 서비스와/NOUN 콘텐츠를/NOUN 모아놓은/VERB `프리존`/NOUN 서비스도/NOUN T옴니아2에서/ADV 사용/NOUN 가능하다/ADJ ./PUNCT 
+필리핀에/ADV 전해진/VERB 것은/NOUN 특히/ADV 남인도/NOUN 계열의/NOUN 것으로/ADV ,/PUNCT 자바어의/NOUN 자바/NOUN 문자에도/ADV 영향을/NOUN 주었다/VERB ./PUNCT 
+본체에/ADV 카메라/NOUN 기능을/NOUN 새로/ADV 탑재한/VERB 것도/NOUN 특징이다/VERB ./PUNCT 
+아주머니/NOUN ,/PUNCT 행복하세요/ADJ ./PUNCT 
+오늘/NOUN 7시에/ADV 하는/VERB 영화는/NOUN 뭐가/PRON 있어/ADJ ?/PUNCT 
+다시는/ADV 절대/ADV !/PUNCT 
+학생들이/NOUN 너무/ADV 많아서/VERB 시끄럽다/VERB 
+아이용/NOUN 치즈닭갈비/NOUN 절대/ADV 시키지/VERB 마세요/VERB 
+영등포점은/NOUN 24시인데다가/VERB 흡연실도/NOUN 잇어서/VERB 정말/ADV 좋은/VERB 것/NOUN 같아요/ADJ 
+진안/NOUN 매사냥이/NOUN 오는/VERB 11월/NOUN 유네스코/NOUN 인류무형문화유산/NOUN 대표목록/NOUN 등재를/NOUN 앞두고/VERB 있다/VERB ./PUNCT 
+이순신은/NOUN 누구/PRON 
+이층/NOUN 방이었는데도/VERB 바다가/NOUN 잘/ADV 보였어요/VERB 
+타보르/NOUN 산/NOUN 정상에는/ADV 1921년에/NOUN 프란체스코/NOUN 수도회가/NOUN 서기/NOUN 4세기/NOUN 비잔틴/NOUN 시대의/NOUN 교회/NOUN 터에/ADV 세운/VERB 예수님의/NOUN 변화(마태복음/NOUN 17장의/NOUN )/PUNCT 기념교회가/NOUN 있으며/VERB ,/PUNCT 또한/ADV 그리스/NOUN 정교회의/NOUN 엘리아/NOUN 기념교회도/NOUN 위치하고/VERB 있다/VERB ./PUNCT 
+생리학에서/ADV Young은/NOUN 1808년에/ADV 했던/VERB ''심장과/NOUN 동맥의/NOUN 기능’이라는/VERB 과목의/NOUN Croonian/NOUN 강의로/ADV 혈류역학에/ADV 중대한/ADJ 기여를/NOUN 했다/VERB ./PUNCT 
+한국어/NOUN 번역판에서도/ADV 그대로/ADV 타이틀로/ADV 쓰고/VERB 있다/VERB ./PUNCT 
+특히/ADV 마이크나/NOUN 음향은/NOUN 내가/PRON 가본/VERB 곳/NOUN 중에/ADP 최고/NOUN !/PUNCT 
+이재오/NOUN 특임장관/NOUN 내정자는/NOUN 23일/NOUN 김문수/NOUN 경기지사가/NOUN 대권후보로/ADV 나설/VERB 경우/NOUN 지원/NOUN 여부에/ADV 대해/VERB "적극적으로/ADV 뒷받침할/VERB 생각도/NOUN 있다"고/VERB 전했다/VERB ./PUNCT 
+객관적으로/ADV 음식/NOUN 맛만/NOUN 가지고는/VERB 합격점/NOUN 주고/VERB 싶으나/VERB 서비스는/NOUN 아직도/ADV 미흡투성이입니다/VERB ./PUNCT 
+터니틴'(Turnitin)사가/NOUN 개발한/VERB 소프트웨어는/NOUN 접수되는/VERB 모든/DET 원서의/NOUN 에세이를/NOUN 데이터베이스에/ADV 입력시킨/VERB 후/NOUN 검색엔진을/NOUN 통해/VERB 인터넷/NOUN 사이트에/ADV 있는/VERB 다른/ADJ 에세이들과/ADV 비슷한/VERB 점이/NOUN 있는지를/VERB 알아본다/VERB ./PUNCT 
+맛도/NOUN 좋고/VERB 그릇도/NOUN 일반/NOUN 국밥집/NOUN 그릇이/NOUN 아니라서/VERB 좋아요/ADJ 
+헬파이어보다/ADV 훨씬/ADV 작은/VERB 이스라엘의/NOUN LAHAT은/NOUN 무게/NOUN 13/NUM kg/NOUN 탄두중량/NOUN 4.5/NUM kg인데도/VERB 불구하고/VERB 유효사거리/NOUN 8/NUM km에/ADV 800/NOUN mm/NOUN 장갑을/NOUN 뚫는다/VERB ./PUNCT 
+재건축추진위와/ADV 함께/ADV 시공사인/VERB 삼성물산/NOUN 건설부문•GS건설/NOUN 컨소시엄은/NOUN 정비구역/NOUN 지정/NOUN 결과가/NOUN 나오기/NOUN 전까진/ADP 섣부른/ADJ 수익률/NOUN 및/CCONJ 추가부담금에/NOUN 대한/VERB 예단은/NOUN 금물이라는/VERB 입장이다/VERB ./PUNCT 
+10.16(일)/NOUN 진행되는/VERB &lt;재미있는/ADJ 물과/NOUN 흙/NOUN 이야기교실/NOUN 아이들에게/NOUN 흙과/NOUN 물의/NOUN 중요성을/NOUN 체험시켜주고/VERB ,/PUNCT 사람과/NOUN 물/NOUN 그리고/CCONJ 토양의/NOUN 이야기도/NOUN 함께/ADV 들려주기에/VERB 더욱/ADV 의미가/NOUN 있다/VERB ./PUNCT 
+나중에/ADV 그/DET 지역에/ADV 자전거도로라도/NOUN 패이고/VERB 공원에/ADV 잡풀이/NOUN 우거지면/VERB 시장/NOUN ,/PUNCT 군수/NOUN 뭐하냐는/VERB 시민들의/NOUN 질책이/NOUN 이어질/VERB 것이/NOUN 아닌가/ADJ ./PUNCT 
+스끼다시가/NOUN 다양하게/ADV 나오는/VERB 편은/NOUN 아니었지만/VERB 회를/NOUN 좋아하는/VERB 저는/PRON 대만족/NOUN ./PUNCT 
+너무/ADV 짜서/ADV 먹기/NOUN 힘들다고/VERB 하니/VERB 반찬으로/ADV 먹으라고/VERB 하는/VERB 곳입니다/VERB 
+그는/PRON 또한/ADV 그/DET 해/NOUN 12월/NOUN 11일/NOUN 다이애나와/ADV 결혼했다/VERB ./PUNCT 
+해주지방법원/NOUN 검사를/NOUN 마지막으로/ADV 1918년/NOUN 관직에서/ADV 물러난/VERB 뒤/NOUN 변호사를/NOUN 개업하였다/VERB ./PUNCT 
+당시/ADV 디즈니/NOUN 컨설턴트와/NOUN 동화/NOUN 작가인/VERB 로버트/NOUN 샌/NOUN 소우시는/NOUN 중국의/NOUN 시/NOUN 목란사를/NOUN 영화로/ADV 만들/VERB 것을/NOUN 제안하고/VERB ,/PUNCT 디즈니는/NOUN 분리된/VERB 두/NUM 개의/NOUN 프로젝트를/NOUN 합치게/VERB 되었다/VERB ./PUNCT 
+제천과/NOUN 충주에서/ADV 가장/ADV 먼저/ADV 세워진/VERB 교회입니다/VERB ./PUNCT 
+189년/NOUN 동탁이/NOUN 소제를/NOUN 폐하여/VERB 홍농왕(弘農王)으로/ADV 강등시켰다가/VERB ,/PUNCT 이듬해/ADV 의병이/NOUN 일어나자/VERB ,/PUNCT 동탁은/NOUN 당시/ADV 낭중령으로/ADV 있던/VERB 이유(李儒)를/NOUN 시켜/VERB 홍농왕에게/ADV 짐새의/NOUN 독을/NOUN 마시게/VERB 하였다/VERB ./PUNCT 
+근데/ADV 진짜/ADV 지저분하고/VERB 수면/NOUN 공간이/NOUN 넘/ADV 좁다/ADJ ./PUNCT 
+숯불에서/ADV 구운/VERB 담백한/ADJ 그/DET 맛/NOUN !/PUNCT 
+자전거/NOUN 타고/VERB 집으로/ADV 가는/VERB 길/NOUN 좀/ADV 알려줘/VERB ./PUNCT 
+KBS1《너는/NOUN 내/NOUN 운명》과/NOUN MBC《신데렐라/NOUN 맨》에서/ADV 주연으로/ADV 출연하였다/VERB ./PUNCT 
+탐사대와/ADV 함께/ADV 출발한/VERB 그날/NOUN 메이플라워호에서/ADV 미끌어져서/VERB 물에/ADV 빠져/VERB 어이없는/VERB 죽음을/NOUN 당했던/VERB 것이다/VERB ./PUNCT 
+집까지/ADV 걸아가는/VERB 길/NOUN 좀/ADV 알려줘/VERB 
+이날/NOUN 기념식에서는/ADV 30년/NOUN 근속사원에/ADV 영업기획실/NOUN 이영하/NOUN 부장/NOUN 외/ADP 1명/NOUN ,/PUNCT 20년/NOUN 근속사원은/ADV 경영지원팀/NOUN 임경룡/NOUN 차장/NOUN 외/ADP 9명/NOUN ,/PUNCT 10년/NOUN 근속/NOUN 사원에는/ADV 영업기획실/NOUN 김진호/NOUN 과장/NOUN 외/ADP 33명/NOUN ,/PUNCT 유공사원으로는/ADV OTC마케팅부/NOUN 안병욱/NOUN 과장/NOUN 외/ADP 26명에/ADV 대한/VERB 표창이/NOUN 있었다/ADJ ./PUNCT 
+물도/NOUN 콸콸/ADV 난방도/NOUN 잘/ADV 됩니다/VERB ./PUNCT 
+얼마전/NOUN 블로그에서/ADV 잠시/ADV 소개한/VERB 적/NOUN 있지만/VERB 뱀부/NOUN 3세대/NOUN 체험단을/NOUN 뽑길래/VERB 신청했다가/VERB 당첨되어/VERB 해당/NOUN 제품을/NOUN 리뷰해/VERB 볼/VERB 수/NOUN 있게/VERB 되었네요/ADJ ./PUNCT 
+무엇보다/ADV 7층/NOUN 통유리에서/ADV 내려다/VERB 본/VERB 야경이/NOUN 예뻐요/ADJ 
+인도가/NOUN 이처럼/ADV 추가/NOUN 원전/NOUN 건설을/NOUN 서두르는/VERB 이유는/NOUN 세계/NOUN 2위/NOUN 인도/NOUN 대국으로/ADV 빠른/ADJ 성장을/NOUN 거듭하고/VERB 있지만/VERB 연료/NOUN 부족과/NOUN 낮은/ADJ 설비/NOUN 가동을/NOUN 이유로/ADP 에너지/NOUN 부족/NOUN 문제를/NOUN 겪고/VERB 있기/NOUN 때문이다/VERB ./PUNCT 
+국세청이/NOUN SK그룹/NOUN 핵심/NOUN 계열사/NOUN 중/ADP 하나인/VERB SK증권에/ADV 대한/VERB 정기/NOUN 세무조사를/NOUN 진행하고/VERB 있는/VERB 것으로/ADV 확인됐다/VERB ./PUNCT 
+또/ADV 닭꼬치는/NOUN 매콤한/ADJ 게/NOUN 가장/ADV 맛잇더라구요/ADJ ./PUNCT 
+인간의/NOUN 미녀로/ADV 변했지만/VERB ,/PUNCT 그/PRON 이전의/ADP 그녀/PRON 자신의/PRON 원래/ADV 상태에서도/ADV 스타일은/NOUN 발군이다/VERB ./PUNCT 
+뭔가/NOUN 더하고/VERB 변형해서/VERB 성능이/NOUN 나아진다면/VERB 제품이/NOUN 완전하지/VERB 못하다는/VERB 이야기고/VERB ,/PUNCT 제품이/NOUN 완전하다면/VERB 더하고/VERB 변형하는/VERB 것은/NOUN 제품의/NOUN 완결성을/NOUN 떨어뜨리는/VERB 행위가/NOUN 되기/NOUN 때문이다/VERB ./PUNCT 
+석유•화학제품/NOUN 수출/NOUN 증가에/ADV 힘입어/VERB 2003년/NOUN 37%에/ADV 불과했던/VERB 매출액/NOUN 대비/NOUN 수출/NOUN 비중은/NOUN 2007년/NOUN 처음으로/ADV 50%를/NOUN 돌파했고/VERB ,/PUNCT 지난해에는/NOUN 59.1%까지/ADV 올라섰다/VERB ./PUNCT 
+카우카/NOUN 주(Cauca)는/NOUN 콜롬비아의/NOUN 주로/ADV ,/PUNCT 주도는/NOUN 포파얀이다/VERB ./PUNCT 
+오라클에/ADV 대해/VERB 알아봐/VERB 
+본/NOUN 문서는/NOUN 역대/NOUN 영천시/NOUN 시장을/NOUN 정리한/VERB 것이다/VERB ./PUNCT 
+여럿이/NOUN 가면/VERB 만두도/NOUN 꼭/ADV 드셔보세요/VERB !/PUNCT 
+3M의/NOUN 제품은/NOUN 약/NOUN 200여/NOUN 나라에서/ADV 판매되고/VERB 있다/VERB ./PUNCT 
+친정/NOUN 엄마도/NOUN 모시고/VERB 갔는데/VERB 너무/ADV 좋아하시더라구요/ADJ 
+다만/ADV ,/PUNCT 이/DET 만요슈는/NOUN 공표되지는/VERB 않았는데/VERB ,/PUNCT 이는/PRON 엔랴쿠/NOUN 4년(785년)에/NOUN 야카모치가/NOUN 죽자/VERB 곧/ADV 오토모노/NOUN 쓰기히토()에/ADV 의한/VERB 후지와라노/NOUN 타네쓰구/NOUN ()/PUNCT 암살/NOUN 사건이/NOUN 발생해/VERB ,/PUNCT 야카모치도/NOUN 연좌되었기/NOUN 때문이다/VERB ./PUNCT 
+이것은/PRON 바꾸어/VERB 말해서/VERB 아무리/ADV 원시적/ADJ 사회라/VERB 할지라도/VERB 언어생활이/NOUN 이루어지는/VERB 사회에서는/ADV 문학의/NOUN 싹이/NOUN 숨쉬고/VERB 있다는/VERB 것이/NOUN 된다/VERB ./PUNCT 
+진짜/ADV 기름기/NOUN 많이/ADV 없고/VERB 보슬보슬하고/VERB 맛있어요/ADJ 
+퓨전레스토랑답게/ADV 메뉴는/NOUN 많지/VERB 않아도/VERB 남녀노소/NOUN 누구나/NOUN 즐길/VERB 수/NOUN 있는/VERB 고급요리가/NOUN 참/ADV 만족스럽습니다/ADJ ./PUNCT 
+고/ADJ 정주영/NOUN 회장에/ADV 단골집이라는데/VERB 기대를/NOUN 많이/ADV 해서/VERB 그런가/VERB 잘/ADV 모르겠네요/VERB 
+실행/NOUN 취소/NOUN ,/PUNCT 또는/CCONJ 실행/NOUN 취소했던/VERB 부분을/NOUN 다시/ADV 복구할/VERB 수/NOUN 있으며/VERB ,/PUNCT 줄/NOUN 번호/NOUN 매기기/NOUN ,/PUNCT 현재/NOUN 줄/NOUN 강조/NOUN ,/PUNCT 줄/NOUN 바꿈/NOUN 기능/NOUN ,/PUNCT 다양한/ADJ 언어의/NOUN 맞춤법/NOUN 검사도/NOUN 포함되어/VERB 있다/VERB ./PUNCT 
+게다가/ADV 나폴레옹이/NOUN 절대/ADV 외출하지/VERB 못하도록/VERB 집/NOUN 밖에/ADP 체격/NOUN 좋은/VERB 역사(力士)들만/NOUN 수십/NUM 명을/NOUN 골라/VERB 뽑아서/VERB 보초병으로/ADV 세워놓은/VERB 뒤/NOUN 나폴레옹이/NOUN 문을/NOUN 열고/VERB 나오면/VERB 심하게/ADV 구타한/VERB 후/NOUN 다시/ADV 집안으로/ADV 강제로/ADV 밀어넣기도/VERB 했다/VERB ./PUNCT 
+그는/PRON 또한/ADV 계원디자인예술대학의/NOUN 영화/NOUN 디자인/NOUN 교수로/ADV 재직하였다/VERB ./PUNCT 
+나하는/NOUN 오키나와/NOUN 현의/NOUN 현청/NOUN 소재지로/ADV 많은/ADJ 문화유산이/NOUN 남아/VERB 있는/VERB 도시이며/VERB ,/PUNCT 이시가키와/NOUN 미야코는/NOUN 자연환경이/NOUN 아름답고/VERB 해양/NOUN 스포츠를/NOUN 즐기기/NOUN 좋은/VERB 섬이다/VERB ./PUNCT 
+사람이/NOUN 없어서/VERB 그런지/VERB 시원시원하고/VERB 좋아요/ADJ 
+푸들이/NOUN 뭐냐/VERB 
+그리고/ADV 기다렸다/VERB ./PUNCT 
+원빈/NOUN 사진/NOUN 보여줘/VERB 
+한/NUM 마디로/ADV 제주도민/NOUN ,/PUNCT 국민들에게/ADV 보여드릴만한/VERB 가시적/ADJ 성과들이/NOUN 나타나기/NOUN 시작한/VERB 해였다/VERB ./PUNCT 
+이런/ADJ 이유로/ADV 열적으로/ADV 고립된/VERB 계의/NOUN 총/NOUN 엔트로피가/NOUN 감소하지/VERB 않는다/VERB ./PUNCT 
+다나카의/NOUN 수송선대에/ADV 있던/VERB 병력은/NOUN 대부분의/NOUN 중화기를/NOUN 버려놓고/VERB 쇼트랜드/NOUN 섬에/ADV 있던/VERB 구축함에/ADV 탑승하여/VERB 1942년/NOUN 8월/NOUN 29일에/NOUN 과달카날로/ADV 수송되었다/VERB ./PUNCT 
+앞서/ADV 8일/NOUN 오전/NOUN 롯데마트는/NOUN "9일부터/ADV 전국/NOUN 82개/NOUN 지점에서/ADV 프라이드/NOUN 치킨/NOUN 1마리를/NOUN 일반/NOUN 치킨/NOUN 전문점/NOUN 가격의/NOUN 3분의/NOUN 1수준인/VERB 5천원에/ADV 판매한다"고/VERB 밝혔다/VERB ./PUNCT 
+석벽은/NOUN 모난/ADJ 돌을/NOUN 다듬어/VERB 쌓아/VERB 올렸고/VERB ,/PUNCT 망루의/NOUN 벽은/NOUN 가나자와/NOUN 성에서도/ADV 볼/VERB 수/NOUN 있는/VERB 나마코카베로/ADV 불리는/VERB 격자형의/NOUN 외벽으로/ADV 장식되어/VERB 있다/VERB ./PUNCT 
+특히/ADV 쇠고기/NOUN 질이/NOUN 아주/ADV 좋네요/ADJ 
+먹고/VERB 먹고/VERB 해도/VERB 질리지가/VERB 않고/VERB 매콤하고/VERB 진짜/ADV 맛있어요/ADJ 
+그러나/ADV 고기잡이/NOUN 배의/NOUN 어망에/ADV 걸려들면서/VERB 이/DET 잠수정에/ADV 탄/VERB 사람들의/NOUN 마음/NOUN 속에는/ADP 일순간/ADV 죽음의/NOUN 그림자가/NOUN 드리워지기/NOUN 시작합니다/VERB ./PUNCT 
+1924년/NOUN 2월/NOUN 신흥청년동맹/NOUN 결성에/ADV 참여하여/VERB 상무집행위원이/NOUN 되었다/VERB ./PUNCT 
+막구이도/NOUN 맛있고/VERB 막창도/NOUN 죽여줍니다/ADJ 
+샤브샤브/NOUN 맛있게/ADV 먹고/VERB 산책도/NOUN 하고/VERB 좋았어요/ADJ 
+14일(현지시간)/NOUN 뉴욕외환시장에서/ADV 1개월물/NOUN 달러-원/NOUN 차액결제선물환(NDF)은/NOUN 장중/NOUN 1215원까지/ADV 하락했다가/VERB 낙폭을/NOUN 줄여/VERB 1220~1221원에/ADV 최종호가됐다/VERB ./PUNCT 
+안동찜닭은/NOUN 닭과/NOUN 채소를/NOUN 이용한/VERB 찜류의/NOUN 요리로서/ADV ,/PUNCT 경상북도/NOUN 안동에서/ADV 기원한/VERB 음식으로/ADV 알려져/VERB 있다/VERB ./PUNCT 
+하조대/NOUN 한/NUM 번/ADV 오셔서/VERB 한/NUM 번/ADV 드셔보세요/VERB 
+다시는/ADV 그런/ADJ 교회/NOUN 안/ADV 가겠다는/VERB 의견이/NOUN 다수였다/VERB ./PUNCT 
+클러치/NOUN 히터였던/VERB 그는/PRON 팀이/NOUN 필요할/VERB 때/NOUN 꼭/ADV 안타를/NOUN 치거나/VERB 볼넷을/NOUN 골라냈다/VERB ./PUNCT 
+믿고/VERB 드셔보세요/VERB 
+한적해서/ADV 데이트나/NOUN 가족/NOUN 소풍으로/ADV 조은/VERB 것/NOUN 같아요/ADJ 
+깔끔한/ADJ 음식에/ADV 맛도/NOUN 일품입니다/VERB 
+새콤달콤/ADJ 육수/NOUN 맛이/NOUN 끝내줘요^^/ADJ 
+넥센/NOUN 히어로즈에/ADV 대해/VERB 알려줘/VERB 
+수입차/NOUN 키를/NOUN 복제하러/VERB 같는데/VERB 아주/ADV 잘/ADV 맞습니다/VERB 
+가까운/ADJ 영화관/NOUN 좀/ADV 찾아줘/VERB 
+어머니는/NOUN 밀양박씨는/NOUN 사재감정(司宰監正)/NOUN 박홍신(朴弘信)의/NOUN 딸이다/VERB ./PUNCT 
+이종범/NOUN 정보/NOUN 좀/ADV 알려줘/VERB 
+삼영교통/NOUN 노동조합의/NOUN 설립신고/NOUN 수리를/NOUN 직권으로/ADV 취소한/VERB 제주시의/NOUN 처분이/NOUN 위법하다는/VERB 법원/NOUN 판결이/NOUN 나왔다/VERB ./PUNCT 
+이는/PRON 출애굽을/NOUN 위한/VERB 모세와/NOUN 바로의/NOUN 대결을/NOUN 넘어서/VERB 이집트/NOUN 땅/NOUN 가운데/ADP 만연해/VERB 있던/VERB 우상을/NOUN 하나님께서/NOUN 심판하시며/VERB 그분의/PRON 영광을/NOUN 보이신/VERB 일이었던/VERB 것처럼/ADV ,/PUNCT 이번/NOUN 시민혁명도/NOUN 하나님께서/NOUN 이집트/NOUN 땅/NOUN 가운데/ADP 새/ADJ 일을/NOUN 계획하고/VERB 있다는/VERB 관점에서/ADV 보아야/VERB 한다/VERB ./PUNCT 
+특히/ADV 이/PRON 중/ADP 미국에서/ADV 국제우편으로/ADV 몰래/ADV 들여온/VERB 맥주/NOUN 원료(잔토휴몰)를/NOUN 넣은/VERB 것으로/ADV 조사됐다/VERB ./PUNCT 
+1970년/NOUN 월드컵/NOUN 북중미/NOUN 지역/NOUN 예선에서/ADV 온두라스와/ADV 대결에서/ADV 서로/ADV 감정이/NOUN 격해지자/VERB ,/PUNCT 최종/NOUN 경기에서/ADV 엘살바도르가/NOUN 온두라스를/NOUN 이긴/VERB 뒤/NOUN 축구/NOUN 전쟁을/NOUN 한/VERB 바/NOUN 있다/ADJ ./PUNCT 
+구매자는/NOUN 주택구매/NOUN 시정부/NOUN 관련/NOUN 부서에/ADV 가정주택/NOUN 상황에/ADV 대한/VERB 조사를/NOUN 신청해야/VERB 하며/VERB 매매계약을/NOUN 체결할/VERB 때/NOUN 관련/NOUN 조사/NOUN 증명서를/NOUN 제공해야/VERB 한다/VERB ./PUNCT 
+다행히/ADV 너무/ADV 커서/VERB 머리에/ADV 맞지/VERB 않았던/VERB 모자에/ADV 새/ADJ 모자의/NOUN 속을/NOUN 종이로/ADV 채운/VERB 덕분에/ADV 목숨은/NOUN 구했다/VERB ./PUNCT 
+중요한/ADJ 건/NOUN 이/DET 분위기를/NOUN 어떻게/ADV 끝까지/ADV 이어가느냐가/NOUN 중요하다/ADJ ./PUNCT 
+만약/ADV 그런/ADJ 대회에서/ADV 아리랑이/NOUN 1등을/NOUN 했다/VERB 해도/VERB 아리랑/NOUN 세계화/NOUN 사업에/ADV 이용할/VERB 수/NOUN 없었을/VERB 겁니다/VERB ./PUNCT 
+파워펑크걸의/NOUN 리더로/ADV 블로섬의/NOUN 도플갱어/NOUN ./PUNCT 
+분위기가/NOUN 밝아서/VERB 얘기하거나/VERB 책/NOUN 보기/NOUN 좋아요/ADJ 
+이/NOUN 대통령은/NOUN 동시에/ADV 국제금융기구(IFI)들의/NOUN 지배구조개혁도/NOUN 언급하면서/VERB 국제통화기금(IMF)과/NOUN 세계은행(WB)/NOUN 등의/NOUN 우리나라/NOUN 지분율/NOUN 상향추진/NOUN 의사를/NOUN 재차/ADV 확인할/VERB 계획이다/VERB ./PUNCT 
+그렇지만/ADV 그/DET 영화는/NOUN 길게/ADV 이어지지/VERB 못했고/VERB 도자/NOUN 죄르지의/NOUN 농민/NOUN 전쟁(1514년/NOUN ),/PUNCT 중간/NOUN 귀족과/NOUN 대/NOUN 귀족의/NOUN 항쟁/NOUN 등이/NOUN 이어지며/VERB 나라는/NOUN 쇠퇴의/NOUN 길로/ADV 들어섰다/VERB ./PUNCT 
+저녁/NOUN 7시/NOUN 장사/NOUN 끝났다고/VERB 짜증내시네/VERB ./PUNCT 
+반찬/NOUN 맛이/NOUN 깔끔하고/VERB 다양하게/ADV 나오네요/VERB ./PUNCT 
+14일/NOUN 진천향교(전교/NOUN 봉원기)에/ADV 따르면/VERB 청주향교분부가/NOUN 세체납분이/NOUN 진천향교/NOUN 예금(적립금)에서/ADV 추심(推寻)됐다는/VERB 공문(5월/NOUN 24일자)을/NOUN 충북도향교재단으로부터/ADV 받았다/VERB ./PUNCT 
+증권사들의/NOUN 순이익은/NOUN 상반기/NOUN 전체로/ADV 보면/VERB 1조2천411억/NOUN 원으로/ADV 작년/NOUN 같은/VERB 기간에/ADV 비해/VERB 1.8%(218억/NOUN 원/NOUN )/PUNCT 늘었다/VERB ./PUNCT 
+양념게장이/NOUN 맛있어서/VERB 택배로/ADV 받아서/VERB 먹어보려구요/VERB 
+대전/NOUN 신세게/NOUN 백화점까지/ADV 걸어서/VERB 갈/VERB 수/NOUN 있냐/ADJ 
+안민터널은/NOUN 개통이래/ADV 2008년/NOUN 6월/NOUN 30일까지/ADV 다음과/ADV 같은/VERB 통행료를/NOUN 징수하고/VERB 있었다/VERB ./PUNCT 
+의약품/NOUN 몬테루카스트나트륨의/NOUN 자살/NOUN 경향에/ADV 대한/VERB 통합분석을/NOUN 실시한/VERB 결과/NOUN ,/PUNCT 이/DET 약을/NOUN 투여한/VERB 9,929명과/NOUN 위약을/NOUN 투여한/VERB 7,780명의/NOUN 환자/NOUN 중/NOUN ,/PUNCT 이/DET 약/NOUN 투여군/NOUN 중/ADP 1명의/NOUN 환자에서/ADV 자살충동이/NOUN 보고된/VERB 것으로/ADV 나타났다/VERB ./PUNCT 
+양팔과/NOUN 양다리를/NOUN 편/VERB 채로/ADV 양발을/NOUN 동일선상으로/ADV 복귀시키고/VERB 바벨을/NOUN 내려놓으라는/VERB 심판의/NOUN 신호를/NOUN 기다린다/VERB ./PUNCT 
+"스페셜올림픽에/ADV 나가고/VERB 싶다"고/VERB 말했다/VERB ./PUNCT 
+제주/NOUN 4박/NOUN 5일/NOUN 여행/NOUN 중/ADP 가장/ADV 실망스럽습니다/ADJ ./PUNCT 
+생체모방은/NOUN 바이오미메틱스(biomimetics)라고/VERB 불리기도/VERB 하며/VERB ,/PUNCT 비슷한/ADJ 단어에는/ADV 생체모사가/NOUN 있다/ADJ ./PUNCT 
+개념/NOUN 없는/VERB 인간들/NOUN 많이/ADV 옴/NOUN 
+그는/PRON 철저한/ADJ 현장형/NOUN 저널리스트다/VERB ./PUNCT 
+이자율은/NOUN 카드사별로/ADV 신한카드가/NOUN 7.6~26.9/NOUN %,/PUNCT 삼성카드가/NOUN 7.9~24.9/NOUN %,/PUNCT 하나SK카드가/NOUN 6.9~24.9/NOUN %,/PUNCT 국민은행이/NOUN 7.5~26.5%/NOUN 등이다/VERB ./PUNCT 
+경기도/NOUN 양평군/NOUN 용문면/NOUN 신점리/NOUN 용문사내에/ADV 있는/VERB 은행나무로/ADV 나이가/NOUN 약1,100~1,500여년으로/ADV 추정되며/VERB 높이/NOUN 42m/NOUN ,/PUNCT 밑둥/NOUN 둘레가/NOUN 14m로/ADV 동양에서는/ADV 가장/ADV 큰/VERB 은행나무이다/VERB ./PUNCT 
+2008년/NOUN 처음/ADV 국가대표팀에/ADV 발탁되었으며/VERB 2009년/NOUN 이란과의/ADV 경기에서/ADV 골을/NOUN 터뜨리며/VERB A매치/NOUN 데뷔골을/NOUN 성공시켰다/VERB ./PUNCT 
+최충협/NOUN 관장은/NOUN "시니어들의/NOUN 삶의/NOUN 질/NOUN 향상과/NOUN 노후생활/NOUN 개선/NOUN 등은/NOUN 물론/VERB 일자리/NOUN 사업/NOUN 확충에도/ADV 나서/VERB 어르신을/NOUN 섬기고/VERB 지역과/ADV 함께하는/VERB 복지관으로/ADV 성장할/VERB 수/NOUN 있도록/VERB 구성원과/ADV 함께/ADV 노력해/VERB 나가겠다"고/VERB 다짐했다/VERB ./PUNCT 
+이/DET 병의/NOUN 증상은/NOUN 쉽게/ADV 말해/VERB '죽을/VERB 때까지/ADV 잠들/VERB 수/NOUN 없는/VERB 것'이다./VERB 
+핫핑크/NOUN ,/PUNCT 옐로우/NOUN ,/PUNCT 그린/NOUN 등/NOUN 새콤/NOUN 달콤한/ADJ 느낌의/NOUN 애시드/NOUN 컬러로/ADV 구성된/VERB 피케/NOUN 셔츠/NOUN ,/PUNCT 슬림한/ADJ 디자인에/NOUN 짧은/ADJ 깃이/NOUN 포인트인/VERB 피케/NOUN 셔츠/NOUN 등과/ADV 더불어/VERB 20대/NOUN 여성/NOUN 고객에게는/NOUN 화이트에/ADV 아일릿/NOUN 디테일을/NOUN 더해/VERB 여성스러우면서도/VERB 깔끔한/VERB 이미지를/NOUN 제안할/VERB 예정이다/VERB ./PUNCT 
+쌀피자라/NOUN 그런지/VERB 밀가루/NOUN 피자보다/ADV 먹고/VERB 나면/VERB 속이/NOUN 편해요/ADJ 
+2006년/NOUN 8월/NOUN 투레는/NOUN 재계약을/NOUN 맺는데/VERB 2010년까지/ADV 되어있고/VERB 주급은/NOUN 7만파운드를/NOUN 받는다/VERB ./PUNCT 
+잘/ADV 고치구/VERB 가격도/NOUN 싸네요/ADJ 
+입체음향이란/NOUN 방향과/NOUN 거리/NOUN ,/PUNCT 공간감각을/NOUN 느낄/VERB 수/NOUN 있는/VERB 소리를/NOUN 말한다/VERB ./PUNCT 
+도요타는/NOUN 이후/ADV 제품/NOUN 결함이/NOUN 발생한/VERB 원인을/NOUN 상세하게/ADV 조사/NOUN ,/PUNCT 책임/NOUN 소재에/ADV 따라서/VERB CTS측에/NOUN 비용을/NOUN 청구할/VERB 방침이다/VERB ./PUNCT 
+2012년/NOUN 1월/NOUN 10일부터/ADV 속편이/NOUN 연속/NOUN TV/NOUN 드라마로서/ADV 화요일/NOUN 21시/NOUN 범위에/ADV 방송되었다/VERB ./PUNCT 
+이런/ADJ 가운데/NOUN 지역/NOUN 사회단체인/VERB 아산시/NOUN 자율방범대연합대/NOUN ,/PUNCT 아산시/NOUN 의용소방대연합대/NOUN ,/PUNCT (사)해병전우회/NOUN 아산지회/NOUN 등이/NOUN 어려움을/NOUN 함께/ADV 극복하겠다며/VERB 초소근무지원을/NOUN 지원하고/VERB 있어/VERB 좋은/ADJ 대조를/NOUN 보이고/VERB 있다/VERB ./PUNCT 
+가격도/NOUN 저렴하고/VERB 특히/ADV 술/NOUN 마시고/VERB 난/VERB 다음/NOUN 해장으로도/ADV 짱짱/ADJ !/PUNCT 
+고객관리에/ADV 어려움을/NOUN 겪는/VERB 중소기업에도/NOUN 집단지성은/NOUN 귀기울일만한/VERB 이야기를/NOUN 들려준다/VERB ./PUNCT 
+이/DET 논문은/NOUN 선교사적인/ADJ 관점에서/ADV 1885년부터/ADV 1930년까지의/NOUN 한국/NOUN 감리교회사를/NOUN 서술한/VERB 것으로/ADV 한국/NOUN 감리교회의/NOUN 발전에/ADV 대한/VERB 미국/NOUN 감리교회와/NOUN 선교사들의/NOUN 공헌과/NOUN 선교정책의/NOUN 특징이/NOUN 강조되고/VERB 있다/VERB ./PUNCT 
+교장은/NOUN 최수철이고/VERB 교목은/NOUN 주목/NOUN ,/PUNCT 교화는/NOUN 목련이다/VERB ./PUNCT 
+1999년/NOUN 레킷앤드콜먼과/NOUN 벤키저의/NOUN 합병으로/ADV 탄생한/VERB 종합/NOUN 생활용품/NOUN 업체인데/VERB ,/PUNCT 두/NUM 회사는/NOUN 19세기/NOUN 전반부터/ADV 이어져/VERB 온/VERB 오래/ADV 된/VERB 회사였다/VERB ./PUNCT 
+요즘엔/ADV 컴터학원이/NOUN 없어서/VERB 긴가민가하고/ADV 다녔는데/VERB 짧은/ADJ 시간에/ADV 중요한/ADJ 부분만/NOUN 콕/ADV 찝어/VERB 잘/ADV 가르쳐/VERB 주셨어요/VERB ./PUNCT 
+이미지/NOUN 컬러는/NOUN 빨강~핑크/NOUN ./PUNCT 
+안토니오/NOUN 사마라스/NOUN 당수는/NOUN 성명을/NOUN 통해/VERB 확약서/NOUN 제출/NOUN 요구에/ADV 대해/VERB "국가에/ADV 대한/VERB 존엄이/NOUN 있다"며/VERB 불쾌감을/NOUN 드러냈다/VERB ./PUNCT 
+보기와/ADV 다르게/VERB 들어가면/VERB 넓고요/ADJ 
+그는/PRON 녹취록/NOUN 존재/NOUN 여부과/ADV 관련해/VERB "통일부/NOUN 장관이/NOUN 지난/VERB 2일/NOUN 국회/NOUN 답변과정에서/ADV 밝혔듯/VERB ,/PUNCT 우리에게/ADV 녹취록은/NOUN 없다"면서/VERB "다만/ADV 녹음/NOUN 등/NOUN 북측이/NOUN 주장하는대로/ADV 기록이/NOUN 존재한다면/VERB 더이상/ADV 이런/ADJ 식으로/ADV 사실을/NOUN 왜곡하지/VERB 말고/VERB 모든/DET 내용을/NOUN 있는/VERB 그대로/ADV 밝히라는/VERB 게/NOUN 정부/NOUN 입장"이라고/VERB 말했다/VERB ./PUNCT 
+35세/NOUN ,/PUNCT 카즈오가/NOUN 고용한/VERB 미오의/NOUN 가정부/NOUN ./PUNCT 
+특히/ADV 메인/ADJ 사진사께서는/NOUN 가위질의/NOUN 달인이시기도/NOUN 해요/VERB 
+약칭으로는/ADV 성대/NOUN ,/PUNCT 영문이니셜은/NOUN SKKU라고/VERB 불린다/VERB ./PUNCT 
+정말/ADV 밀가루/NOUN 맛이/NOUN 끝내줍니다/ADJ 
+북한/NOUN 김정일/NOUN 국방위원장이/NOUN 강성대국/NOUN 진입을/NOUN 선포한/VERB 2012년을/NOUN 눈/NOUN 앞에/ADP 두고/VERB 사망했습니다/VERB ./PUNCT 
+개인적으로/ADV 친절하고/VERB 진실된/ADJ 마음으로/ADV 진료하시는/VERB 원장님입니다/VERB 
+재정부는/NOUN 또/ADV FTA/NOUN 체결에/ADV 따른/VERB 관세이행의/NOUN 업무가/NOUN 늘어남에/ADV 따라/VERB FTA관세이행과를/NOUN 신설해/VERB 인력/NOUN 5명을/NOUN 늘렸다/VERB ./PUNCT 
+약간/ADV 매워도/VERB 맛나네요/ADJ ./PUNCT 
+맥도날드/ADV 어떻게/ADV 가니/VERB 
+부상당한/VERB 사내는/NOUN 정종욱(당시/NOUN 34세/NOUN ),/PUNCT 숨진/VERB 여인은/NOUN 정인숙(당시/NOUN 25세)으로/ADV 두/NUM 사람은/NOUN 남매/NOUN 관계로/ADV 밝혀졌다/VERB ./PUNCT 
+싸고/VERB 맛있어요/ADJ 
+요즘/NOUN 들어/VERB 안/ADV 가봤지만/VERB 맛있었던/VERB 걸로/ADV 기억합니다/VERB 
+지난/VERB 15일/NOUN '2010/NOUN 아시아모델상/NOUN '/PUNCT 시상식에서/ADV 고고하면서도/VERB 섹시한/VERB 드레스를/NOUN 선보였다/VERB ./PUNCT 
+차가/NOUN 작다고/VERB 무시/NOUN 당하고/VERB 서비스가/NOUN 재수/NOUN 없음/NOUN 
